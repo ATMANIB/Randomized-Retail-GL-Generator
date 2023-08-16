@@ -30,3 +30,38 @@ Every batch of entries is followed by a transaction description to provide conte
 
 ## Contribution
 Feel free to fork this repository and make improvements or adapt the script to other industries or specific needs. Pull requests and enhancements are welcome!
+
+## About Analytical Ants
+
+**Analytical Ants** provides systems ("Ants") that systematically increase operational efficiencies and yields through dynamic data insights, data architecture, and processes. Our team takes pride in delivering these insights through a holistic approach encompassing a large portion of the data-pipeline, particularly emphasizing on warehousing, machine learning, and reporting.
+
+### Our Core Services:
+
+#### Warehousing and Machine Learning:
+- Supervised & unsupervised ML data analysis.
+- ML server integration.
+- Star schema data modeling.
+- Implementing enterprise data warehouse bus architecture.
+- Server object scripting and scheduling (ETL).
+
+#### Analysis Services & Reporting (PBI/Excel):
+1. **Architectural Planning:** 
+   - Server Selection (on-prem vs. premium).
+   - Load Balancing.
+   - Deployment Strategies.
+   - Monitoring Tabular Solutions.
+   - Security.
+2. **Data Modeling:** 
+   - Model Selection & Procurement.
+   - Partitioning Strategies.
+   - Model Optimizations.
+   - Ingestion Strategies.
+   - Relationship Design.
+3. **Reporting:** 
+   - Visualizations.
+   - DAX optimizations.
+   - JSON configurations.
+   - Report Optimizations & Design.
+
+### Let's Collaborate!
+Whether you are just starting out in data analytics or looking to optimize your existing systems, our team at Analytical Ants is here to guide and support you. Connect with us today to partner in ‘Procuring Insights for YOUR Success’! For inquiries and potential collaborations, please [contact us](https://analyticalants.co/contact-us/)
