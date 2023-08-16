@@ -25,7 +25,7 @@ Every batch of entries is followed by a transaction description to provide conte
 ## How to Use
 1. Clone the repository.
 2. Navigate to the directory containing the script.
-3. Run the script using Python: `python your_script_name.py`.
+3. Open and run the notebook: `Randomized Retail GL Generator.ipynb` using Jupyter Notebook or Jupyter Lab.
 4. A CSV file named `Synthetic_Retail_GL_Data.csv` will be generated in the same directory with the randomized ledger entries.
 
 ## Resources
