@@ -26,7 +26,11 @@ Every batch of entries is followed by a transaction description to provide conte
 1. Clone the repository.
 2. Navigate to the directory containing the script.
 3. Run the script using Python: `python your_script_name.py`.
-4. A CSV file named `general_ledger.csv` will be generated in the same directory with the randomized ledger entries.
+4. A CSV file named `Synthetic_Retail_GL_Data.csv` will be generated in the same directory with the randomized ledger entries.
+
+## Resources
+- [Jupyter Notebook with the Code](https://github.com/AnalyticalAnts/Randomized-Retail-GL-Generator/blob/main/Randomized%20Retail%20GL%20Generator.ipynb)
+- [Generated Output Data (CSV)](https://github.com/AnalyticalAnts/Randomized-Retail-GL-Generator/blob/main/Synthetic_Retail_GL_Data.csv)
 
 ## Contribution
 Feel free to fork this repository and make improvements or adapt the script to other industries or specific needs. Pull requests and enhancements are welcome!
