@@ -9,6 +9,7 @@ This repository hosts a Python script that generates a randomized, yet logical, 
 - Randomized transaction dates within a span of the past two years, ensuring a realistic time flow.
 - Incorporates descriptions for transactions to emulate real-world scenarios.
 - Error handling in place to warn users if the output CSV file is already open.
+- Maintains Accounting Integrity: The script ensures that the accounting equation (Assets = Liabilities + Owner's Equity) always holds true. Any discrepancy found is adjusted against the Owner's Equity account to ensure data integrity.
 
 ## Structure
 The general ledger entries generated include the following fields:
