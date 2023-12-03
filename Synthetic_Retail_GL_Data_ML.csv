@@ -1,0 +1,3660 @@
+BATCH,DATE,ACCOUNT,ACCOUNT DESCRIPTION,DR,CR
+1,2021-12-02,101,Cash,66403.49,0
+1,2021-12-02,301,Owner's Equity,0,66403.49
+2,Description:,Sales completed,,,,
+3,2021-12-09,101,Cash,0,5934.05
+3,2021-12-09,202,Loan Payable,5934.05,0
+3,Description:,Loan account adjustments,,,,
+4,Description:,Items sold,,,,
+5,Description:,Sales completed,,,,
+6,2021-12-16,101,Cash,9701.19,0
+6,2021-12-16,202,Loan Payable,0,9701.19
+6,Description:,Loan activity,,,,
+7,2021-12-26,101,Cash,8407.06,0
+7,2021-12-26,202,Loan Payable,0,8407.06
+7,Description:,Loan activity,,,,
+8,2022-01-02,502,Rent Expense,2102.74,0
+8,2022-01-02,503,Salary Expense,3581.92,0
+8,2022-01-02,101,Cash,0,5684.66
+8,Description:,Regular expenses,,,,
+8,2022-01-06,301,Owner's Equity,5684.6600000000035,0
+9,Description:,Goods exchanged for money,,,,
+10,Description:,Items sold,,,,
+11,Description:,Debt payment,,,,
+12,Description:,Items sold,,,,
+13,2022-01-26,101,Cash,0,5058.55
+13,2022-01-26,202,Loan Payable,5058.55,0
+13,Description:,Loan account adjustments,,,,
+14,2022-02-01,101,Cash,0,5307.63
+14,2022-02-01,202,Loan Payable,5307.63,0
+14,Description:,Loan account adjustments,,,,
+14,2022-02-09,301,Owner's Equity,7.275957614183426e-12,0
+15,Description:,Reduced payable amount,,,,
+15,2022-02-13,301,Owner's Equity,0,7.275957614183426e-12
+16,2022-02-13,101,Cash,0,5400.23
+16,2022-02-13,202,Loan Payable,5400.23,0
+16,Description:,Loan activity,,,,
+16,2022-02-19,301,Owner's Equity,7.275957614183426e-12,0
+17,2022-02-19,103,Inventory,1175.65,0
+17,2022-02-19,201,Accounts Payable,0,1175.65
+17,Description:,Goods purchased,,,,
+18,2022-02-28,101,Cash,0,9176.32
+18,2022-02-28,202,Loan Payable,9176.32,0
+18,Description:,Loan activity,,,,
+19,2022-03-05,103,Inventory,3881.55,0
+19,2022-03-05,201,Accounts Payable,0,3881.55
+19,Description:,Added to inventory,,,,
+20,2022-03-12,201,Accounts Payable,540.91,0
+20,2022-03-12,101,Cash,0,540.91
+20,Description:,Paid off a creditor,,,,
+21,2022-03-15,502,Rent Expense,1969.33,0
+21,2022-03-15,503,Salary Expense,5887.51,0
+21,2022-03-15,101,Cash,0,7856.84
+21,Description:,Monthly bills paid,,,,
+21,2022-03-24,301,Owner's Equity,7856.840000000011,0
+22,2022-03-24,103,Inventory,2572.26,0
+22,2022-03-24,201,Accounts Payable,0,2572.26
+22,Description:,Goods purchased,,,,
+23,2022-04-03,103,Inventory,4522.83,0
+23,2022-04-03,201,Accounts Payable,0,4522.83
+23,Description:,Added to inventory,,,,
+23,2022-04-13,301,Owner's Equity,0,7.275957614183426e-12
+24,2022-04-13,401,Sales Revenue,0,8743.04
+24,2022-04-13,501,Cost of Goods Sold,5682.976000000001,0
+24,2022-04-13,103,Inventory,0,5682.976000000001
+24,2022-04-13,101,Cash,8743.04,0
+24,Description:,Sales completed,,,,
+24,2022-04-20,301,Owner's Equity,0,3060.063999999991
+25,2022-04-20,401,Sales Revenue,0,7053.84
+25,2022-04-20,501,Cost of Goods Sold,4584.996,0
+25,2022-04-20,103,Inventory,0,4584.996
+25,2022-04-20,101,Cash,7053.84,0
+25,Description:,Items sold,,,,
+25,2022-04-26,301,Owner's Equity,0,2468.844000000012
+26,Description:,Sales completed,,,,
+27,2022-05-04,101,Cash,0,6325.65
+27,2022-05-04,202,Loan Payable,6325.65,0
+27,Description:,Loan activity,,,,
+27,2022-05-08,301,Owner's Equity,7.275957614183426e-12,0
+28,2022-05-08,103,Inventory,4863.17,0
+28,2022-05-08,201,Accounts Payable,0,4863.17
+28,Description:,Goods purchased,,,,
+29,2022-05-09,103,Inventory,2286.25,0
+29,2022-05-09,201,Accounts Payable,0,2286.25
+29,Description:,Goods purchased,,,,
+29,2022-05-14,301,Owner's Equity,0,7.275957614183426e-12
+30,2022-05-14,401,Sales Revenue,0,4839.01
+30,2022-05-14,501,Cost of Goods Sold,3145.3565000000003,0
+30,2022-05-14,103,Inventory,0,3145.3565000000003
+30,2022-05-14,102,Accounts Receivable,4839.01,0
+30,Description:,Items sold,,,,
+30,2022-05-24,301,Owner's Equity,0,1693.6535000000003
+31,2022-05-24,201,Accounts Payable,1128.89,0
+31,2022-05-24,101,Cash,0,1128.89
+31,Description:,Debt payment,,,,
+32,2022-05-26,401,Sales Revenue,0,5771.94
+32,2022-05-26,501,Cost of Goods Sold,3751.761,0
+32,2022-05-26,103,Inventory,0,3751.761
+32,2022-05-26,101,Cash,5771.94,0
+32,Description:,Items sold,,,,
+32,2022-05-28,301,Owner's Equity,0,2020.1790000000037
+33,2022-05-28,201,Accounts Payable,10882.1,0
+33,2022-05-28,101,Cash,0,10882.1
+33,Description:,Debt payment,ANOMALY,,,
+34,2022-06-01,502,Rent Expense,1129.62,0
+34,2022-06-01,503,Salary Expense,4410.4,0
+34,2022-06-01,101,Cash,0,5540.0199999999995
+34,Description:,Regular expenses,,,,
+34,2022-06-06,301,Owner's Equity,5540.019999999997,0
+35,2022-06-06,103,Inventory,2874.22,0
+35,2022-06-06,201,Accounts Payable,0,2874.22
+35,Description:,Restocking products,,,,
+35,2022-06-15,301,Owner's Equity,7.275957614183426e-12,0
+36,2022-06-15,103,Inventory,2839.96,0
+36,2022-06-15,201,Accounts Payable,0,2839.96
+36,Description:,Restocking products,,,,
+37,2022-06-24,101,Cash,0,7072.93
+37,2022-06-24,202,Loan Payable,7072.93,0
+37,Description:,Loan activity,,,,
+37,2022-06-30,301,Owner's Equity,0,1.4551915228366852e-11
+38,2022-06-30,401,Sales Revenue,0,9127.24
+38,2022-06-30,501,Cost of Goods Sold,5932.706,0
+38,2022-06-30,103,Inventory,0,5932.706
+38,2022-06-30,101,Cash,9127.24,0
+38,Description:,Sales completed,,,,
+38,2022-07-08,301,Owner's Equity,0,3194.5339999999924
+39,Description:,Items sold,ANOMALY,,,
+39,2022-07-15,301,Owner's Equity,7.275957614183426e-12,0
+40,2022-07-15,502,Rent Expense,1467.43,0
+40,2022-07-15,503,Salary Expense,2717.71,0
+40,2022-07-15,101,Cash,0,4185.14
+40,Description:,Operational costs deducted,,,,
+40,2022-07-18,301,Owner's Equity,4185.139999999992,0
+41,Description:,Items sold,,,,
+41,2022-07-26,301,Owner's Equity,7.275957614183426e-12,0
+42,Description:,Sales completed,,,,
+42,2022-07-29,301,Owner's Equity,0,7.275957614183426e-12
+43,Description:,Sales completed,,,,
+43,2022-08-01,301,Owner's Equity,7.275957614183426e-12,0
+44,2022-08-01,201,Accounts Payable,1459.79,0
+44,2022-08-01,101,Cash,0,1459.79
+44,Description:,Debt payment,,,,
+45,2022-08-09,103,Inventory,4548.68,0
+45,2022-08-09,201,Accounts Payable,0,4548.68
+45,Description:,Goods purchased,,,,
+45,2022-08-18,301,Owner's Equity,0,7.275957614183426e-12
+46,2022-08-18,502,Rent Expense,1061.82,0
+46,2022-08-18,503,Salary Expense,3368.04,0
+46,2022-08-18,101,Cash,0,4429.86
+46,Description:,Monthly bills paid,,,,
+46,2022-08-24,301,Owner's Equity,4429.860000000008,0
+47,2022-08-24,502,Rent Expense,1712.21,0
+47,2022-08-24,503,Salary Expense,5771.61,0
+47,2022-08-24,101,Cash,0,7483.82
+47,Description:,Operational costs deducted,,,,
+47,2022-08-26,301,Owner's Equity,7483.819999999992,0
+48,2022-08-26,201,Accounts Payable,18654.0,0
+48,2022-08-26,101,Cash,0,18654.0
+48,Description:,Paid off a creditor,ANOMALY,,,
+48,2022-08-30,301,Owner's Equity,3.637978807091713e-12,0
+49,2022-08-30,103,Inventory,2595.01,0
+49,2022-08-30,201,Accounts Payable,0,2595.01
+49,Description:,Added to inventory,,,,
+49,2022-09-03,301,Owner's Equity,0,7.275957614183426e-12
+50,2022-09-03,502,Rent Expense,998.76,0
+50,2022-09-03,503,Salary Expense,5213.57,0
+50,2022-09-03,101,Cash,0,6212.33
+50,Description:,Monthly bills paid,,,,
+50,2022-09-08,301,Owner's Equity,6212.330000000002,0
+51,2022-09-08,101,Cash,0,5028.0
+51,2022-09-08,202,Loan Payable,5028.0,0
+51,Description:,Loan account adjustments,,,,
+52,2022-09-13,401,Sales Revenue,0,4984.48
+52,2022-09-13,501,Cost of Goods Sold,3239.912,0
+52,2022-09-13,103,Inventory,0,3239.912
+52,2022-09-13,101,Cash,4984.48,0
+52,Description:,Goods exchanged for money,,,,
+52,2022-09-18,301,Owner's Equity,0,1744.5679999999993
+53,Description:,Sales completed,,,,
+54,Description:,Items sold,,,,
+55,2022-09-23,101,Cash,0,6641.95
+55,2022-09-23,202,Loan Payable,6641.95,0
+55,Description:,Loan activity,,,,
+55,2022-10-03,301,Owner's Equity,1.8189894035458565e-12,0
+56,2022-10-03,401,Sales Revenue,0,3938.58
+56,2022-10-03,501,Cost of Goods Sold,2560.077,0
+56,2022-10-03,103,Inventory,0,2560.077
+56,2022-10-03,102,Accounts Receivable,3938.58,0
+56,Description:,Goods exchanged for money,,,,
+56,2022-10-13,301,Owner's Equity,0,1378.5029999999979
+57,2022-10-13,101,Cash,0,7200.79
+57,2022-10-13,202,Loan Payable,7200.79,0
+57,Description:,Loan account adjustments,,,,
+57,2022-10-18,301,Owner's Equity,0,9.094947017729282e-13
+58,2022-10-18,103,Inventory,2647.83,0
+58,2022-10-18,201,Accounts Payable,0,2647.83
+58,Description:,Restocking products,,,,
+58,2022-10-26,301,Owner's Equity,9.094947017729282e-13,0
+59,2022-10-26,103,Inventory,942.48,0
+59,2022-10-26,201,Accounts Payable,0,942.48
+59,Description:,Goods purchased,,,,
+59,2022-10-31,301,Owner's Equity,3.637978807091713e-12,0
+60,2022-10-31,101,Cash,0,9906.79
+60,2022-10-31,202,Loan Payable,9906.79,0
+60,Description:,Loan account adjustments,,,,
+60,2022-11-02,301,Owner's Equity,0,3.637978807091713e-12
+61,2022-11-02,101,Cash,0,5777.61
+61,2022-11-02,202,Loan Payable,5777.61,0
+61,Description:,Loan activity,,,,
+61,2022-11-08,301,Owner's Equity,0,3.637978807091713e-12
+62,2022-11-08,401,Sales Revenue,0,3376.44
+62,2022-11-08,501,Cost of Goods Sold,2194.686,0
+62,2022-11-08,103,Inventory,0,2194.686
+62,2022-11-08,101,Cash,3376.44,0
+62,Description:,Sales completed,,,,
+62,2022-11-14,301,Owner's Equity,0,1181.7540000000026
+63,2022-11-14,103,Inventory,1603.78,0
+63,2022-11-14,201,Accounts Payable,0,1603.78
+63,Description:,Restocking products,,,,
+63,2022-11-22,301,Owner's Equity,0,3.637978807091713e-12
+64,2022-11-22,401,Sales Revenue,0,3313.74
+64,2022-11-22,501,Cost of Goods Sold,2153.931,0
+64,2022-11-22,103,Inventory,0,2153.931
+64,2022-11-22,102,Accounts Receivable,3313.74,0
+64,Description:,Goods exchanged for money,,,,
+64,2022-12-02,301,Owner's Equity,0,1159.8090000000047
+65,2022-12-02,103,Inventory,2531.41,0
+65,2022-12-02,201,Accounts Payable,0,2531.41
+65,Description:,Goods purchased,,,,
+66,2022-12-10,201,Accounts Payable,838.14,0
+66,2022-12-10,101,Cash,0,838.14
+66,Description:,Reduced payable amount,,,,
+67,2022-12-16,201,Accounts Payable,842.89,0
+67,2022-12-16,101,Cash,0,842.89
+67,Description:,Paid off a creditor,,,,
+68,2022-12-22,401,Sales Revenue,0,8650.95
+68,2022-12-22,501,Cost of Goods Sold,5623.1175,0
+68,2022-12-22,103,Inventory,0,5623.1175
+68,2022-12-22,101,Cash,8650.95,0
+68,Description:,Sales completed,,,,
+68,2022-12-25,301,Owner's Equity,0,3027.8324999999986
+69,2022-12-25,101,Cash,6685.31,0
+69,2022-12-25,202,Loan Payable,0,6685.31
+69,Description:,Loan account adjustments,,,,
+69,2022-12-29,301,Owner's Equity,0,5.4569682106375694e-12
+70,2022-12-29,201,Accounts Payable,1961.93,0
+70,2022-12-29,101,Cash,0,1961.93
+70,Description:,Paid off a creditor,,,,
+70,2023-01-04,301,Owner's Equity,1.8189894035458565e-12,0
+71,2023-01-04,502,Rent Expense,1620.0,0
+71,2023-01-04,503,Salary Expense,4033.53,0
+71,2023-01-04,101,Cash,0,5653.530000000001
+71,Description:,Monthly bills paid,,,,
+71,2023-01-08,301,Owner's Equity,5653.530000000001,0
+72,2023-01-08,101,Cash,0,7501.92
+72,2023-01-08,202,Loan Payable,7501.92,0
+72,Description:,Loan activity,,,,
+73,Description:,Sales completed,,,,
+74,2023-01-18,201,Accounts Payable,1689.3,0
+74,2023-01-18,101,Cash,0,1689.3
+74,Description:,Debt payment,,,,
+75,2023-01-19,103,Inventory,24096.8,0
+75,2023-01-19,201,Accounts Payable,0,24096.8
+75,Description:,Added to inventory,ANOMALY,,,
+75,2023-01-20,301,Owner's Equity,3.637978807091713e-12,0
+76,2023-01-20,101,Cash,0,7459.67
+76,2023-01-20,202,Loan Payable,7459.67,0
+76,Description:,Loan activity,,,,
+76,2023-01-26,301,Owner's Equity,3.637978807091713e-12,0
+77,2023-01-26,103,Inventory,4131.41,0
+77,2023-01-26,201,Accounts Payable,0,4131.41
+77,Description:,Added to inventory,,,,
+78,2023-01-29,401,Sales Revenue,0,3816.24
+78,2023-01-29,501,Cost of Goods Sold,2480.556,0
+78,2023-01-29,103,Inventory,0,2480.556
+78,2023-01-29,102,Accounts Receivable,3816.24,0
+78,Description:,Sales completed,,,,
+78,2023-01-31,301,Owner's Equity,0,1335.6839999999975
+79,2023-01-31,401,Sales Revenue,0,6866.79
+79,2023-01-31,501,Cost of Goods Sold,4463.413500000001,0
+79,2023-01-31,103,Inventory,0,4463.413500000001
+79,2023-01-31,101,Cash,6866.79,0
+79,Description:,Sales completed,,,,
+79,2023-02-01,301,Owner's Equity,0,2403.3765000000058
+80,2023-02-01,201,Accounts Payable,704.51,0
+80,2023-02-01,101,Cash,0,704.51
+80,Description:,Reduced payable amount,,,,
+80,2023-02-04,301,Owner's Equity,7.275957614183426e-12,0
+81,2023-02-04,401,Sales Revenue,0,8060.03
+81,2023-02-04,501,Cost of Goods Sold,5239.0195,0
+81,2023-02-04,103,Inventory,0,5239.0195
+81,2023-02-04,102,Accounts Receivable,8060.03,0
+81,Description:,Goods exchanged for money,,,,
+81,2023-02-05,301,Owner's Equity,0,2821.0104999999967
+82,2023-02-05,101,Cash,0,6883.59
+82,2023-02-05,202,Loan Payable,6883.59,0
+82,Description:,Loan activity,,,,
+82,2023-02-14,301,Owner's Equity,7.275957614183426e-12,0
+83,2023-02-14,401,Sales Revenue,0,2782.06
+83,2023-02-14,501,Cost of Goods Sold,1808.339,0
+83,2023-02-14,103,Inventory,0,1808.339
+83,2023-02-14,101,Cash,2782.06,0
+83,Description:,Items sold,,,,
+83,2023-02-21,301,Owner's Equity,0,973.7209999999977
+84,2023-02-21,101,Cash,0,5605.34
+84,2023-02-21,202,Loan Payable,5605.34,0
+84,Description:,Bank interactions,,,,
+85,2023-02-26,401,Sales Revenue,0,10016.6
+85,2023-02-26,501,Cost of Goods Sold,6510.790000000001,0
+85,2023-02-26,103,Inventory,0,6510.790000000001
+85,2023-02-26,101,Cash,10016.6,0
+85,Description:,Goods exchanged for money,,,,
+85,2023-02-28,301,Owner's Equity,0,3505.8099999999977
+86,2023-02-28,401,Sales Revenue,0,3164.9
+86,2023-02-28,501,Cost of Goods Sold,2057.185,0
+86,2023-02-28,103,Inventory,0,2057.185
+86,2023-02-28,102,Accounts Receivable,3164.9,0
+86,Description:,Goods exchanged for money,,,,
+86,2023-03-07,301,Owner's Equity,0,1107.715000000002
+87,2023-03-07,101,Cash,0,6067.48
+87,2023-03-07,202,Loan Payable,6067.48,0
+87,Description:,Bank interactions,,,,
+87,2023-03-12,301,Owner's Equity,9.094947017729282e-12,0
+88,2023-03-12,201,Accounts Payable,1567.34,0
+88,2023-03-12,101,Cash,0,1567.34
+88,Description:,Reduced payable amount,,,,
+88,2023-03-19,301,Owner's Equity,1.8189894035458565e-12,0
+89,2023-03-19,201,Accounts Payable,1211.67,0
+89,2023-03-19,101,Cash,0,1211.67
+89,Description:,Debt payment,,,,
+89,2023-03-29,301,Owner's Equity,0,5.4569682106375694e-12
+90,Description:,Items sold,,,,
+90,2023-04-08,301,Owner's Equity,1.8189894035458565e-12,0
+91,2023-04-08,103,Inventory,3388.68,0
+91,2023-04-08,201,Accounts Payable,0,3388.68
+91,Description:,Goods purchased,,,,
+91,2023-04-11,301,Owner's Equity,1.8189894035458565e-12,0
+92,2023-04-11,101,Cash,5610.16,0
+92,2023-04-11,202,Loan Payable,0,5610.16
+92,Description:,Loan account adjustments,,,,
+92,2023-04-16,301,Owner's Equity,1.8189894035458565e-12,0
+93,2023-04-16,502,Rent Expense,1247.62,0
+93,2023-04-16,503,Salary Expense,2613.13,0
+93,2023-04-16,101,Cash,0,3860.75
+93,Description:,Regular expenses,,,,
+93,2023-04-23,301,Owner's Equity,3860.750000000002,0
+94,2023-04-23,201,Accounts Payable,610.2,0
+94,2023-04-23,101,Cash,0,610.2
+94,Description:,Debt payment,,,,
+94,2023-05-01,301,Owner's Equity,1.8189894035458565e-12,0
+95,2023-05-01,101,Cash,9147.87,0
+95,2023-05-01,202,Loan Payable,0,9147.87
+95,Description:,Bank interactions,,,,
+95,2023-05-05,301,Owner's Equity,0,5.4569682106375694e-12
+96,2023-05-05,401,Sales Revenue,0,9307.93
+96,2023-05-05,501,Cost of Goods Sold,6050.154500000001,0
+96,2023-05-05,103,Inventory,0,6050.154500000001
+96,2023-05-05,101,Cash,9307.93,0
+96,Description:,Sales completed,,,,
+96,2023-05-06,301,Owner's Equity,0,3257.775499999998
+97,2023-05-06,201,Accounts Payable,1216.98,0
+97,2023-05-06,101,Cash,0,1216.98
+97,Description:,Paid off a creditor,,,,
+97,2023-05-08,301,Owner's Equity,0,5.4569682106375694e-12
+98,2023-05-08,401,Sales Revenue,0,2365.27
+98,2023-05-08,501,Cost of Goods Sold,1537.4255,0
+98,2023-05-08,103,Inventory,0,1537.4255
+98,2023-05-08,102,Accounts Receivable,2365.27,0
+98,Description:,Goods exchanged for money,,,,
+98,2023-05-14,301,Owner's Equity,0,827.8444999999983
+99,2023-05-14,103,Inventory,3873.88,0
+99,2023-05-14,201,Accounts Payable,0,3873.88
+99,Description:,Added to inventory,,,,
+99,2023-05-15,301,Owner's Equity,0,1.8189894035458565e-12
+100,Description:,Items sold,,,,
+100,2023-05-22,301,Owner's Equity,0,1.8189894035458565e-12
+101,2023-05-22,401,Sales Revenue,0,6440.62
+101,2023-05-22,501,Cost of Goods Sold,4186.403,0
+101,2023-05-22,103,Inventory,0,4186.403
+101,2023-05-22,102,Accounts Receivable,6440.62,0
+101,Description:,Sales completed,,,,
+101,2023-05-27,301,Owner's Equity,0,2254.2170000000006
+102,2023-05-27,101,Cash,0,9871.42
+102,2023-05-27,202,Loan Payable,9871.42,0
+102,Description:,Loan activity,,,,
+102,2023-06-02,301,Owner's Equity,7.275957614183426e-12,0
+103,2023-06-02,101,Cash,0,77262.1
+103,2023-06-02,202,Loan Payable,77262.1,0
+103,Description:,Loan account adjustments,ANOMALY,,,
+104,2023-06-04,201,Accounts Payable,1852.32,0
+104,2023-06-04,101,Cash,0,1852.32
+104,Description:,Debt payment,,,,
+104,2023-06-07,301,Owner's Equity,2.9103830456733704e-11,0
+105,2023-06-07,201,Accounts Payable,1157.54,0
+105,2023-06-07,101,Cash,0,1157.54
+105,Description:,Paid off a creditor,,,,
+105,2023-06-14,301,Owner's Equity,0,1.4551915228366852e-11
+106,Description:,Sales completed,,,,
+106,2023-06-20,301,Owner's Equity,0,1.4551915228366852e-11
+107,2023-06-20,101,Cash,0,8656.97
+107,2023-06-20,202,Loan Payable,8656.97,0
+107,Description:,Loan account adjustments,,,,
+107,2023-06-29,301,Owner's Equity,1.4551915228366852e-11,0
+108,2023-06-29,502,Rent Expense,1942.36,0
+108,2023-06-29,503,Salary Expense,4206.86,0
+108,2023-06-29,101,Cash,0,6149.219999999999
+108,Description:,Operational costs deducted,,,,
+108,2023-07-04,301,Owner's Equity,6149.219999999987,0
+109,2023-07-04,103,Inventory,835.8,0
+109,2023-07-04,201,Accounts Payable,0,835.8
+109,Description:,Added to inventory,,,,
+110,Description:,Items sold,,,,
+111,Description:,Sales completed,,,,
+112,2023-07-25,103,Inventory,610.27,0
+112,2023-07-25,201,Accounts Payable,0,610.27
+112,Description:,Added to inventory,,,,
+112,2023-08-02,301,Owner's Equity,1.4551915228366852e-11,0
+113,2023-08-02,101,Cash,0,5715.8
+113,2023-08-02,202,Loan Payable,5715.8,0
+113,Description:,Loan account adjustments,,,,
+114,2023-08-03,401,Sales Revenue,0,5532.48
+114,2023-08-03,501,Cost of Goods Sold,3596.1119999999996,0
+114,2023-08-03,103,Inventory,0,3596.1119999999996
+114,2023-08-03,101,Cash,5532.48,0
+114,Description:,Items sold,,,,
+114,2023-08-09,301,Owner's Equity,0,1936.3679999999877
+115,Description:,Items sold,,,,
+116,2023-08-17,201,Accounts Payable,1761.9,0
+116,2023-08-17,101,Cash,0,1761.9
+116,Description:,Paid off a creditor,,,,
+117,2023-08-20,101,Cash,0,7332.49
+117,2023-08-20,202,Loan Payable,7332.49,0
+117,Description:,Loan activity,,,,
+117,2023-08-28,301,Owner's Equity,1.4551915228366852e-11,0
+118,Description:,Items sold,,,,
+118,2023-08-30,301,Owner's Equity,1.4551915228366852e-11,0
+119,2023-08-30,103,Inventory,3698.08,0
+119,2023-08-30,201,Accounts Payable,0,3698.08
+119,Description:,Added to inventory,,,,
+119,2023-09-09,301,Owner's Equity,0,2.9103830456733704e-11
+120,2023-09-09,201,Accounts Payable,1664.34,0
+120,2023-09-09,101,Cash,0,1664.34
+120,Description:,Reduced payable amount,,,,
+121,Description:,Items sold,,,,
+122,2023-09-18,103,Inventory,4885.0,0
+122,2023-09-18,201,Accounts Payable,0,4885.0
+122,Description:,Restocking products,,,,
+123,2023-09-23,101,Cash,0,7832.78
+123,2023-09-23,202,Loan Payable,7832.78,0
+123,Description:,Bank interactions,,,,
+124,2023-09-24,401,Sales Revenue,0,2143.09
+124,2023-09-24,501,Cost of Goods Sold,1393.0085000000001,0
+124,2023-09-24,103,Inventory,0,1393.0085000000001
+124,2023-09-24,102,Accounts Receivable,2143.09,0
+124,Description:,Goods exchanged for money,,,,
+124,2023-10-03,301,Owner's Equity,0,750.0815000000002
+125,Description:,Items sold,ANOMALY,,,
+126,2023-10-04,103,Inventory,1484.48,0
+126,2023-10-04,201,Accounts Payable,0,1484.48
+126,Description:,Added to inventory,,,,
+126,2023-10-09,301,Owner's Equity,1.4551915228366852e-11,0
+127,2023-10-09,103,Inventory,4041.21,0
+127,2023-10-09,201,Accounts Payable,0,4041.21
+127,Description:,Restocking products,,,,
+128,2023-10-11,101,Cash,0,7128.63
+128,2023-10-11,202,Loan Payable,7128.63,0
+128,Description:,Bank interactions,,,,
+129,2023-10-20,502,Rent Expense,1043.0,0
+129,2023-10-20,503,Salary Expense,5076.35,0
+129,2023-10-20,101,Cash,0,6119.35
+129,Description:,Regular expenses,,,,
+129,2023-10-23,301,Owner's Equity,6119.350000000006,0
+130,2023-10-23,201,Accounts Payable,1992.58,0
+130,2023-10-23,101,Cash,0,1992.58
+130,Description:,Reduced payable amount,,,,
+130,2023-10-27,301,Owner's Equity,0,2.9103830456733704e-11
+131,2023-10-27,401,Sales Revenue,0,5306.35
+131,2023-10-27,501,Cost of Goods Sold,3449.1275000000005,0
+131,2023-10-27,103,Inventory,0,3449.1275000000005
+131,2023-10-27,101,Cash,5306.35,0
+131,Description:,Sales completed,,,,
+131,2023-10-31,301,Owner's Equity,0,1857.2225000000035
+132,2023-10-31,101,Cash,0,8647.08
+132,2023-10-31,202,Loan Payable,8647.08,0
+132,Description:,Bank interactions,,,,
+132,2023-11-05,301,Owner's Equity,2.9103830456733704e-11,0
+133,2023-11-05,201,Accounts Payable,1120.57,0
+133,2023-11-05,101,Cash,0,1120.57
+133,Description:,Debt payment,,,,
+134,2023-11-14,103,Inventory,2027.36,0
+134,2023-11-14,201,Accounts Payable,0,2027.36
+134,Description:,Added to inventory,,,,
+134,2023-11-22,301,Owner's Equity,0,1.4551915228366852e-11
+135,2023-11-22,401,Sales Revenue,0,6280.04
+135,2023-11-22,501,Cost of Goods Sold,4082.0260000000003,0
+135,2023-11-22,103,Inventory,0,4082.0260000000003
+135,2023-11-22,102,Accounts Receivable,6280.04,0
+135,Description:,Sales completed,,,,
+135,2023-11-26,301,Owner's Equity,0,2198.0139999999956
+136,2023-11-26,201,Accounts Payable,513.62,0
+136,2023-11-26,101,Cash,0,513.62
+136,Description:,Reduced payable amount,,,,
+137,2023-12-02,101,Cash,0,7541.34
+137,2023-12-02,202,Loan Payable,7541.34,0
+137,Description:,Loan account adjustments,,,,
+138,2023-12-04,103,Inventory,2114.14,0
+138,2023-12-04,201,Accounts Payable,0,2114.14
+138,Description:,Restocking products,,,,
+138,2023-12-06,301,Owner's Equity,0,2.9103830456733704e-11
+139,2023-12-06,401,Sales Revenue,0,7918.9
+139,2023-12-06,501,Cost of Goods Sold,5147.285,0
+139,2023-12-06,103,Inventory,0,5147.285
+139,2023-12-06,101,Cash,7918.9,0
+139,Description:,Items sold,,,,
+139,2023-12-09,301,Owner's Equity,0,2771.6149999999907
+140,2023-12-09,103,Inventory,2785.6,0
+140,2023-12-09,201,Accounts Payable,0,2785.6
+140,Description:,Restocking products,,,,
+140,2023-12-19,301,Owner's Equity,1.4551915228366852e-11,0
+141,2023-12-19,101,Cash,0,7000.55
+141,2023-12-19,202,Loan Payable,7000.55,0
+141,Description:,Loan account adjustments,,,,
+141,2023-12-25,301,Owner's Equity,1.4551915228366852e-11,0
+142,2023-12-25,101,Cash,6639.82,0
+142,2023-12-25,202,Loan Payable,0,6639.82
+142,Description:,Bank interactions,,,,
+142,2023-12-27,301,Owner's Equity,0,1.4551915228366852e-11
+143,Description:,Items sold,ANOMALY,,,
+143,2024-01-01,301,Owner's Equity,1.4551915228366852e-11,0
+144,2024-01-01,103,Inventory,2398.81,0
+144,2024-01-01,201,Accounts Payable,0,2398.81
+144,Description:,Restocking products,,,,
+144,2024-01-10,301,Owner's Equity,0,2.9103830456733704e-11
+145,2024-01-10,103,Inventory,8185.8,0
+145,2024-01-10,201,Accounts Payable,0,8185.8
+145,Description:,Restocking products,ANOMALY,,,
+145,2024-01-12,301,Owner's Equity,2.9103830456733704e-11,0
+146,2024-01-12,201,Accounts Payable,1461.82,0
+146,2024-01-12,101,Cash,0,1461.82
+146,Description:,Reduced payable amount,,,,
+147,2024-01-19,401,Sales Revenue,0,2729.77
+147,2024-01-19,501,Cost of Goods Sold,1774.3505,0
+147,2024-01-19,103,Inventory,0,1774.3505
+147,2024-01-19,102,Accounts Receivable,2729.77,0
+147,Description:,Goods exchanged for money,,,,
+147,2024-01-20,301,Owner's Equity,0,955.4195000000036
+148,2024-01-20,103,Inventory,4388.96,0
+148,2024-01-20,201,Accounts Payable,0,4388.96
+148,Description:,Goods purchased,,,,
+149,2024-01-27,401,Sales Revenue,0,4421.41
+149,2024-01-27,501,Cost of Goods Sold,2873.9165,0
+149,2024-01-27,103,Inventory,0,2873.9165
+149,2024-01-27,102,Accounts Receivable,4421.41,0
+149,Description:,Goods exchanged for money,,,,
+149,2024-02-01,301,Owner's Equity,0,1547.4934999999969
+150,2024-02-01,103,Inventory,2236.15,0
+150,2024-02-01,201,Accounts Payable,0,2236.15
+150,Description:,Added to inventory,,,,
+150,2024-02-04,301,Owner's Equity,0,2.9103830456733704e-11
+151,2024-02-04,101,Cash,0,9944.4
+151,2024-02-04,202,Loan Payable,9944.4,0
+151,Description:,Loan account adjustments,,,,
+151,2024-02-08,301,Owner's Equity,2.9103830456733704e-11,0
+152,2024-02-08,101,Cash,0,6929.46
+152,2024-02-08,202,Loan Payable,6929.46,0
+152,Description:,Loan account adjustments,,,,
+152,2024-02-15,301,Owner's Equity,0,1.4551915228366852e-11
+153,2024-02-15,201,Accounts Payable,1938.39,0
+153,2024-02-15,101,Cash,0,1938.39
+153,Description:,Reduced payable amount,,,,
+153,2024-02-17,301,Owner's Equity,4.3655745685100555e-11,0
+154,2024-02-17,103,Inventory,3591.07,0
+154,2024-02-17,201,Accounts Payable,0,3591.07
+154,Description:,Goods purchased,,,,
+155,2024-02-21,101,Cash,5103.68,0
+155,2024-02-21,202,Loan Payable,0,5103.68
+155,Description:,Bank interactions,,,,
+156,2024-02-27,401,Sales Revenue,0,6168.8
+156,2024-02-27,501,Cost of Goods Sold,4009.7200000000003,0
+156,2024-02-27,103,Inventory,0,4009.7200000000003
+156,2024-02-27,101,Cash,6168.8,0
+156,Description:,Sales completed,,,,
+156,2024-02-29,301,Owner's Equity,0,2159.0800000000017
+157,2024-02-29,401,Sales Revenue,0,5938.9
+157,2024-02-29,501,Cost of Goods Sold,3860.285,0
+157,2024-02-29,103,Inventory,0,3860.285
+157,2024-02-29,102,Accounts Receivable,5938.9,0
+157,Description:,Sales completed,,,,
+157,2024-03-04,301,Owner's Equity,0,2078.6149999999907
+158,2024-03-04,201,Accounts Payable,881.08,0
+158,2024-03-04,101,Cash,0,881.08
+158,Description:,Reduced payable amount,,,,
+158,2024-03-14,301,Owner's Equity,0,2.9103830456733704e-11
+159,2024-03-14,201,Accounts Payable,636.21,0
+159,2024-03-14,101,Cash,0,636.21
+159,Description:,Paid off a creditor,,,,
+160,2024-03-16,401,Sales Revenue,0,7708.94
+160,2024-03-16,501,Cost of Goods Sold,5010.811,0
+160,2024-03-16,103,Inventory,0,5010.811
+160,2024-03-16,102,Accounts Receivable,7708.94,0
+160,Description:,Sales completed,,,,
+160,2024-03-21,301,Owner's Equity,0,2698.1290000000154
+161,2024-03-21,401,Sales Revenue,0,5627.51
+161,2024-03-21,501,Cost of Goods Sold,3657.8815000000004,0
+161,2024-03-21,103,Inventory,0,3657.8815000000004
+161,2024-03-21,102,Accounts Receivable,5627.51,0
+161,Description:,Sales completed,,,,
+161,2024-03-26,301,Owner's Equity,0,1969.6284999999916
+162,2024-03-26,502,Rent Expense,995.38,0
+162,2024-03-26,503,Salary Expense,2882.82,0
+162,2024-03-26,101,Cash,0,3878.2000000000003
+162,Description:,Monthly bills paid,,,,
+162,2024-03-28,301,Owner's Equity,3878.2000000000116,0
+163,2024-03-28,401,Sales Revenue,0,3360.67
+163,2024-03-28,501,Cost of Goods Sold,2184.4355,0
+163,2024-03-28,103,Inventory,0,2184.4355
+163,2024-03-28,102,Accounts Receivable,3360.67,0
+163,Description:,Items sold,,,,
+163,2024-04-05,301,Owner's Equity,0,1176.2344999999914
+164,2024-04-05,101,Cash,0,5135.93
+164,2024-04-05,202,Loan Payable,5135.93,0
+164,Description:,Loan account adjustments,,,,
+165,2024-04-13,401,Sales Revenue,0,3786.85
+165,2024-04-13,501,Cost of Goods Sold,2461.4525,0
+165,2024-04-13,103,Inventory,0,2461.4525
+165,2024-04-13,102,Accounts Receivable,3786.85,0
+165,Description:,Items sold,,,,
+165,2024-04-18,301,Owner's Equity,0,1325.3975000000064
+166,2024-04-18,201,Accounts Payable,733.67,0
+166,2024-04-18,101,Cash,0,733.67
+166,Description:,Debt payment,,,,
+166,2024-04-24,301,Owner's Equity,1.4551915228366852e-11,0
+167,2024-04-24,103,Inventory,1306.23,0
+167,2024-04-24,201,Accounts Payable,0,1306.23
+167,Description:,Restocking products,,,,
+168,2024-04-27,101,Cash,0,6714.67
+168,2024-04-27,202,Loan Payable,6714.67,0
+168,Description:,Loan account adjustments,,,,
+169,2024-05-07,201,Accounts Payable,618.34,0
+169,2024-05-07,101,Cash,0,618.34
+169,Description:,Paid off a creditor,,,,
+170,2024-05-14,201,Accounts Payable,1140.05,0
+170,2024-05-14,101,Cash,0,1140.05
+170,Description:,Paid off a creditor,,,,
+171,2024-05-22,201,Accounts Payable,1511.7,0
+171,2024-05-22,101,Cash,0,1511.7
+171,Description:,Reduced payable amount,,,,
+172,2024-05-29,401,Sales Revenue,0,2608.75
+172,2024-05-29,501,Cost of Goods Sold,1695.6875,0
+172,2024-05-29,103,Inventory,0,1695.6875
+172,2024-05-29,102,Accounts Receivable,2608.75,0
+172,Description:,Goods exchanged for money,,,,
+172,2024-06-03,301,Owner's Equity,0,913.0625
+173,Description:,Sales completed,ANOMALY,,,
+174,2024-06-06,201,Accounts Payable,1694.42,0
+174,2024-06-06,101,Cash,0,1694.42
+174,Description:,Paid off a creditor,,,,
+174,2024-06-15,301,Owner's Equity,2.9103830456733704e-11,0
+175,Description:,Sales completed,,,,
+176,2024-06-25,101,Cash,8163.29,0
+176,2024-06-25,202,Loan Payable,0,8163.29
+176,Description:,Loan account adjustments,,,,
+177,2024-06-27,101,Cash,0,7500.63
+177,2024-06-27,202,Loan Payable,7500.63,0
+177,Description:,Loan activity,,,,
+178,2024-07-04,103,Inventory,2051.97,0
+178,2024-07-04,201,Accounts Payable,0,2051.97
+178,Description:,Goods purchased,,,,
+179,2024-07-13,401,Sales Revenue,0,3937.67
+179,2024-07-13,501,Cost of Goods Sold,2559.4855000000002,0
+179,2024-07-13,103,Inventory,0,2559.4855000000002
+179,2024-07-13,101,Cash,3937.67,0
+179,Description:,Sales completed,,,,
+179,2024-07-19,301,Owner's Equity,0,1378.1845000000176
+180,Description:,Sales completed,,,,
+180,2024-07-22,301,Owner's Equity,0,1.4551915228366852e-11
+181,2024-07-22,502,Rent Expense,1863.12,0
+181,2024-07-22,503,Salary Expense,3013.81,0
+181,2024-07-22,101,Cash,0,4876.93
+181,Description:,Operational costs deducted,,,,
+181,2024-07-31,301,Owner's Equity,4876.930000000008,0
+182,2024-07-31,103,Inventory,4860.5,0
+182,2024-07-31,201,Accounts Payable,0,4860.5
+182,Description:,Goods purchased,,,,
+182,2024-08-03,301,Owner's Equity,0,1.4551915228366852e-11
+183,2024-08-03,101,Cash,0,9460.48
+183,2024-08-03,202,Loan Payable,9460.48,0
+183,Description:,Loan activity,,,,
+183,2024-08-11,301,Owner's Equity,1.4551915228366852e-11,0
+184,2024-08-11,401,Sales Revenue,0,3617.82
+184,2024-08-11,501,Cost of Goods Sold,2351.583,0
+184,2024-08-11,103,Inventory,0,2351.583
+184,2024-08-11,101,Cash,3617.82,0
+184,Description:,Goods exchanged for money,,,,
+184,2024-08-14,301,Owner's Equity,0,1266.2370000000228
+185,2024-08-14,101,Cash,0,8661.63
+185,2024-08-14,202,Loan Payable,8661.63,0
+185,Description:,Loan activity,,,,
+186,2024-08-16,401,Sales Revenue,0,4572.87
+186,2024-08-16,501,Cost of Goods Sold,2972.3655,0
+186,2024-08-16,103,Inventory,0,2972.3655
+186,2024-08-16,101,Cash,4572.87,0
+186,Description:,Goods exchanged for money,,,,
+186,2024-08-19,301,Owner's Equity,0,1600.5044999999955
+187,2024-08-19,502,Rent Expense,8587.7,0
+187,2024-08-19,503,Salary Expense,54610.5,0
+187,2024-08-19,101,Cash,0,63198.2
+187,Description:,Regular expenses,ANOMALY,,,
+187,2024-08-26,301,Owner's Equity,63198.20000000004,0
+188,Description:,Goods exchanged for money,,,,
+189,2024-08-27,103,Inventory,2811.16,0
+189,2024-08-27,201,Accounts Payable,0,2811.16
+189,Description:,Added to inventory,,,,
+190,2024-09-03,201,Accounts Payable,1347.51,0
+190,2024-09-03,101,Cash,0,1347.51
+190,Description:,Debt payment,,,,
+191,2024-09-13,103,Inventory,1914.16,0
+191,2024-09-13,201,Accounts Payable,0,1914.16
+191,Description:,Restocking products,,,,
+191,2024-09-19,301,Owner's Equity,0,2.9103830456733704e-11
+192,2024-09-19,101,Cash,9346.81,0
+192,2024-09-19,202,Loan Payable,0,9346.81
+192,Description:,Bank interactions,,,,
+193,2024-09-26,101,Cash,0,7501.02
+193,2024-09-26,202,Loan Payable,7501.02,0
+193,Description:,Loan account adjustments,,,,
+193,2024-10-05,301,Owner's Equity,5.820766091346741e-11,0
+194,2024-10-05,101,Cash,8630.92,0
+194,2024-10-05,202,Loan Payable,0,8630.92
+194,Description:,Loan activity,,,,
+195,2024-10-07,201,Accounts Payable,1203.01,0
+195,2024-10-07,101,Cash,0,1203.01
+195,Description:,Reduced payable amount,,,,
+195,2024-10-15,301,Owner's Equity,2.9103830456733704e-11,0
+196,2024-10-15,103,Inventory,1232.46,0
+196,2024-10-15,201,Accounts Payable,0,1232.46
+196,Description:,Added to inventory,,,,
+196,2024-10-21,301,Owner's Equity,0,2.9103830456733704e-11
+197,2024-10-21,201,Accounts Payable,834.63,0
+197,2024-10-21,101,Cash,0,834.63
+197,Description:,Reduced payable amount,,,,
+198,2024-10-28,103,Inventory,2949.02,0
+198,2024-10-28,201,Accounts Payable,0,2949.02
+198,Description:,Restocking products,,,,
+198,2024-10-29,301,Owner's Equity,2.9103830456733704e-11,0
+199,2024-10-29,401,Sales Revenue,0,7636.58
+199,2024-10-29,501,Cost of Goods Sold,4963.777,0
+199,2024-10-29,103,Inventory,0,4963.777
+199,2024-10-29,102,Accounts Receivable,7636.58,0
+199,Description:,Goods exchanged for money,,,,
+199,2024-11-03,301,Owner's Equity,0,2672.8030000000144
+200,2024-11-03,201,Accounts Payable,1473.8,0
+200,2024-11-03,101,Cash,0,1473.8
+200,Description:,Debt payment,,,,
+200,2024-11-13,301,Owner's Equity,0,2.9103830456733704e-11
+201,2024-11-13,103,Inventory,3066.55,0
+201,2024-11-13,201,Accounts Payable,0,3066.55
+201,Description:,Restocking products,,,,
+201,2024-11-20,301,Owner's Equity,2.9103830456733704e-11,0
+202,2024-11-20,201,Accounts Payable,1927.05,0
+202,2024-11-20,101,Cash,0,1927.05
+202,Description:,Paid off a creditor,,,,
+202,2024-11-21,301,Owner's Equity,0,2.9103830456733704e-11
+203,2024-11-21,101,Cash,0,8427.23
+203,2024-11-21,202,Loan Payable,8427.23,0
+203,Description:,Loan account adjustments,,,,
+203,2024-11-29,301,Owner's Equity,0,2.9103830456733704e-11
+204,2024-11-29,401,Sales Revenue,0,6836.51
+204,2024-11-29,501,Cost of Goods Sold,4443.7315,0
+204,2024-11-29,103,Inventory,0,4443.7315
+204,2024-11-29,102,Accounts Receivable,6836.51,0
+204,Description:,Goods exchanged for money,,,,
+204,2024-12-09,301,Owner's Equity,0,2392.778499999986
+205,2024-12-09,201,Accounts Payable,1131.83,0
+205,2024-12-09,101,Cash,0,1131.83
+205,Description:,Debt payment,,,,
+206,2024-12-13,201,Accounts Payable,1715.99,0
+206,2024-12-13,101,Cash,0,1715.99
+206,Description:,Reduced payable amount,,,,
+207,2024-12-14,401,Sales Revenue,0,3354.84
+207,2024-12-14,501,Cost of Goods Sold,2180.646,0
+207,2024-12-14,103,Inventory,0,2180.646
+207,2024-12-14,101,Cash,3354.84,0
+207,Description:,Items sold,,,,
+207,2024-12-16,301,Owner's Equity,0,1174.1940000000177
+208,Description:,Items sold,,,,
+209,2024-12-26,101,Cash,0,7435.24
+209,2024-12-26,202,Loan Payable,7435.24,0
+209,Description:,Bank interactions,,,,
+210,2024-12-27,103,Inventory,1514.34,0
+210,2024-12-27,201,Accounts Payable,0,1514.34
+210,Description:,Added to inventory,,,,
+211,2025-01-04,103,Inventory,1239.29,0
+211,2025-01-04,201,Accounts Payable,0,1239.29
+211,Description:,Goods purchased,,,,
+212,Description:,Items sold,,,,
+213,2025-01-14,401,Sales Revenue,0,4674.71
+213,2025-01-14,501,Cost of Goods Sold,3038.5615000000003,0
+213,2025-01-14,103,Inventory,0,3038.5615000000003
+213,2025-01-14,102,Accounts Receivable,4674.71,0
+213,Description:,Goods exchanged for money,,,,
+213,2025-01-21,301,Owner's Equity,0,1636.1485000000102
+214,2025-01-21,201,Accounts Payable,1230.65,0
+214,2025-01-21,101,Cash,0,1230.65
+214,Description:,Reduced payable amount,,,,
+214,2025-01-22,301,Owner's Equity,2.9103830456733704e-11,0
+215,2025-01-22,103,Inventory,44229.0,0
+215,2025-01-22,201,Accounts Payable,0,44229.0
+215,Description:,Goods purchased,ANOMALY,,,
+216,2025-01-24,502,Rent Expense,2121.55,0
+216,2025-01-24,503,Salary Expense,5139.78,0
+216,2025-01-24,101,Cash,0,7261.33
+216,Description:,Regular expenses,,,,
+216,2025-01-27,301,Owner's Equity,7261.330000000016,0
+217,2025-01-27,201,Accounts Payable,1562.25,0
+217,2025-01-27,101,Cash,0,1562.25
+217,Description:,Debt payment,,,,
+218,2025-02-01,103,Inventory,2156.7,0
+218,2025-02-01,201,Accounts Payable,0,2156.7
+218,Description:,Goods purchased,,,,
+219,2025-02-08,401,Sales Revenue,0,3973.81
+219,2025-02-08,501,Cost of Goods Sold,2582.9765,0
+219,2025-02-08,103,Inventory,0,2582.9765
+219,2025-02-08,101,Cash,3973.81,0
+219,Description:,Sales completed,,,,
+219,2025-02-14,301,Owner's Equity,0,1390.833500000008
+220,2025-02-14,502,Rent Expense,1416.6,0
+220,2025-02-14,503,Salary Expense,3436.86,0
+220,2025-02-14,101,Cash,0,4853.46
+220,Description:,Operational costs deducted,,,,
+220,2025-02-17,301,Owner's Equity,4853.460000000021,0
+221,2025-02-17,401,Sales Revenue,0,4390.32
+221,2025-02-17,501,Cost of Goods Sold,2853.708,0
+221,2025-02-17,103,Inventory,0,2853.708
+221,2025-02-17,102,Accounts Receivable,4390.32,0
+221,Description:,Goods exchanged for money,,,,
+221,2025-02-21,301,Owner's Equity,0,1536.6119999999937
+222,2025-02-21,103,Inventory,1962.87,0
+222,2025-02-21,201,Accounts Payable,0,1962.87
+222,Description:,Goods purchased,,,,
+223,2025-02-23,502,Rent Expense,1325.51,0
+223,2025-02-23,503,Salary Expense,5114.76,0
+223,2025-02-23,101,Cash,0,6440.27
+223,Description:,Regular expenses,,,,
+223,2025-03-01,301,Owner's Equity,6440.270000000019,0
+224,2025-03-01,401,Sales Revenue,0,3875.81
+224,2025-03-01,501,Cost of Goods Sold,2519.2765,0
+224,2025-03-01,103,Inventory,0,2519.2765
+224,2025-03-01,102,Accounts Receivable,3875.81,0
+224,Description:,Items sold,,,,
+224,2025-03-07,301,Owner's Equity,0,1356.5335000000196
+225,2025-03-07,101,Cash,0,7063.32
+225,2025-03-07,202,Loan Payable,7063.32,0
+225,Description:,Bank interactions,,,,
+226,2025-03-17,401,Sales Revenue,0,5935.14
+226,2025-03-17,501,Cost of Goods Sold,3857.8410000000003,0
+226,2025-03-17,103,Inventory,0,3857.8410000000003
+226,2025-03-17,101,Cash,5935.14,0
+226,Description:,Goods exchanged for money,,,,
+226,2025-03-27,301,Owner's Equity,0,2077.298999999999
+227,2025-03-27,201,Accounts Payable,1971.27,0
+227,2025-03-27,101,Cash,0,1971.27
+227,Description:,Paid off a creditor,,,,
+227,2025-03-31,301,Owner's Equity,2.9103830456733704e-11,0
+228,2025-03-31,401,Sales Revenue,0,28888.4
+228,2025-03-31,501,Cost of Goods Sold,18777.460000000003,0
+228,2025-03-31,103,Inventory,0,18777.460000000003
+228,2025-03-31,102,Accounts Receivable,28888.4,0
+228,Description:,Sales completed,ANOMALY,,,
+228,2025-04-08,301,Owner's Equity,0,10110.940000000002
+229,Description:,Sales completed,ANOMALY,,,
+230,2025-04-16,201,Accounts Payable,1163.05,0
+230,2025-04-16,101,Cash,0,1163.05
+230,Description:,Paid off a creditor,,,,
+230,2025-04-20,301,Owner's Equity,0,2.9103830456733704e-11
+231,2025-04-20,101,Cash,0,9304.61
+231,2025-04-20,202,Loan Payable,9304.61,0
+231,Description:,Bank interactions,,,,
+232,2025-04-29,101,Cash,6765.78,0
+232,2025-04-29,202,Loan Payable,0,6765.78
+232,Description:,Loan activity,,,,
+233,2025-05-01,101,Cash,0,9229.87
+233,2025-05-01,202,Loan Payable,9229.87,0
+233,Description:,Loan activity,,,,
+234,2025-05-03,103,Inventory,2747.29,0
+234,2025-05-03,201,Accounts Payable,0,2747.29
+234,Description:,Restocking products,,,,
+235,2025-05-11,201,Accounts Payable,1086.07,0
+235,2025-05-11,101,Cash,0,1086.07
+235,Description:,Debt payment,,,,
+236,2025-05-21,103,Inventory,1552.52,0
+236,2025-05-21,201,Accounts Payable,0,1552.52
+236,Description:,Added to inventory,,,,
+237,2025-05-29,103,Inventory,3942.91,0
+237,2025-05-29,201,Accounts Payable,0,3942.91
+237,Description:,Goods purchased,,,,
+237,2025-06-05,301,Owner's Equity,2.9103830456733704e-11,0
+238,2025-06-05,401,Sales Revenue,0,9492.04
+238,2025-06-05,501,Cost of Goods Sold,6169.826000000001,0
+238,2025-06-05,103,Inventory,0,6169.826000000001
+238,2025-06-05,101,Cash,9492.04,0
+238,Description:,Sales completed,,,,
+238,2025-06-07,301,Owner's Equity,0,3322.213999999978
+239,2025-06-07,103,Inventory,3746.69,0
+239,2025-06-07,201,Accounts Payable,0,3746.69
+239,Description:,Goods purchased,,,,
+240,2025-06-14,502,Rent Expense,809.2,0
+240,2025-06-14,503,Salary Expense,4960.86,0
+240,2025-06-14,101,Cash,0,5770.0599999999995
+240,Description:,Monthly bills paid,,,,
+240,2025-06-19,301,Owner's Equity,5770.059999999998,0
+241,2025-06-19,103,Inventory,664.94,0
+241,2025-06-19,201,Accounts Payable,0,664.94
+241,Description:,Restocking products,,,,
+242,2025-06-24,103,Inventory,1099.95,0
+242,2025-06-24,201,Accounts Payable,0,1099.95
+242,Description:,Added to inventory,,,,
+243,2025-07-03,103,Inventory,1002.57,0
+243,2025-07-03,201,Accounts Payable,0,1002.57
+243,Description:,Added to inventory,,,,
+244,2025-07-04,201,Accounts Payable,1962.64,0
+244,2025-07-04,101,Cash,0,1962.64
+244,Description:,Debt payment,,,,
+244,2025-07-05,301,Owner's Equity,2.9103830456733704e-11,0
+245,2025-07-05,502,Rent Expense,18032.5,0
+245,2025-07-05,503,Salary Expense,29691.6,0
+245,2025-07-05,101,Cash,0,47724.1
+245,Description:,Operational costs deducted,ANOMALY,,,
+245,2025-07-14,301,Owner's Equity,47724.09999999998,0
+246,2025-07-14,103,Inventory,800.55,0
+246,2025-07-14,201,Accounts Payable,0,800.55
+246,Description:,Added to inventory,,,,
+247,2025-07-22,101,Cash,6370.25,0
+247,2025-07-22,202,Loan Payable,0,6370.25
+247,Description:,Loan activity,,,,
+248,2025-07-24,101,Cash,0,7478.66
+248,2025-07-24,202,Loan Payable,7478.66,0
+248,Description:,Loan account adjustments,,,,
+249,2025-08-02,201,Accounts Payable,1687.42,0
+249,2025-08-02,101,Cash,0,1687.42
+249,Description:,Paid off a creditor,,,,
+250,2025-08-10,401,Sales Revenue,0,4844.53
+250,2025-08-10,501,Cost of Goods Sold,3148.9445,0
+250,2025-08-10,103,Inventory,0,3148.9445
+250,2025-08-10,101,Cash,4844.53,0
+250,Description:,Items sold,,,,
+250,2025-08-15,301,Owner's Equity,0,1695.5855000000447
+251,2025-08-15,201,Accounts Payable,1865.16,0
+251,2025-08-15,101,Cash,0,1865.16
+251,Description:,Reduced payable amount,,,,
+251,2025-08-21,301,Owner's Equity,0,5.820766091346741e-11
+252,2025-08-21,401,Sales Revenue,0,8828.28
+252,2025-08-21,501,Cost of Goods Sold,5738.3820000000005,0
+252,2025-08-21,103,Inventory,0,5738.3820000000005
+252,2025-08-21,102,Accounts Receivable,8828.28,0
+252,Description:,Goods exchanged for money,,,,
+252,2025-08-27,301,Owner's Equity,0,3089.8979999999865
+253,2025-08-27,103,Inventory,41188.4,0
+253,2025-08-27,201,Accounts Payable,0,41188.4
+253,Description:,Added to inventory,ANOMALY,,,
+254,2025-09-02,201,Accounts Payable,1878.31,0
+254,2025-09-02,101,Cash,0,1878.31
+254,Description:,Reduced payable amount,,,,
+255,2025-09-06,401,Sales Revenue,0,2970.3
+255,2025-09-06,501,Cost of Goods Sold,1930.6950000000002,0
+255,2025-09-06,103,Inventory,0,1930.6950000000002
+255,2025-09-06,101,Cash,2970.3,0
+255,Description:,Sales completed,,,,
+255,2025-09-13,301,Owner's Equity,0,1039.6049999999814
+256,2025-09-13,101,Cash,0,9908.18
+256,2025-09-13,202,Loan Payable,9908.18,0
+256,Description:,Bank interactions,,,,
+257,2025-09-18,201,Accounts Payable,16430.899999999998,0
+257,2025-09-18,101,Cash,0,16430.899999999998
+257,Description:,Debt payment,ANOMALY,,,
+257,2025-09-26,301,Owner's Equity,2.9103830456733704e-11,0
+258,2025-09-26,201,Accounts Payable,1873.97,0
+258,2025-09-26,101,Cash,0,1873.97
+258,Description:,Paid off a creditor,,,,
+258,2025-09-27,301,Owner's Equity,0,2.9103830456733704e-11
+259,2025-09-27,101,Cash,0,9090.89
+259,2025-09-27,202,Loan Payable,9090.89,0
+259,Description:,Loan account adjustments,,,,
+260,2025-09-30,401,Sales Revenue,0,4780.52
+260,2025-09-30,501,Cost of Goods Sold,3107.338,0
+260,2025-09-30,103,Inventory,0,3107.338
+260,2025-09-30,102,Accounts Receivable,4780.52,0
+260,Description:,Items sold,,,,
+260,2025-10-04,301,Owner's Equity,0,1673.1819999999716
+261,2025-10-04,201,Accounts Payable,523.37,0
+261,2025-10-04,101,Cash,0,523.37
+261,Description:,Debt payment,,,,
+262,2025-10-12,401,Sales Revenue,0,3199.25
+262,2025-10-12,501,Cost of Goods Sold,2079.5125000000003,0
+262,2025-10-12,103,Inventory,0,2079.5125000000003
+262,2025-10-12,102,Accounts Receivable,3199.25,0
+262,Description:,Items sold,,,,
+262,2025-10-13,301,Owner's Equity,0,1119.7375000000175
+263,2025-10-13,101,Cash,0,8053.0
+263,2025-10-13,202,Loan Payable,8053.0,0
+263,Description:,Bank interactions,,,,
+264,2025-10-23,401,Sales Revenue,0,7137.38
+264,2025-10-23,501,Cost of Goods Sold,4639.2970000000005,0
+264,2025-10-23,103,Inventory,0,4639.2970000000005
+264,2025-10-23,101,Cash,7137.38,0
+264,Description:,Goods exchanged for money,,,,
+264,2025-10-29,301,Owner's Equity,0,2498.0830000000133
+265,2025-10-29,101,Cash,0,7813.54
+265,2025-10-29,202,Loan Payable,7813.54,0
+265,Description:,Loan activity,,,,
+266,2025-11-01,201,Accounts Payable,7041.7,0
+266,2025-11-01,101,Cash,0,7041.7
+266,Description:,Paid off a creditor,ANOMALY,,,
+267,2025-11-11,401,Sales Revenue,0,10249.77
+267,2025-11-11,501,Cost of Goods Sold,6662.3505000000005,0
+267,2025-11-11,103,Inventory,0,6662.3505000000005
+267,2025-11-11,101,Cash,10249.77,0
+267,Description:,Items sold,,,,
+267,2025-11-16,301,Owner's Equity,0,3587.419500000018
+268,2025-11-16,101,Cash,0,5492.59
+268,2025-11-16,202,Loan Payable,5492.59,0
+268,Description:,Loan account adjustments,,,,
+269,2025-11-17,201,Accounts Payable,950.72,0
+269,2025-11-17,101,Cash,0,950.72
+269,Description:,Reduced payable amount,,,,
+269,2025-11-24,301,Owner's Equity,0,2.9103830456733704e-11
+270,2025-11-24,103,Inventory,749.14,0
+270,2025-11-24,201,Accounts Payable,0,749.14
+270,Description:,Added to inventory,,,,
+270,2025-11-29,301,Owner's Equity,2.9103830456733704e-11,0
+271,2025-11-29,201,Accounts Payable,772.51,0
+271,2025-11-29,101,Cash,0,772.51
+271,Description:,Paid off a creditor,,,,
+272,2025-12-08,101,Cash,0,5306.4
+272,2025-12-08,202,Loan Payable,5306.4,0
+272,Description:,Bank interactions,,,,
+272,2025-12-12,301,Owner's Equity,2.9103830456733704e-11,0
+273,2025-12-12,101,Cash,9468.44,0
+273,2025-12-12,202,Loan Payable,0,9468.44
+273,Description:,Loan account adjustments,,,,
+273,2025-12-21,301,Owner's Equity,0,2.9103830456733704e-11
+274,2025-12-21,401,Sales Revenue,0,5473.23
+274,2025-12-21,501,Cost of Goods Sold,3557.5995,0
+274,2025-12-21,103,Inventory,0,3557.5995
+274,2025-12-21,102,Accounts Receivable,5473.23,0
+274,Description:,Sales completed,,,,
+274,2025-12-27,301,Owner's Equity,0,1915.6304999999993
+275,2025-12-27,401,Sales Revenue,0,5347.05
+275,2025-12-27,501,Cost of Goods Sold,3475.5825000000004,0
+275,2025-12-27,103,Inventory,0,3475.5825000000004
+275,2025-12-27,101,Cash,5347.05,0
+275,Description:,Goods exchanged for money,,,,
+275,2025-12-30,301,Owner's Equity,0,1871.4674999999988
+276,2025-12-30,201,Accounts Payable,1640.48,0
+276,2025-12-30,101,Cash,0,1640.48
+276,Description:,Debt payment,,,,
+276,2026-01-07,301,Owner's Equity,0,2.9103830456733704e-11
+277,2026-01-07,201,Accounts Payable,1155.95,0
+277,2026-01-07,101,Cash,0,1155.95
+277,Description:,Paid off a creditor,,,,
+277,2026-01-17,301,Owner's Equity,2.9103830456733704e-11,0
+278,2026-01-17,502,Rent Expense,1020.21,0
+278,2026-01-17,503,Salary Expense,4266.66,0
+278,2026-01-17,101,Cash,0,5286.87
+278,Description:,Monthly bills paid,,,,
+278,2026-01-19,301,Owner's Equity,5286.869999999995,0
+279,2026-01-19,103,Inventory,2996.21,0
+279,2026-01-19,201,Accounts Payable,0,2996.21
+279,Description:,Added to inventory,,,,
+280,2026-01-21,401,Sales Revenue,0,4608.34
+280,2026-01-21,501,Cost of Goods Sold,2995.4210000000003,0
+280,2026-01-21,103,Inventory,0,2995.4210000000003
+280,2026-01-21,101,Cash,4608.34,0
+280,Description:,Items sold,,,,
+280,2026-01-27,301,Owner's Equity,0,1612.9190000000235
+281,2026-01-27,401,Sales Revenue,0,5970.18
+281,2026-01-27,501,Cost of Goods Sold,3880.617,0
+281,2026-01-27,103,Inventory,0,3880.617
+281,2026-01-27,101,Cash,5970.18,0
+281,Description:,Items sold,,,,
+281,2026-02-02,301,Owner's Equity,0,2089.5629999999946
+282,2026-02-02,103,Inventory,43219.2,0
+282,2026-02-02,201,Accounts Payable,0,43219.2
+282,Description:,Goods purchased,ANOMALY,,,
+283,2026-02-07,201,Accounts Payable,6017.0,0
+283,2026-02-07,101,Cash,0,6017.0
+283,Description:,Debt payment,ANOMALY,,,
+284,2026-02-10,201,Accounts Payable,1430.06,0
+284,2026-02-10,101,Cash,0,1430.06
+284,Description:,Debt payment,,,,
+285,2026-02-20,101,Cash,0,7461.95
+285,2026-02-20,202,Loan Payable,7461.95,0
+285,Description:,Loan account adjustments,,,,
+286,2026-02-25,502,Rent Expense,2217.08,0
+286,2026-02-25,503,Salary Expense,4393.42,0
+286,2026-02-25,101,Cash,0,6610.5
+286,Description:,Regular expenses,,,,
+286,2026-03-07,301,Owner's Equity,6610.5,0
+287,2026-03-07,401,Sales Revenue,0,9006.55
+287,2026-03-07,501,Cost of Goods Sold,5854.2575,0
+287,2026-03-07,103,Inventory,0,5854.2575
+287,2026-03-07,101,Cash,9006.55,0
+287,Description:,Items sold,,,,
+287,2026-03-11,301,Owner's Equity,0,3152.2924999999814
+288,2026-03-11,201,Accounts Payable,1718.92,0
+288,2026-03-11,101,Cash,0,1718.92
+288,Description:,Debt payment,,,,
+288,2026-03-17,301,Owner's Equity,0,2.9103830456733704e-11
+289,2026-03-17,201,Accounts Payable,541.14,0
+289,2026-03-17,101,Cash,0,541.14
+289,Description:,Paid off a creditor,,,,
+290,2026-03-19,201,Accounts Payable,1792.04,0
+290,2026-03-19,101,Cash,0,1792.04
+290,Description:,Reduced payable amount,,,,
+290,2026-03-25,301,Owner's Equity,0,2.9103830456733704e-11
+291,2026-03-25,401,Sales Revenue,0,39311.1
+291,2026-03-25,501,Cost of Goods Sold,25552.215,0
+291,2026-03-25,103,Inventory,0,25552.215
+291,2026-03-25,102,Accounts Receivable,39311.1,0
+291,Description:,Goods exchanged for money,ANOMALY,,,
+291,2026-03-29,301,Owner's Equity,0,13758.88500000001
+292,2026-03-29,103,Inventory,4284.95,0
+292,2026-03-29,201,Accounts Payable,0,4284.95
+292,Description:,Added to inventory,,,,
+293,2026-04-02,502,Rent Expense,1515.32,0
+293,2026-04-02,503,Salary Expense,4501.44,0
+293,2026-04-02,101,Cash,0,6016.759999999999
+293,Description:,Operational costs deducted,,,,
+293,2026-04-11,301,Owner's Equity,6016.760000000009,0
+294,2026-04-11,401,Sales Revenue,0,2898.64
+294,2026-04-11,501,Cost of Goods Sold,1884.116,0
+294,2026-04-11,103,Inventory,0,1884.116
+294,2026-04-11,101,Cash,2898.64,0
+294,Description:,Sales completed,,,,
+294,2026-04-15,301,Owner's Equity,0,1014.5240000000049
+295,2026-04-15,502,Rent Expense,1013.26,0
+295,2026-04-15,503,Salary Expense,2976.82,0
+295,2026-04-15,101,Cash,0,3990.08
+295,Description:,Regular expenses,,,,
+295,2026-04-16,301,Owner's Equity,3990.0800000000163,0
+296,2026-04-16,401,Sales Revenue,0,7813.53
+296,2026-04-16,501,Cost of Goods Sold,5078.7945,0
+296,2026-04-16,103,Inventory,0,5078.7945
+296,2026-04-16,101,Cash,7813.53,0
+296,Description:,Items sold,,,,
+296,2026-04-24,301,Owner's Equity,0,2734.735500000039
+297,2026-04-24,103,Inventory,2818.75,0
+297,2026-04-24,201,Accounts Payable,0,2818.75
+297,Description:,Goods purchased,,,,
+298,2026-05-02,401,Sales Revenue,0,8963.35
+298,2026-05-02,501,Cost of Goods Sold,5826.177500000001,0
+298,2026-05-02,103,Inventory,0,5826.177500000001
+298,2026-05-02,102,Accounts Receivable,8963.35,0
+298,Description:,Sales completed,,,,
+298,2026-05-05,301,Owner's Equity,0,3137.172499999986
+299,2026-05-05,101,Cash,8888.69,0
+299,2026-05-05,202,Loan Payable,0,8888.69
+299,Description:,Loan account adjustments,,,,
+300,2026-05-15,401,Sales Revenue,0,8804.79
+300,2026-05-15,501,Cost of Goods Sold,5723.1135,0
+300,2026-05-15,103,Inventory,0,5723.1135
+300,2026-05-15,101,Cash,8804.79,0
+300,Description:,Sales completed,,,,
+300,2026-05-24,301,Owner's Equity,0,3081.6765000000014
+301,2026-05-24,401,Sales Revenue,0,9482.21
+301,2026-05-24,501,Cost of Goods Sold,6163.4365,0
+301,2026-05-24,103,Inventory,0,6163.4365
+301,2026-05-24,102,Accounts Receivable,9482.21,0
+301,Description:,Goods exchanged for money,,,,
+301,2026-05-25,301,Owner's Equity,0,3318.773499999981
+302,2026-05-25,401,Sales Revenue,0,6483.51
+302,2026-05-25,501,Cost of Goods Sold,4214.2815,0
+302,2026-05-25,103,Inventory,0,4214.2815
+302,2026-05-25,101,Cash,6483.51,0
+302,Description:,Items sold,,,,
+302,2026-05-31,301,Owner's Equity,0,2269.2284999999974
+303,2026-05-31,101,Cash,0,7167.29
+303,2026-05-31,202,Loan Payable,7167.29,0
+303,Description:,Loan account adjustments,,,,
+304,2026-06-04,101,Cash,0,5977.38
+304,2026-06-04,202,Loan Payable,5977.38,0
+304,Description:,Bank interactions,,,,
+305,2026-06-07,101,Cash,0,5707.53
+305,2026-06-07,202,Loan Payable,5707.53,0
+305,Description:,Bank interactions,,,,
+306,2026-06-15,101,Cash,0,9935.49
+306,2026-06-15,202,Loan Payable,9935.49,0
+306,Description:,Loan account adjustments,,,,
+307,2026-06-21,101,Cash,5611.49,0
+307,2026-06-21,202,Loan Payable,0,5611.49
+307,Description:,Loan activity,,,,
+308,2026-06-22,502,Rent Expense,1470.78,0
+308,2026-06-22,503,Salary Expense,4325.82,0
+308,2026-06-22,101,Cash,0,5796.599999999999
+308,Description:,Monthly bills paid,,,,
+308,2026-06-25,301,Owner's Equity,5796.599999999977,0
+309,2026-06-25,103,Inventory,4849.7,0
+309,2026-06-25,201,Accounts Payable,0,4849.7
+309,Description:,Added to inventory,,,,
+310,2026-06-28,201,Accounts Payable,750.51,0
+310,2026-06-28,101,Cash,0,750.51
+310,Description:,Paid off a creditor,,,,
+311,2026-06-30,502,Rent Expense,2062.93,0
+311,2026-06-30,503,Salary Expense,3106.02,0
+311,2026-06-30,101,Cash,0,5168.95
+311,Description:,Regular expenses,,,,
+311,2026-07-01,301,Owner's Equity,5168.950000000012,0
+312,2026-07-01,103,Inventory,1257.82,0
+312,2026-07-01,201,Accounts Payable,0,1257.82
+312,Description:,Restocking products,,,,
+313,2026-07-08,101,Cash,0,6880.7
+313,2026-07-08,202,Loan Payable,6880.7,0
+313,Description:,Loan account adjustments,,,,
+314,2026-07-18,103,Inventory,4367.17,0
+314,2026-07-18,201,Accounts Payable,0,4367.17
+314,Description:,Restocking products,,,,
+314,2026-07-22,301,Owner's Equity,2.9103830456733704e-11,0
+315,2026-07-22,401,Sales Revenue,0,2653.84
+315,2026-07-22,501,Cost of Goods Sold,1724.996,0
+315,2026-07-22,103,Inventory,0,1724.996
+315,2026-07-22,101,Cash,2653.84,0
+315,Description:,Goods exchanged for money,,,,
+315,2026-07-23,301,Owner's Equity,0,928.844000000041
+316,2026-07-23,201,Accounts Payable,1835.94,0
+316,2026-07-23,101,Cash,0,1835.94
+316,Description:,Debt payment,,,,
+317,2026-07-27,401,Sales Revenue,0,2629.08
+317,2026-07-27,501,Cost of Goods Sold,1708.902,0
+317,2026-07-27,103,Inventory,0,1708.902
+317,2026-07-27,101,Cash,2629.08,0
+317,Description:,Goods exchanged for money,,,,
+317,2026-08-03,301,Owner's Equity,0,920.1780000000144
+318,2026-08-03,101,Cash,7895.56,0
+318,2026-08-03,202,Loan Payable,0,7895.56
+318,Description:,Loan activity,,,,
+319,2026-08-11,103,Inventory,3073.45,0
+319,2026-08-11,201,Accounts Payable,0,3073.45
+319,Description:,Added to inventory,,,,
+319,2026-08-21,301,Owner's Equity,2.9103830456733704e-11,0
+320,2026-08-21,201,Accounts Payable,1861.02,0
+320,2026-08-21,101,Cash,0,1861.02
+320,Description:,Debt payment,,,,
+320,2026-08-30,301,Owner's Equity,2.9103830456733704e-11,0
+321,2026-08-30,103,Inventory,1960.7,0
+321,2026-08-30,201,Accounts Payable,0,1960.7
+321,Description:,Added to inventory,,,,
+322,2026-09-03,101,Cash,0,6299.66
+322,2026-09-03,202,Loan Payable,6299.66,0
+322,Description:,Loan account adjustments,,,,
+323,2026-09-08,103,Inventory,1145.21,0
+323,2026-09-08,201,Accounts Payable,0,1145.21
+323,Description:,Added to inventory,,,,
+324,2026-09-18,101,Cash,0,9812.34
+324,2026-09-18,202,Loan Payable,9812.34,0
+324,Description:,Bank interactions,,,,
+325,2026-09-19,401,Sales Revenue,0,8579.41
+325,2026-09-19,501,Cost of Goods Sold,5576.6165,0
+325,2026-09-19,103,Inventory,0,5576.6165
+325,2026-09-19,101,Cash,8579.41,0
+325,Description:,Goods exchanged for money,,,,
+325,2026-09-25,301,Owner's Equity,0,3002.7934999999707
+326,2026-09-25,502,Rent Expense,993.48,0
+326,2026-09-25,503,Salary Expense,4629.14,0
+326,2026-09-25,101,Cash,0,5622.620000000001
+326,Description:,Operational costs deducted,,,,
+326,2026-09-30,301,Owner's Equity,5622.619999999995,0
+327,2026-09-30,201,Accounts Payable,641.41,0
+327,2026-09-30,101,Cash,0,641.41
+327,Description:,Paid off a creditor,,,,
+327,2026-10-07,301,Owner's Equity,0,2.9103830456733704e-11
+328,2026-10-07,103,Inventory,1648.59,0
+328,2026-10-07,201,Accounts Payable,0,1648.59
+328,Description:,Added to inventory,,,,
+328,2026-10-09,301,Owner's Equity,0,2.9103830456733704e-11
+329,2026-10-09,401,Sales Revenue,0,4352.38
+329,2026-10-09,501,Cost of Goods Sold,2829.047,0
+329,2026-10-09,103,Inventory,0,2829.047
+329,2026-10-09,102,Accounts Receivable,4352.38,0
+329,Description:,Goods exchanged for money,,,,
+329,2026-10-11,301,Owner's Equity,0,1523.3329999999842
+330,2026-10-11,201,Accounts Payable,1290.98,0
+330,2026-10-11,101,Cash,0,1290.98
+330,Description:,Debt payment,,,,
+330,2026-10-16,301,Owner's Equity,0,2.9103830456733704e-11
+331,2026-10-16,502,Rent Expense,1762.82,0
+331,2026-10-16,503,Salary Expense,3989.35,0
+331,2026-10-16,101,Cash,0,5752.17
+331,Description:,Regular expenses,,,,
+331,2026-10-18,301,Owner's Equity,5752.169999999984,0
+332,2026-10-18,101,Cash,0,5878.11
+332,2026-10-18,202,Loan Payable,5878.11,0
+332,Description:,Loan account adjustments,,,,
+333,2026-10-28,103,Inventory,1818.85,0
+333,2026-10-28,201,Accounts Payable,0,1818.85
+333,Description:,Restocking products,,,,
+334,2026-10-31,101,Cash,0,5584.82
+334,2026-10-31,202,Loan Payable,5584.82,0
+334,Description:,Bank interactions,,,,
+335,2026-11-01,101,Cash,0,8712.21
+335,2026-11-01,202,Loan Payable,8712.21,0
+335,Description:,Loan activity,,,,
+336,2026-11-03,101,Cash,0,5312.81
+336,2026-11-03,202,Loan Payable,5312.81,0
+336,Description:,Bank interactions,,,,
+337,2026-11-08,101,Cash,0,6098.17
+337,2026-11-08,202,Loan Payable,6098.17,0
+337,Description:,Loan activity,,,,
+338,2026-11-12,103,Inventory,2380.42,0
+338,2026-11-12,201,Accounts Payable,0,2380.42
+338,Description:,Goods purchased,,,,
+339,2026-11-17,201,Accounts Payable,743.96,0
+339,2026-11-17,101,Cash,0,743.96
+339,Description:,Debt payment,,,,
+339,2026-11-19,301,Owner's Equity,2.9103830456733704e-11,0
+340,2026-11-19,401,Sales Revenue,0,6745.67
+340,2026-11-19,501,Cost of Goods Sold,4384.6855000000005,0
+340,2026-11-19,103,Inventory,0,4384.6855000000005
+340,2026-11-19,102,Accounts Receivable,6745.67,0
+340,Description:,Items sold,,,,
+340,2026-11-27,301,Owner's Equity,0,2360.9844999999914
+341,2026-11-27,401,Sales Revenue,0,2183.58
+341,2026-11-27,501,Cost of Goods Sold,1419.327,0
+341,2026-11-27,103,Inventory,0,1419.327
+341,2026-11-27,101,Cash,2183.58,0
+341,Description:,Goods exchanged for money,,,,
+341,2026-12-06,301,Owner's Equity,0,764.2530000000261
+342,2026-12-06,401,Sales Revenue,0,7366.32
+342,2026-12-06,501,Cost of Goods Sold,4788.108,0
+342,2026-12-06,103,Inventory,0,4788.108
+342,2026-12-06,101,Cash,7366.32,0
+342,Description:,Sales completed,,,,
+342,2026-12-13,301,Owner's Equity,0,2578.2119999999995
+343,2026-12-13,103,Inventory,4549.64,0
+343,2026-12-13,201,Accounts Payable,0,4549.64
+343,Description:,Restocking products,,,,
+344,2026-12-14,101,Cash,0,5806.04
+344,2026-12-14,202,Loan Payable,5806.04,0
+344,Description:,Loan activity,,,,
+345,2026-12-20,401,Sales Revenue,0,5250.77
+345,2026-12-20,501,Cost of Goods Sold,3413.0005000000006,0
+345,2026-12-20,103,Inventory,0,3413.0005000000006
+345,2026-12-20,102,Accounts Receivable,5250.77,0
+345,Description:,Items sold,,,,
+345,2026-12-22,301,Owner's Equity,0,1837.7694999999658
+346,2026-12-22,103,Inventory,3558.38,0
+346,2026-12-22,201,Accounts Payable,0,3558.38
+346,Description:,Restocking products,,,,
+347,2026-12-31,401,Sales Revenue,0,7677.93
+347,2026-12-31,501,Cost of Goods Sold,4990.654500000001,0
+347,2026-12-31,103,Inventory,0,4990.654500000001
+347,2026-12-31,102,Accounts Receivable,7677.93,0
+347,Description:,Items sold,,,,
+347,2027-01-06,301,Owner's Equity,0,2687.275499999989
+348,2027-01-06,101,Cash,0,8047.54
+348,2027-01-06,202,Loan Payable,8047.54,0
+348,Description:,Bank interactions,,,,
+349,2027-01-15,401,Sales Revenue,0,8453.13
+349,2027-01-15,501,Cost of Goods Sold,5494.5345,0
+349,2027-01-15,103,Inventory,0,5494.5345
+349,2027-01-15,102,Accounts Receivable,8453.13,0
+349,Description:,Sales completed,,,,
+349,2027-01-17,301,Owner's Equity,0,2958.595500000025
+350,2027-01-17,401,Sales Revenue,0,4600.24
+350,2027-01-17,501,Cost of Goods Sold,2990.156,0
+350,2027-01-17,103,Inventory,0,2990.156
+350,2027-01-17,102,Accounts Receivable,4600.24,0
+350,Description:,Goods exchanged for money,,,,
+350,2027-01-27,301,Owner's Equity,0,1610.0839999999735
+351,2027-01-27,101,Cash,0,5046.76
+351,2027-01-27,202,Loan Payable,5046.76,0
+351,Description:,Loan activity,,,,
+352,2027-01-29,201,Accounts Payable,1002.5,0
+352,2027-01-29,101,Cash,0,1002.5
+352,Description:,Reduced payable amount,,,,
+353,2027-01-31,201,Accounts Payable,1791.28,0
+353,2027-01-31,101,Cash,0,1791.28
+353,Description:,Debt payment,,,,
+353,2027-02-03,301,Owner's Equity,2.9103830456733704e-11,0
+354,2027-02-03,103,Inventory,3217.29,0
+354,2027-02-03,201,Accounts Payable,0,3217.29
+354,Description:,Added to inventory,,,,
+355,2027-02-07,401,Sales Revenue,0,4047.6
+355,2027-02-07,501,Cost of Goods Sold,2630.94,0
+355,2027-02-07,103,Inventory,0,2630.94
+355,2027-02-07,102,Accounts Receivable,4047.6,0
+355,Description:,Items sold,,,,
+355,2027-02-10,301,Owner's Equity,0,1416.6600000000035
+356,2027-02-10,103,Inventory,3271.75,0
+356,2027-02-10,201,Accounts Payable,0,3271.75
+356,Description:,Added to inventory,,,,
+357,2027-02-15,201,Accounts Payable,582.9,0
+357,2027-02-15,101,Cash,0,582.9
+357,Description:,Reduced payable amount,,,,
+357,2027-02-20,301,Owner's Equity,2.9103830456733704e-11,0
+358,2027-02-20,401,Sales Revenue,0,4835.13
+358,2027-02-20,501,Cost of Goods Sold,3142.8345000000004,0
+358,2027-02-20,103,Inventory,0,3142.8345000000004
+358,2027-02-20,102,Accounts Receivable,4835.13,0
+358,Description:,Goods exchanged for money,,,,
+358,2027-03-02,301,Owner's Equity,0,1692.2955000000075
+359,2027-03-02,401,Sales Revenue,0,7890.81
+359,2027-03-02,501,Cost of Goods Sold,5129.026500000001,0
+359,2027-03-02,103,Inventory,0,5129.026500000001
+359,2027-03-02,102,Accounts Receivable,7890.81,0
+359,Description:,Goods exchanged for money,,,,
+359,2027-03-11,301,Owner's Equity,0,2761.7834999999905
+360,2027-03-11,201,Accounts Payable,1729.72,0
+360,2027-03-11,101,Cash,0,1729.72
+360,Description:,Paid off a creditor,,,,
+360,2027-03-14,301,Owner's Equity,0,2.9103830456733704e-11
+361,2027-03-14,103,Inventory,3195.88,0
+361,2027-03-14,201,Accounts Payable,0,3195.88
+361,Description:,Added to inventory,,,,
+362,2027-03-17,103,Inventory,2804.95,0
+362,2027-03-17,201,Accounts Payable,0,2804.95
+362,Description:,Goods purchased,,,,
+363,2027-03-27,401,Sales Revenue,0,5978.9
+363,2027-03-27,501,Cost of Goods Sold,3886.285,0
+363,2027-03-27,103,Inventory,0,3886.285
+363,2027-03-27,102,Accounts Receivable,5978.9,0
+363,Description:,Goods exchanged for money,,,,
+363,2027-04-06,301,Owner's Equity,0,2092.61500000002
+364,2027-04-06,502,Rent Expense,1577.87,0
+364,2027-04-06,503,Salary Expense,3120.52,0
+364,2027-04-06,101,Cash,0,4698.389999999999
+364,Description:,Regular expenses,,,,
+364,2027-04-14,301,Owner's Equity,4698.390000000014,0
+365,2027-04-14,201,Accounts Payable,1088.72,0
+365,2027-04-14,101,Cash,0,1088.72
+365,Description:,Paid off a creditor,,,,
+365,2027-04-20,301,Owner's Equity,0,2.9103830456733704e-11
+366,2027-04-20,201,Accounts Payable,900.02,0
+366,2027-04-20,101,Cash,0,900.02
+366,Description:,Reduced payable amount,,,,
+366,2027-04-28,301,Owner's Equity,2.9103830456733704e-11,0
+367,2027-04-28,101,Cash,0,8879.51
+367,2027-04-28,202,Loan Payable,8879.51,0
+367,Description:,Bank interactions,,,,
+368,2027-05-07,101,Cash,0,9275.56
+368,2027-05-07,202,Loan Payable,9275.56,0
+368,Description:,Bank interactions,,,,
+369,2027-05-08,101,Cash,0,7814.26
+369,2027-05-08,202,Loan Payable,7814.26,0
+369,Description:,Loan activity,,,,
+369,2027-05-09,301,Owner's Equity,0,5.820766091346741e-11
+370,2027-05-09,201,Accounts Payable,1517.71,0
+370,2027-05-09,101,Cash,0,1517.71
+370,Description:,Debt payment,,,,
+370,2027-05-18,301,Owner's Equity,0,2.9103830456733704e-11
+371,2027-05-18,101,Cash,0,6747.63
+371,2027-05-18,202,Loan Payable,6747.63,0
+371,Description:,Bank interactions,,,,
+372,2027-05-27,101,Cash,0,9491.95
+372,2027-05-27,202,Loan Payable,9491.95,0
+372,Description:,Bank interactions,,,,
+372,2027-05-28,301,Owner's Equity,0,5.820766091346741e-11
+373,2027-05-28,201,Accounts Payable,1494.92,0
+373,2027-05-28,101,Cash,0,1494.92
+373,Description:,Debt payment,,,,
+373,2027-05-29,301,Owner's Equity,2.9103830456733704e-11,0
+374,2027-05-29,201,Accounts Payable,1440.91,0
+374,2027-05-29,101,Cash,0,1440.91
+374,Description:,Paid off a creditor,,,,
+374,2027-06-03,301,Owner's Equity,2.9103830456733704e-11,0
+375,2027-06-03,502,Rent Expense,1712.34,0
+375,2027-06-03,503,Salary Expense,2448.14,0
+375,2027-06-03,101,Cash,0,4160.48
+375,Description:,Monthly bills paid,,,,
+375,2027-06-13,301,Owner's Equity,4160.4800000000105,0
+376,2027-06-13,401,Sales Revenue,0,2721.36
+376,2027-06-13,501,Cost of Goods Sold,1768.8840000000002,0
+376,2027-06-13,103,Inventory,0,1768.8840000000002
+376,2027-06-13,102,Accounts Receivable,2721.36,0
+376,Description:,Items sold,,,,
+376,2027-06-23,301,Owner's Equity,0,952.4760000000242
+377,2027-06-23,103,Inventory,3583.63,0
+377,2027-06-23,201,Accounts Payable,0,3583.63
+377,Description:,Added to inventory,,,,
+377,2027-06-30,301,Owner's Equity,2.9103830456733704e-11,0
+378,2027-06-30,103,Inventory,28868.5,0
+378,2027-06-30,201,Accounts Payable,0,28868.5
+378,Description:,Added to inventory,ANOMALY,,,
+379,2027-07-06,103,Inventory,2768.01,0
+379,2027-07-06,201,Accounts Payable,0,2768.01
+379,Description:,Restocking products,,,,
+380,2027-07-09,103,Inventory,2946.04,0
+380,2027-07-09,201,Accounts Payable,0,2946.04
+380,Description:,Added to inventory,,,,
+381,Description:,Items sold,ANOMALY,,,
+382,2027-07-21,401,Sales Revenue,0,2668.91
+382,2027-07-21,501,Cost of Goods Sold,1734.7915,0
+382,2027-07-21,103,Inventory,0,1734.7915
+382,2027-07-21,101,Cash,2668.91,0
+382,Description:,Items sold,,,,
+382,2027-07-28,301,Owner's Equity,0,934.1185000000405
+383,2027-07-28,201,Accounts Payable,580.11,0
+383,2027-07-28,101,Cash,0,580.11
+383,Description:,Paid off a creditor,,,,
+384,2027-08-07,101,Cash,0,9822.62
+384,2027-08-07,202,Loan Payable,9822.62,0
+384,Description:,Loan activity,,,,
+385,2027-08-16,101,Cash,0,9828.71
+385,2027-08-16,202,Loan Payable,9828.71,0
+385,Description:,Loan activity,,,,
+385,2027-08-21,301,Owner's Equity,0,5.820766091346741e-11
+386,2027-08-21,201,Accounts Payable,1887.3,0
+386,2027-08-21,101,Cash,0,1887.3
+386,Description:,Paid off a creditor,,,,
+386,2027-08-25,301,Owner's Equity,5.820766091346741e-11,0
+387,2027-08-25,401,Sales Revenue,0,4460.91
+387,2027-08-25,501,Cost of Goods Sold,2899.5915,0
+387,2027-08-25,103,Inventory,0,2899.5915
+387,2027-08-25,102,Accounts Receivable,4460.91,0
+387,Description:,Items sold,,,,
+387,2027-09-02,301,Owner's Equity,0,1561.3184999999648
+388,2027-09-02,101,Cash,0,7378.75
+388,2027-09-02,202,Loan Payable,7378.75,0
+388,Description:,Loan activity,,,,
+389,2027-09-05,103,Inventory,2753.81,0
+389,2027-09-05,201,Accounts Payable,0,2753.81
+389,Description:,Goods purchased,,,,
+390,2027-09-08,103,Inventory,4633.82,0
+390,2027-09-08,201,Accounts Payable,0,4633.82
+390,Description:,Added to inventory,,,,
+390,2027-09-18,301,Owner's Equity,2.9103830456733704e-11,0
+391,2027-09-18,201,Accounts Payable,848.39,0
+391,2027-09-18,101,Cash,0,848.39
+391,Description:,Reduced payable amount,,,,
+392,2027-09-19,103,Inventory,4031.14,0
+392,2027-09-19,201,Accounts Payable,0,4031.14
+392,Description:,Added to inventory,,,,
+393,2027-09-29,201,Accounts Payable,686.02,0
+393,2027-09-29,101,Cash,0,686.02
+393,Description:,Reduced payable amount,,,,
+393,2027-10-04,301,Owner's Equity,2.9103830456733704e-11,0
+394,2027-10-04,201,Accounts Payable,1610.88,0
+394,2027-10-04,101,Cash,0,1610.88
+394,Description:,Reduced payable amount,,,,
+395,2027-10-07,201,Accounts Payable,1704.09,0
+395,2027-10-07,101,Cash,0,1704.09
+395,Description:,Debt payment,,,,
+395,2027-10-08,301,Owner's Equity,0,2.9103830456733704e-11
+396,2027-10-08,201,Accounts Payable,1923.72,0
+396,2027-10-08,101,Cash,0,1923.72
+396,Description:,Debt payment,,,,
+396,2027-10-11,301,Owner's Equity,0,2.9103830456733704e-11
+397,2027-10-11,201,Accounts Payable,1184.47,0
+397,2027-10-11,101,Cash,0,1184.47
+397,Description:,Paid off a creditor,,,,
+397,2027-10-19,301,Owner's Equity,0,2.9103830456733704e-11
+398,2027-10-19,103,Inventory,4469.69,0
+398,2027-10-19,201,Accounts Payable,0,4469.69
+398,Description:,Goods purchased,,,,
+399,2027-10-24,101,Cash,7793.02,0
+399,2027-10-24,202,Loan Payable,0,7793.02
+399,Description:,Loan activity,,,,
+400,2027-11-03,201,Accounts Payable,994.24,0
+400,2027-11-03,101,Cash,0,994.24
+400,Description:,Reduced payable amount,,,,
+401,2027-11-05,101,Cash,0,6760.92
+401,2027-11-05,202,Loan Payable,6760.92,0
+401,Description:,Loan activity,,,,
+401,2027-11-06,301,Owner's Equity,5.820766091346741e-11,0
+402,2027-11-06,201,Accounts Payable,1761.13,0
+402,2027-11-06,101,Cash,0,1761.13
+402,Description:,Paid off a creditor,,,,
+403,2027-11-12,103,Inventory,1795.38,0
+403,2027-11-12,201,Accounts Payable,0,1795.38
+403,Description:,Added to inventory,,,,
+404,2027-11-14,401,Sales Revenue,0,7422.15
+404,2027-11-14,501,Cost of Goods Sold,4824.3975,0
+404,2027-11-14,103,Inventory,0,4824.3975
+404,2027-11-14,101,Cash,7422.15,0
+404,Description:,Items sold,,,,
+404,2027-11-24,301,Owner's Equity,0,2597.7525000000023
+405,2027-11-24,502,Rent Expense,1111.55,0
+405,2027-11-24,503,Salary Expense,5163.16,0
+405,2027-11-24,101,Cash,0,6274.71
+405,Description:,Regular expenses,,,,
+405,2027-12-04,301,Owner's Equity,6274.709999999963,0
+406,2027-12-04,103,Inventory,4002.45,0
+406,2027-12-04,201,Accounts Payable,0,4002.45
+406,Description:,Goods purchased,,,,
+407,2027-12-09,401,Sales Revenue,0,5514.56
+407,2027-12-09,501,Cost of Goods Sold,3584.4640000000004,0
+407,2027-12-09,103,Inventory,0,3584.4640000000004
+407,2027-12-09,101,Cash,5514.56,0
+407,Description:,Sales completed,,,,
+407,2027-12-18,301,Owner's Equity,0,1930.0960000000487
+408,2027-12-18,502,Rent Expense,1993.06,0
+408,2027-12-18,503,Salary Expense,2896.69,0
+408,2027-12-18,101,Cash,0,4889.75
+408,Description:,Regular expenses,,,,
+408,2027-12-20,301,Owner's Equity,4889.75,0
+409,2027-12-20,101,Cash,0,8713.25
+409,2027-12-20,202,Loan Payable,8713.25,0
+409,Description:,Loan activity,,,,
+410,2027-12-24,201,Accounts Payable,741.81,0
+410,2027-12-24,101,Cash,0,741.81
+410,Description:,Reduced payable amount,,,,
+410,2027-12-29,301,Owner's Equity,5.820766091346741e-11,0
+411,2027-12-29,401,Sales Revenue,0,4121.81
+411,2027-12-29,501,Cost of Goods Sold,2679.1765000000005,0
+411,2027-12-29,103,Inventory,0,2679.1765000000005
+411,2027-12-29,102,Accounts Receivable,4121.81,0
+411,Description:,Sales completed,,,,
+411,2027-12-31,301,Owner's Equity,0,1442.6334999999963
+412,2027-12-31,401,Sales Revenue,0,5774.93
+412,2027-12-31,501,Cost of Goods Sold,3753.7045000000003,0
+412,2027-12-31,103,Inventory,0,3753.7045000000003
+412,2027-12-31,101,Cash,5774.93,0
+412,Description:,Items sold,,,,
+412,2028-01-01,301,Owner's Equity,0,2021.2255000000587
+413,2028-01-01,101,Cash,0,9920.22
+413,2028-01-01,202,Loan Payable,9920.22,0
+413,Description:,Loan account adjustments,,,,
+413,2028-01-09,301,Owner's Equity,0,5.820766091346741e-11
+414,2028-01-09,201,Accounts Payable,1635.93,0
+414,2028-01-09,101,Cash,0,1635.93
+414,Description:,Reduced payable amount,,,,
+414,2028-01-17,301,Owner's Equity,5.820766091346741e-11,0
+415,2028-01-17,103,Inventory,816.95,0
+415,2028-01-17,201,Accounts Payable,0,816.95
+415,Description:,Restocking products,,,,
+415,2028-01-19,301,Owner's Equity,5.820766091346741e-11,0
+416,2028-01-19,201,Accounts Payable,586.04,0
+416,2028-01-19,101,Cash,0,586.04
+416,Description:,Reduced payable amount,,,,
+416,2028-01-21,301,Owner's Equity,5.820766091346741e-11,0
+417,2028-01-21,103,Inventory,722.65,0
+417,2028-01-21,201,Accounts Payable,0,722.65
+417,Description:,Restocking products,,,,
+417,2028-01-27,301,Owner's Equity,0,5.820766091346741e-11
+418,2028-01-27,201,Accounts Payable,1339.19,0
+418,2028-01-27,101,Cash,0,1339.19
+418,Description:,Reduced payable amount,,,,
+418,2028-02-06,301,Owner's Equity,0,5.820766091346741e-11
+419,2028-02-06,401,Sales Revenue,0,10104.77
+419,2028-02-06,501,Cost of Goods Sold,6568.1005000000005,0
+419,2028-02-06,103,Inventory,0,6568.1005000000005
+419,2028-02-06,102,Accounts Receivable,10104.77,0
+419,Description:,Items sold,,,,
+419,2028-02-16,301,Owner's Equity,0,3536.669500000018
+420,2028-02-16,401,Sales Revenue,0,5376.95
+420,2028-02-16,501,Cost of Goods Sold,3495.0175,0
+420,2028-02-16,103,Inventory,0,3495.0175
+420,2028-02-16,102,Accounts Receivable,5376.95,0
+420,Description:,Goods exchanged for money,,,,
+420,2028-02-19,301,Owner's Equity,0,1881.9324999999662
+421,2028-02-19,502,Rent Expense,937.95,0
+421,2028-02-19,503,Salary Expense,3543.5,0
+421,2028-02-19,101,Cash,0,4481.45
+421,Description:,Monthly bills paid,,,,
+421,2028-02-28,301,Owner's Equity,4481.449999999953,0
+422,2028-02-28,101,Cash,0,9958.3
+422,2028-02-28,202,Loan Payable,9958.3,0
+422,Description:,Bank interactions,,,,
+422,2028-03-03,301,Owner's Equity,5.820766091346741e-11,0
+423,2028-03-03,101,Cash,8957.76,0
+423,2028-03-03,202,Loan Payable,0,8957.76
+423,Description:,Loan activity,,,,
+424,2028-03-07,401,Sales Revenue,0,2253.72
+424,2028-03-07,501,Cost of Goods Sold,1464.918,0
+424,2028-03-07,103,Inventory,0,1464.918
+424,2028-03-07,101,Cash,2253.72,0
+424,Description:,Goods exchanged for money,,,,
+424,2028-03-12,301,Owner's Equity,0,788.8019999999669
+425,2028-03-12,502,Rent Expense,1572.17,0
+425,2028-03-12,503,Salary Expense,3260.16,0
+425,2028-03-12,101,Cash,0,4832.33
+425,Description:,Operational costs deducted,,,,
+425,2028-03-19,301,Owner's Equity,4832.329999999958,0
+426,2028-03-19,101,Cash,0,5862.3
+426,2028-03-19,202,Loan Payable,5862.3,0
+426,Description:,Loan activity,,,,
+426,2028-03-27,301,Owner's Equity,5.820766091346741e-11,0
+427,2028-03-27,502,Rent Expense,897.89,0
+427,2028-03-27,503,Salary Expense,5103.24,0
+427,2028-03-27,101,Cash,0,6001.13
+427,Description:,Operational costs deducted,,,,
+427,2028-03-28,301,Owner's Equity,6001.130000000005,0
+428,2028-03-28,401,Sales Revenue,0,6641.66
+428,2028-03-28,501,Cost of Goods Sold,4317.079,0
+428,2028-03-28,103,Inventory,0,4317.079
+428,2028-03-28,102,Accounts Receivable,6641.66,0
+428,Description:,Goods exchanged for money,,,,
+428,2028-04-04,301,Owner's Equity,0,2324.5810000000056
+429,2028-04-04,201,Accounts Payable,1882.8,0
+429,2028-04-04,101,Cash,0,1882.8
+429,Description:,Paid off a creditor,,,,
+429,2028-04-05,301,Owner's Equity,5.820766091346741e-11,0
+430,2028-04-05,201,Accounts Payable,1587.13,0
+430,2028-04-05,101,Cash,0,1587.13
+430,Description:,Debt payment,,,,
+431,2028-04-13,103,Inventory,4215.89,0
+431,2028-04-13,201,Accounts Payable,0,4215.89
+431,Description:,Goods purchased,,,,
+432,2028-04-15,401,Sales Revenue,0,9380.22
+432,2028-04-15,501,Cost of Goods Sold,6097.143,0
+432,2028-04-15,103,Inventory,0,6097.143
+432,2028-04-15,101,Cash,9380.22,0
+432,Description:,Items sold,,,,
+432,2028-04-18,301,Owner's Equity,0,3283.076999999932
+433,2028-04-18,101,Cash,0,5579.12
+433,2028-04-18,202,Loan Payable,5579.12,0
+433,Description:,Loan account adjustments,,,,
+433,2028-04-27,301,Owner's Equity,0,5.820766091346741e-11
+434,2028-04-27,103,Inventory,4520.39,0
+434,2028-04-27,201,Accounts Payable,0,4520.39
+434,Description:,Goods purchased,,,,
+434,2028-04-29,301,Owner's Equity,5.820766091346741e-11,0
+435,2028-04-29,101,Cash,0,7445.72
+435,2028-04-29,202,Loan Payable,7445.72,0
+435,Description:,Bank interactions,,,,
+435,2028-05-09,301,Owner's Equity,0,5.820766091346741e-11
+436,2028-05-09,101,Cash,0,5516.98
+436,2028-05-09,202,Loan Payable,5516.98,0
+436,Description:,Loan account adjustments,,,,
+437,2028-05-18,201,Accounts Payable,17135.7,0
+437,2028-05-18,101,Cash,0,17135.7
+437,Description:,Debt payment,ANOMALY,,,
+438,2028-05-27,201,Accounts Payable,828.55,0
+438,2028-05-27,101,Cash,0,828.55
+438,Description:,Paid off a creditor,,,,
+439,2028-06-06,201,Accounts Payable,1888.44,0
+439,2028-06-06,101,Cash,0,1888.44
+439,Description:,Paid off a creditor,,,,
+440,2028-06-16,401,Sales Revenue,0,6634.9
+440,2028-06-16,501,Cost of Goods Sold,4312.6849999999995,0
+440,2028-06-16,103,Inventory,0,4312.6849999999995
+440,2028-06-16,102,Accounts Receivable,6634.9,0
+440,Description:,Sales completed,,,,
+440,2028-06-22,301,Owner's Equity,0,2322.2150000000256
+441,2028-06-22,401,Sales Revenue,0,5937.08
+441,2028-06-22,501,Cost of Goods Sold,3859.102,0
+441,2028-06-22,103,Inventory,0,3859.102
+441,2028-06-22,101,Cash,5937.08,0
+441,Description:,Goods exchanged for money,,,,
+441,2028-06-26,301,Owner's Equity,0,2077.9779999999446
+442,2028-06-26,101,Cash,0,8448.48
+442,2028-06-26,202,Loan Payable,8448.48,0
+442,Description:,Loan activity,,,,
+443,2028-06-28,101,Cash,0,5099.85
+443,2028-06-28,202,Loan Payable,5099.85,0
+443,Description:,Loan activity,,,,
+444,2028-07-02,201,Accounts Payable,1593.41,0
+444,2028-07-02,101,Cash,0,1593.41
+444,Description:,Debt payment,,,,
+445,2028-07-03,401,Sales Revenue,0,4509.02
+445,2028-07-03,501,Cost of Goods Sold,2930.8630000000003,0
+445,2028-07-03,103,Inventory,0,2930.8630000000003
+445,2028-07-03,102,Accounts Receivable,4509.02,0
+445,Description:,Sales completed,,,,
+445,2028-07-08,301,Owner's Equity,0,1578.1570000000065
+446,2028-07-08,101,Cash,5659.15,0
+446,2028-07-08,202,Loan Payable,0,5659.15
+446,Description:,Loan account adjustments,,,,
+447,2028-07-12,101,Cash,9533.1,0
+447,2028-07-12,202,Loan Payable,0,9533.1
+447,Description:,Loan account adjustments,,,,
+448,2028-07-19,401,Sales Revenue,0,5463.15
+448,2028-07-19,501,Cost of Goods Sold,3551.0474999999997,0
+448,2028-07-19,103,Inventory,0,3551.0474999999997
+448,2028-07-19,101,Cash,5463.15,0
+448,Description:,Goods exchanged for money,,,,
+448,2028-07-21,301,Owner's Equity,0,1912.1025000000373
+449,2028-07-21,103,Inventory,4706.38,0
+449,2028-07-21,201,Accounts Payable,0,4706.38
+449,Description:,Added to inventory,,,,
+450,2028-07-30,502,Rent Expense,1852.38,0
+450,2028-07-30,503,Salary Expense,2549.02,0
+450,2028-07-30,101,Cash,0,4401.4
+450,Description:,Operational costs deducted,,,,
+450,2028-08-07,301,Owner's Equity,4401.400000000023,0
+451,2028-08-07,401,Sales Revenue,0,2827.24
+451,2028-08-07,501,Cost of Goods Sold,1837.706,0
+451,2028-08-07,103,Inventory,0,1837.706
+451,2028-08-07,101,Cash,2827.24,0
+451,Description:,Sales completed,,,,
+451,2028-08-12,301,Owner's Equity,0,989.5339999999851
+452,2028-08-12,103,Inventory,4233.73,0
+452,2028-08-12,201,Accounts Payable,0,4233.73
+452,Description:,Added to inventory,,,,
+452,2028-08-15,301,Owner's Equity,0,5.820766091346741e-11
+453,2028-08-15,101,Cash,0,7596.6
+453,2028-08-15,202,Loan Payable,7596.6,0
+453,Description:,Loan activity,,,,
+454,2028-08-21,401,Sales Revenue,0,3442.98
+454,2028-08-21,501,Cost of Goods Sold,2237.937,0
+454,2028-08-21,103,Inventory,0,2237.937
+454,2028-08-21,102,Accounts Receivable,3442.98,0
+454,Description:,Sales completed,,,,
+454,2028-08-31,301,Owner's Equity,0,1205.042999999947
+455,2028-08-31,401,Sales Revenue,0,7707.56
+455,2028-08-31,501,Cost of Goods Sold,5009.914000000001,0
+455,2028-08-31,103,Inventory,0,5009.914000000001
+455,2028-08-31,101,Cash,7707.56,0
+455,Description:,Items sold,,,,
+455,2028-09-05,301,Owner's Equity,0,2697.646000000066
+456,2028-09-05,101,Cash,5552.51,0
+456,2028-09-05,202,Loan Payable,0,5552.51
+456,Description:,Bank interactions,,,,
+457,2028-09-12,101,Cash,0,6232.77
+457,2028-09-12,202,Loan Payable,6232.77,0
+457,Description:,Loan account adjustments,,,,
+458,2028-09-17,201,Accounts Payable,1059.67,0
+458,2028-09-17,101,Cash,0,1059.67
+458,Description:,Reduced payable amount,,,,
+458,2028-09-25,301,Owner's Equity,5.820766091346741e-11,0
+459,2028-09-25,101,Cash,59219.799999999996,0
+459,2028-09-25,202,Loan Payable,0,59219.799999999996
+459,Description:,Bank interactions,ANOMALY,,,
+459,2028-10-01,301,Owner's Equity,0,2.9103830456733704e-11
+460,2028-10-01,103,Inventory,2411.6,0
+460,2028-10-01,201,Accounts Payable,0,2411.6
+460,Description:,Restocking products,,,,
+461,2028-10-11,401,Sales Revenue,0,5486.11
+461,2028-10-11,501,Cost of Goods Sold,3565.9715,0
+461,2028-10-11,103,Inventory,0,3565.9715
+461,2028-10-11,101,Cash,5486.11,0
+461,Description:,Sales completed,,,,
+461,2028-10-14,301,Owner's Equity,0,1920.1384999999718
+462,2028-10-14,201,Accounts Payable,1744.42,0
+462,2028-10-14,101,Cash,0,1744.42
+462,Description:,Debt payment,,,,
+462,2028-10-23,301,Owner's Equity,2.9103830456733704e-11,0
+463,2028-10-23,103,Inventory,1974.06,0
+463,2028-10-23,201,Accounts Payable,0,1974.06
+463,Description:,Added to inventory,,,,
+464,2028-11-02,101,Cash,0,9645.53
+464,2028-11-02,202,Loan Payable,9645.53,0
+464,Description:,Bank interactions,,,,
+465,2028-11-11,103,Inventory,1470.59,0
+465,2028-11-11,201,Accounts Payable,0,1470.59
+465,Description:,Goods purchased,,,,
+466,2028-11-19,103,Inventory,3720.24,0
+466,2028-11-19,201,Accounts Payable,0,3720.24
+466,Description:,Goods purchased,,,,
+466,2028-11-26,301,Owner's Equity,0,2.9103830456733704e-11
+467,2028-11-26,101,Cash,0,5029.76
+467,2028-11-26,202,Loan Payable,5029.76,0
+467,Description:,Bank interactions,,,,
+468,2028-11-30,502,Rent Expense,745.51,0
+468,2028-11-30,503,Salary Expense,2841.9,0
+468,2028-11-30,101,Cash,0,3587.41
+468,Description:,Regular expenses,,,,
+468,2028-12-03,301,Owner's Equity,3587.4100000000326,0
+469,2028-12-03,502,Rent Expense,797.63,0
+469,2028-12-03,503,Salary Expense,3736.59,0
+469,2028-12-03,101,Cash,0,4534.22
+469,Description:,Regular expenses,,,,
+469,2028-12-04,301,Owner's Equity,4534.219999999972,0
+470,2028-12-04,103,Inventory,2937.71,0
+470,2028-12-04,201,Accounts Payable,0,2937.71
+470,Description:,Restocking products,,,,
+471,2028-12-11,401,Sales Revenue,0,8833.53
+471,2028-12-11,501,Cost of Goods Sold,5741.794500000001,0
+471,2028-12-11,103,Inventory,0,5741.794500000001
+471,2028-12-11,102,Accounts Receivable,8833.53,0
+471,Description:,Sales completed,,,,
+471,2028-12-18,301,Owner's Equity,0,3091.735500000039
+472,2028-12-18,101,Cash,0,9405.02
+472,2028-12-18,202,Loan Payable,9405.02,0
+472,Description:,Loan account adjustments,,,,
+473,2028-12-22,401,Sales Revenue,0,7124.65
+473,2028-12-22,501,Cost of Goods Sold,4631.0225,0
+473,2028-12-22,103,Inventory,0,4631.0225
+473,2028-12-22,102,Accounts Receivable,7124.65,0
+473,Description:,Sales completed,,,,
+473,2028-12-26,301,Owner's Equity,0,2493.6275000000023
+474,2028-12-26,401,Sales Revenue,0,2870.48
+474,2028-12-26,501,Cost of Goods Sold,1865.8120000000001,0
+474,2028-12-26,103,Inventory,0,1865.8120000000001
+474,2028-12-26,101,Cash,2870.48,0
+474,Description:,Goods exchanged for money,,,,
+474,2029-01-05,301,Owner's Equity,0,1004.6680000000051
+475,2029-01-05,401,Sales Revenue,0,6592.9
+475,2029-01-05,501,Cost of Goods Sold,4285.385,0
+475,2029-01-05,103,Inventory,0,4285.385
+475,2029-01-05,101,Cash,6592.9,0
+475,Description:,Items sold,,,,
+475,2029-01-10,301,Owner's Equity,0,2307.515000000014
+476,2029-01-10,201,Accounts Payable,789.67,0
+476,2029-01-10,101,Cash,0,789.67
+476,Description:,Reduced payable amount,,,,
+476,2029-01-15,301,Owner's Equity,2.9103830456733704e-11,0
+477,Description:,Sales completed,ANOMALY,,,
+478,2029-01-20,103,Inventory,737.3,0
+478,2029-01-20,201,Accounts Payable,0,737.3
+478,Description:,Added to inventory,,,,
+479,2029-01-27,101,Cash,0,9889.18
+479,2029-01-27,202,Loan Payable,9889.18,0
+479,Description:,Bank interactions,,,,
+479,2029-02-06,301,Owner's Equity,5.820766091346741e-11,0
+480,2029-02-06,401,Sales Revenue,0,9527.72
+480,2029-02-06,501,Cost of Goods Sold,6193.018,0
+480,2029-02-06,103,Inventory,0,6193.018
+480,2029-02-06,102,Accounts Receivable,9527.72,0
+480,Description:,Sales completed,,,,
+480,2029-02-09,301,Owner's Equity,0,3334.70199999999
+481,2029-02-09,502,Rent Expense,1277.15,0
+481,2029-02-09,503,Salary Expense,4636.34,0
+481,2029-02-09,101,Cash,0,5913.49
+481,Description:,Monthly bills paid,,,,
+481,2029-02-14,301,Owner's Equity,5913.489999999991,0
+482,2029-02-14,201,Accounts Payable,1667.0,0
+482,2029-02-14,101,Cash,0,1667.0
+482,Description:,Paid off a creditor,,,,
+483,2029-02-20,401,Sales Revenue,0,4332.69
+483,2029-02-20,501,Cost of Goods Sold,2816.2484999999997,0
+483,2029-02-20,103,Inventory,0,2816.2484999999997
+483,2029-02-20,102,Accounts Receivable,4332.69,0
+483,Description:,Items sold,,,,
+483,2029-03-01,301,Owner's Equity,0,1516.4415000000154
+484,2029-03-01,502,Rent Expense,1610.18,0
+484,2029-03-01,503,Salary Expense,4998.5,0
+484,2029-03-01,101,Cash,0,6608.68
+484,Description:,Monthly bills paid,,,,
+484,2029-03-02,301,Owner's Equity,6608.680000000051,0
+485,2029-03-02,401,Sales Revenue,0,9728.04
+485,2029-03-02,501,Cost of Goods Sold,6323.226000000001,0
+485,2029-03-02,103,Inventory,0,6323.226000000001
+485,2029-03-02,101,Cash,9728.04,0
+485,Description:,Goods exchanged for money,,,,
+485,2029-03-06,301,Owner's Equity,0,3404.814000000013
+486,Description:,Sales completed,,,,
+487,2029-03-13,101,Cash,0,9843.7
+487,2029-03-13,202,Loan Payable,9843.7,0
+487,Description:,Loan activity,,,,
+487,2029-03-20,301,Owner's Equity,0,1.1641532182693481e-10
+488,Description:,Goods exchanged for money,,,,
+489,2029-03-25,201,Accounts Payable,1575.18,0
+489,2029-03-25,101,Cash,0,1575.18
+489,Description:,Debt payment,,,,
+489,2029-03-31,301,Owner's Equity,1.1641532182693481e-10,0
+490,2029-03-31,103,Inventory,3828.9,0
+490,2029-03-31,201,Accounts Payable,0,3828.9
+490,Description:,Restocking products,,,,
+490,2029-04-10,301,Owner's Equity,0,5.820766091346741e-11
+491,2029-04-10,201,Accounts Payable,778.06,0
+491,2029-04-10,101,Cash,0,778.06
+491,Description:,Debt payment,,,,
+491,2029-04-20,301,Owner's Equity,5.820766091346741e-11,0
+492,2029-04-20,201,Accounts Payable,1890.16,0
+492,2029-04-20,101,Cash,0,1890.16
+492,Description:,Reduced payable amount,,,,
+493,2029-04-30,101,Cash,0,8382.57
+493,2029-04-30,202,Loan Payable,8382.57,0
+493,Description:,Loan activity,,,,
+494,2029-05-06,201,Accounts Payable,1958.72,0
+494,2029-05-06,101,Cash,0,1958.72
+494,Description:,Reduced payable amount,,,,
+494,2029-05-12,301,Owner's Equity,0,5.820766091346741e-11
+495,2029-05-12,101,Cash,0,6458.28
+495,2029-05-12,202,Loan Payable,6458.28,0
+495,Description:,Bank interactions,,,,
+496,2029-05-20,103,Inventory,829.67,0
+496,2029-05-20,201,Accounts Payable,0,829.67
+496,Description:,Added to inventory,,,,
+497,2029-05-24,201,Accounts Payable,18898.9,0
+497,2029-05-24,101,Cash,0,18898.9
+497,Description:,Paid off a creditor,ANOMALY,,,
+497,2029-06-02,301,Owner's Equity,5.820766091346741e-11,0
+498,Description:,Items sold,,,,
+499,Description:,Goods exchanged for money,,,,
+500,2029-06-15,201,Accounts Payable,1898.84,0
+500,2029-06-15,101,Cash,0,1898.84
+500,Description:,Debt payment,,,,
+500,2029-06-16,301,Owner's Equity,0,5.820766091346741e-11
+501,2029-06-16,401,Sales Revenue,0,3816.58
+501,2029-06-16,501,Cost of Goods Sold,2480.777,0
+501,2029-06-16,103,Inventory,0,2480.777
+501,2029-06-16,102,Accounts Receivable,3816.58,0
+501,Description:,Items sold,,,,
+501,2029-06-21,301,Owner's Equity,0,1335.8030000000144
+502,2029-06-21,103,Inventory,2141.55,0
+502,2029-06-21,201,Accounts Payable,0,2141.55
+502,Description:,Goods purchased,,,,
+502,2029-06-29,301,Owner's Equity,5.820766091346741e-11,0
+503,Description:,Goods exchanged for money,,,,
+504,2029-07-05,201,Accounts Payable,1467.17,0
+504,2029-07-05,101,Cash,0,1467.17
+504,Description:,Reduced payable amount,,,,
+505,2029-07-07,502,Rent Expense,1769.97,0
+505,2029-07-07,503,Salary Expense,5904.55,0
+505,2029-07-07,101,Cash,0,7674.52
+505,Description:,Regular expenses,,,,
+505,2029-07-12,301,Owner's Equity,7674.520000000019,0
+506,2029-07-12,103,Inventory,559.51,0
+506,2029-07-12,201,Accounts Payable,0,559.51
+506,Description:,Goods purchased,,,,
+507,2029-07-16,101,Cash,0,9369.86
+507,2029-07-16,202,Loan Payable,9369.86,0
+507,Description:,Bank interactions,,,,
+508,2029-07-22,201,Accounts Payable,1152.05,0
+508,2029-07-22,101,Cash,0,1152.05
+508,Description:,Paid off a creditor,,,,
+508,2029-07-31,301,Owner's Equity,5.820766091346741e-11,0
+509,2029-07-31,502,Rent Expense,1782.21,0
+509,2029-07-31,503,Salary Expense,5635.61,0
+509,2029-07-31,101,Cash,0,7417.82
+509,Description:,Monthly bills paid,,,,
+509,2029-08-08,301,Owner's Equity,7417.819999999949,0
+510,2029-08-08,401,Sales Revenue,0,2355.96
+510,2029-08-08,501,Cost of Goods Sold,1531.374,0
+510,2029-08-08,103,Inventory,0,1531.374
+510,2029-08-08,101,Cash,2355.96,0
+510,Description:,Goods exchanged for money,,,,
+510,2029-08-16,301,Owner's Equity,0,824.585999999952
+511,2029-08-16,401,Sales Revenue,0,4662.4
+511,2029-08-16,501,Cost of Goods Sold,3030.56,0
+511,2029-08-16,103,Inventory,0,3030.56
+511,2029-08-16,101,Cash,4662.4,0
+511,Description:,Goods exchanged for money,,,,
+511,2029-08-19,301,Owner's Equity,0,1631.8400000000256
+512,Description:,Items sold,,,,
+513,2029-08-22,502,Rent Expense,1753.31,0
+513,2029-08-22,503,Salary Expense,5996.51,0
+513,2029-08-22,101,Cash,0,7749.82
+513,Description:,Monthly bills paid,,,,
+513,2029-08-27,301,Owner's Equity,7749.819999999949,0
+514,2029-08-27,101,Cash,0,5103.22
+514,2029-08-27,202,Loan Payable,5103.22,0
+514,Description:,Bank interactions,,,,
+515,2029-09-06,103,Inventory,2645.99,0
+515,2029-09-06,201,Accounts Payable,0,2645.99
+515,Description:,Restocking products,,,,
+516,2029-09-16,201,Accounts Payable,1234.41,0
+516,2029-09-16,101,Cash,0,1234.41
+516,Description:,Reduced payable amount,,,,
+516,2029-09-26,301,Owner's Equity,5.820766091346741e-11,0
+517,2029-09-26,103,Inventory,2956.05,0
+517,2029-09-26,201,Accounts Payable,0,2956.05
+517,Description:,Added to inventory,,,,
+517,2029-09-30,301,Owner's Equity,0,5.820766091346741e-11
+518,2029-09-30,401,Sales Revenue,0,8192.5
+518,2029-09-30,501,Cost of Goods Sold,5325.125,0
+518,2029-09-30,103,Inventory,0,5325.125
+518,2029-09-30,102,Accounts Receivable,8192.5,0
+518,Description:,Sales completed,,,,
+518,2029-10-03,301,Owner's Equity,0,2867.375
+519,2029-10-03,101,Cash,0,5719.8
+519,2029-10-03,202,Loan Payable,5719.8,0
+519,Description:,Bank interactions,,,,
+520,2029-10-11,201,Accounts Payable,1315.05,0
+520,2029-10-11,101,Cash,0,1315.05
+520,Description:,Paid off a creditor,,,,
+520,2029-10-17,301,Owner's Equity,1.1641532182693481e-10,0
+521,2029-10-17,201,Accounts Payable,1555.21,0
+521,2029-10-17,101,Cash,0,1555.21
+521,Description:,Paid off a creditor,,,,
+521,2029-10-20,301,Owner's Equity,0,5.820766091346741e-11
+522,2029-10-20,201,Accounts Payable,1485.86,0
+522,2029-10-20,101,Cash,0,1485.86
+522,Description:,Reduced payable amount,,,,
+523,Description:,Goods exchanged for money,,,,
+524,Description:,Items sold,,,,
+525,2029-11-10,201,Accounts Payable,1648.0,0
+525,2029-11-10,101,Cash,0,1648.0
+525,Description:,Paid off a creditor,,,,
+526,Description:,Items sold,ANOMALY,,,
+527,2029-11-24,201,Accounts Payable,818.57,0
+527,2029-11-24,101,Cash,0,818.57
+527,Description:,Reduced payable amount,,,,
+527,2029-11-30,301,Owner's Equity,0,5.820766091346741e-11
+528,2029-11-30,201,Accounts Payable,1015.76,0
+528,2029-11-30,101,Cash,0,1015.76
+528,Description:,Paid off a creditor,,,,
+529,2029-12-01,101,Cash,0,8282.9
+529,2029-12-01,202,Loan Payable,8282.9,0
+529,Description:,Loan account adjustments,,,,
+530,2029-12-06,101,Cash,0,9809.83
+530,2029-12-06,202,Loan Payable,9809.83,0
+530,Description:,Bank interactions,,,,
+531,2029-12-13,201,Accounts Payable,734.43,0
+531,2029-12-13,101,Cash,0,734.43
+531,Description:,Paid off a creditor,,,,
+531,2029-12-14,301,Owner's Equity,5.820766091346741e-11,0
+532,2029-12-14,101,Cash,0,6580.03
+532,2029-12-14,202,Loan Payable,6580.03,0
+532,Description:,Loan account adjustments,,,,
+533,2029-12-21,101,Cash,0,6998.74
+533,2029-12-21,202,Loan Payable,6998.74,0
+533,Description:,Loan activity,,,,
+534,2029-12-27,103,Inventory,3138.45,0
+534,2029-12-27,201,Accounts Payable,0,3138.45
+534,Description:,Restocking products,,,,
+535,2030-01-06,101,Cash,0,6529.02
+535,2030-01-06,202,Loan Payable,6529.02,0
+535,Description:,Loan activity,,,,
+536,2030-01-14,101,Cash,0,7928.68
+536,2030-01-14,202,Loan Payable,7928.68,0
+536,Description:,Loan account adjustments,,,,
+537,2030-01-15,103,Inventory,2007.83,0
+537,2030-01-15,201,Accounts Payable,0,2007.83
+537,Description:,Restocking products,,,,
+537,2030-01-18,301,Owner's Equity,0,5.820766091346741e-11
+538,2030-01-18,201,Accounts Payable,1346.49,0
+538,2030-01-18,101,Cash,0,1346.49
+538,Description:,Reduced payable amount,,,,
+539,2030-01-24,101,Cash,0,6371.61
+539,2030-01-24,202,Loan Payable,6371.61,0
+539,Description:,Bank interactions,,,,
+540,2030-01-27,401,Sales Revenue,0,8518.29
+540,2030-01-27,501,Cost of Goods Sold,5536.888500000001,0
+540,2030-01-27,103,Inventory,0,5536.888500000001
+540,2030-01-27,101,Cash,8518.29,0
+540,Description:,Goods exchanged for money,,,,
+540,2030-01-28,301,Owner's Equity,0,2981.4015000000363
+541,2030-01-28,101,Cash,0,5638.46
+541,2030-01-28,202,Loan Payable,5638.46,0
+541,Description:,Loan account adjustments,,,,
+542,Description:,Sales completed,,,,
+543,2030-02-06,103,Inventory,4420.0,0
+543,2030-02-06,201,Accounts Payable,0,4420.0
+543,Description:,Goods purchased,,,,
+544,2030-02-12,101,Cash,9608.28,0
+544,2030-02-12,202,Loan Payable,0,9608.28
+544,Description:,Loan account adjustments,,,,
+545,Description:,Sales completed,ANOMALY,,,
+546,Description:,Goods exchanged for money,,,,
+547,2030-03-05,101,Cash,0,8329.94
+547,2030-03-05,202,Loan Payable,8329.94,0
+547,Description:,Loan activity,,,,
+548,2030-03-09,401,Sales Revenue,0,3170.66
+548,2030-03-09,501,Cost of Goods Sold,2060.929,0
+548,2030-03-09,103,Inventory,0,2060.929
+548,2030-03-09,102,Accounts Receivable,3170.66,0
+548,Description:,Sales completed,,,,
+548,2030-03-10,301,Owner's Equity,0,1109.7309999999707
+549,2030-03-10,101,Cash,0,9711.84
+549,2030-03-10,202,Loan Payable,9711.84,0
+549,Description:,Bank interactions,,,,
+550,2030-03-15,101,Cash,0,9568.82
+550,2030-03-15,202,Loan Payable,9568.82,0
+550,Description:,Loan activity,,,,
+551,2030-03-18,103,Inventory,4750.44,0
+551,2030-03-18,201,Accounts Payable,0,4750.44
+551,Description:,Added to inventory,,,,
+551,2030-03-21,301,Owner's Equity,5.820766091346741e-11,0
+552,2030-03-21,201,Accounts Payable,1328.49,0
+552,2030-03-21,101,Cash,0,1328.49
+552,Description:,Paid off a creditor,,,,
+553,2030-03-23,201,Accounts Payable,1648.02,0
+553,2030-03-23,101,Cash,0,1648.02
+553,Description:,Debt payment,,,,
+554,2030-03-29,401,Sales Revenue,0,4303.83
+554,2030-03-29,501,Cost of Goods Sold,2797.4895,0
+554,2030-03-29,103,Inventory,0,2797.4895
+554,2030-03-29,102,Accounts Receivable,4303.83,0
+554,Description:,Sales completed,,,,
+554,2030-03-30,301,Owner's Equity,0,1506.3404999999912
+555,2030-03-30,401,Sales Revenue,0,5227.63
+555,2030-03-30,501,Cost of Goods Sold,3397.9595000000004,0
+555,2030-03-30,103,Inventory,0,3397.9595000000004
+555,2030-03-30,102,Accounts Receivable,5227.63,0
+555,Description:,Sales completed,,,,
+555,2030-04-01,301,Owner's Equity,0,1829.6705000000075
+556,Description:,Sales completed,,,,
+557,2030-04-07,502,Rent Expense,1184.44,0
+557,2030-04-07,503,Salary Expense,4584.08,0
+557,2030-04-07,101,Cash,0,5768.52
+557,Description:,Monthly bills paid,,,,
+557,2030-04-13,301,Owner's Equity,5768.520000000019,0
+558,Description:,Items sold,,,,
+559,2030-04-22,103,Inventory,1099.39,0
+559,2030-04-22,201,Accounts Payable,0,1099.39
+559,Description:,Goods purchased,,,,
+560,Description:,Items sold,,,,
+561,2030-04-28,201,Accounts Payable,782.1,0
+561,2030-04-28,101,Cash,0,782.1
+561,Description:,Reduced payable amount,,,,
+562,2030-05-02,201,Accounts Payable,1854.52,0
+562,2030-05-02,101,Cash,0,1854.52
+562,Description:,Paid off a creditor,,,,
+563,2030-05-06,101,Cash,0,9197.21
+563,2030-05-06,202,Loan Payable,9197.21,0
+563,Description:,Loan activity,,,,
+564,2030-05-07,101,Cash,0,8846.84
+564,2030-05-07,202,Loan Payable,8846.84,0
+564,Description:,Bank interactions,,,,
+565,Description:,Sales completed,,,,
+566,2030-05-15,101,Cash,0,7542.29
+566,2030-05-15,202,Loan Payable,7542.29,0
+566,Description:,Loan account adjustments,,,,
+567,Description:,Items sold,,,,
+568,2030-05-20,401,Sales Revenue,0,3451.77
+568,2030-05-20,501,Cost of Goods Sold,2243.6505,0
+568,2030-05-20,103,Inventory,0,2243.6505
+568,2030-05-20,101,Cash,3451.77,0
+568,Description:,Sales completed,,,,
+568,2030-05-30,301,Owner's Equity,0,1208.1195000000298
+569,2030-05-30,103,Inventory,599.07,0
+569,2030-05-30,201,Accounts Payable,0,599.07
+569,Description:,Added to inventory,,,,
+570,2030-06-04,103,Inventory,1641.62,0
+570,2030-06-04,201,Accounts Payable,0,1641.62
+570,Description:,Added to inventory,,,,
+571,Description:,Goods exchanged for money,,,,
+572,2030-06-09,401,Sales Revenue,0,2278.11
+572,2030-06-09,501,Cost of Goods Sold,1480.7715,0
+572,2030-06-09,103,Inventory,0,1480.7715
+572,2030-06-09,102,Accounts Receivable,2278.11,0
+572,Description:,Sales completed,,,,
+572,2030-06-12,301,Owner's Equity,0,797.3384999999544
+573,Description:,Items sold,,,,
+574,Description:,Goods exchanged for money,,,,
+575,2030-06-30,201,Accounts Payable,702.85,0
+575,2030-06-30,101,Cash,0,702.85
+575,Description:,Debt payment,,,,
+575,2030-07-08,301,Owner's Equity,0,5.820766091346741e-11
+576,2030-07-08,101,Cash,5796.31,0
+576,2030-07-08,202,Loan Payable,0,5796.31
+576,Description:,Bank interactions,,,,
+577,Description:,Sales completed,,,,
+578,Description:,Sales completed,,,,
+579,2030-07-22,201,Accounts Payable,1598.82,0
+579,2030-07-22,101,Cash,0,1598.82
+579,Description:,Debt payment,,,,
+580,Description:,Items sold,,,,
+581,2030-08-04,201,Accounts Payable,1613.17,0
+581,2030-08-04,101,Cash,0,1613.17
+581,Description:,Debt payment,,,,
+582,Description:,Goods exchanged for money,,,,
+583,2030-08-19,103,Inventory,2427.65,0
+583,2030-08-19,201,Accounts Payable,0,2427.65
+583,Description:,Added to inventory,,,,
+584,2030-08-25,201,Accounts Payable,1151.76,0
+584,2030-08-25,101,Cash,0,1151.76
+584,Description:,Debt payment,,,,
+585,2030-08-29,103,Inventory,4913.09,0
+585,2030-08-29,201,Accounts Payable,0,4913.09
+585,Description:,Added to inventory,,,,
+585,2030-09-07,301,Owner's Equity,0,5.820766091346741e-11
+586,2030-09-07,401,Sales Revenue,0,2279.57
+586,2030-09-07,501,Cost of Goods Sold,1481.7205000000001,0
+586,2030-09-07,103,Inventory,0,1481.7205000000001
+586,2030-09-07,102,Accounts Receivable,2279.57,0
+586,Description:,Sales completed,,,,
+586,2030-09-09,301,Owner's Equity,0,797.849499999953
+587,2030-09-09,401,Sales Revenue,0,10603.56
+587,2030-09-09,501,Cost of Goods Sold,6892.314,0
+587,2030-09-09,103,Inventory,0,6892.314
+587,2030-09-09,102,Accounts Receivable,10603.56,0
+587,Description:,Goods exchanged for money,,,,
+587,2030-09-19,301,Owner's Equity,0,3711.246000000043
+588,2030-09-19,101,Cash,0,8073.3
+588,2030-09-19,202,Loan Payable,8073.3,0
+588,Description:,Bank interactions,,,,
+589,2030-09-25,201,Accounts Payable,1946.17,0
+589,2030-09-25,101,Cash,0,1946.17
+589,Description:,Debt payment,,,,
+590,2030-09-27,201,Accounts Payable,528.23,0
+590,2030-09-27,101,Cash,0,528.23
+590,Description:,Paid off a creditor,,,,
+591,Description:,Items sold,,,,
+592,2030-10-01,101,Cash,0,9980.57
+592,2030-10-01,202,Loan Payable,9980.57,0
+592,Description:,Loan account adjustments,,,,
+593,2030-10-04,101,Cash,0,6814.01
+593,2030-10-04,202,Loan Payable,6814.01,0
+593,Description:,Loan activity,,,,
+594,2030-10-09,101,Cash,0,9674.63
+594,2030-10-09,202,Loan Payable,9674.63,0
+594,Description:,Bank interactions,,,,
+595,2030-10-15,201,Accounts Payable,1155.85,0
+595,2030-10-15,101,Cash,0,1155.85
+595,Description:,Debt payment,,,,
+596,2030-10-22,101,Cash,0,9857.36
+596,2030-10-22,202,Loan Payable,9857.36,0
+596,Description:,Loan activity,,,,
+597,Description:,Sales completed,,,,
+598,2030-11-01,201,Accounts Payable,1894.6,0
+598,2030-11-01,101,Cash,0,1894.6
+598,Description:,Debt payment,,,,
+598,2030-11-07,301,Owner's Equity,0,5.820766091346741e-11
+599,Description:,Goods exchanged for money,,,,
+600,Description:,Sales completed,,,,
+601,2030-11-15,101,Cash,0,84387.90000000001
+601,2030-11-15,202,Loan Payable,84387.90000000001,0
+601,Description:,Loan activity,ANOMALY,,,
+601,2030-11-18,301,Owner's Equity,1.1641532182693481e-10,0
+602,2030-11-18,201,Accounts Payable,1474.41,0
+602,2030-11-18,101,Cash,0,1474.41
+602,Description:,Reduced payable amount,,,,
+603,Description:,Goods exchanged for money,,,,
+604,2030-11-26,201,Accounts Payable,11786.400000000001,0
+604,2030-11-26,101,Cash,0,11786.400000000001
+604,Description:,Reduced payable amount,ANOMALY,,,
+605,Description:,Items sold,,,,
+606,2030-12-10,103,Inventory,2235.24,0
+606,2030-12-10,201,Accounts Payable,0,2235.24
+606,Description:,Goods purchased,,,,
+607,2030-12-20,401,Sales Revenue,0,2667.88
+607,2030-12-20,501,Cost of Goods Sold,1734.122,0
+607,2030-12-20,103,Inventory,0,1734.122
+607,2030-12-20,101,Cash,2667.88,0
+607,Description:,Sales completed,,,,
+607,2030-12-26,301,Owner's Equity,0,933.7580000000307
+608,2030-12-26,101,Cash,0,6977.37
+608,2030-12-26,202,Loan Payable,6977.37,0
+608,Description:,Bank interactions,,,,
+609,Description:,Goods exchanged for money,,,,
+610,2031-01-02,101,Cash,0,8291.86
+610,2031-01-02,202,Loan Payable,8291.86,0
+610,Description:,Bank interactions,,,,
+611,2031-01-07,103,Inventory,1882.69,0
+611,2031-01-07,201,Accounts Payable,0,1882.69
+611,Description:,Restocking products,,,,
+612,Description:,Items sold,,,,
+613,2031-01-26,103,Inventory,4270.58,0
+613,2031-01-26,201,Accounts Payable,0,4270.58
+613,Description:,Added to inventory,,,,
+614,2031-01-30,101,Cash,6548.68,0
+614,2031-01-30,202,Loan Payable,0,6548.68
+614,Description:,Loan account adjustments,,,,
+615,2031-02-08,201,Accounts Payable,1385.17,0
+615,2031-02-08,101,Cash,0,1385.17
+615,Description:,Reduced payable amount,,,,
+616,2031-02-17,101,Cash,0,8189.85
+616,2031-02-17,202,Loan Payable,8189.85,0
+616,Description:,Loan account adjustments,,,,
+617,2031-02-26,201,Accounts Payable,13567.4,0
+617,2031-02-26,101,Cash,0,13567.4
+617,Description:,Debt payment,ANOMALY,,,
+618,2031-03-02,103,Inventory,1776.87,0
+618,2031-03-02,201,Accounts Payable,0,1776.87
+618,Description:,Added to inventory,,,,
+619,2031-03-10,201,Accounts Payable,1446.92,0
+619,2031-03-10,101,Cash,0,1446.92
+619,Description:,Debt payment,,,,
+620,2031-03-11,201,Accounts Payable,1661.49,0
+620,2031-03-11,101,Cash,0,1661.49
+620,Description:,Reduced payable amount,,,,
+621,2031-03-13,201,Accounts Payable,1603.42,0
+621,2031-03-13,101,Cash,0,1603.42
+621,Description:,Paid off a creditor,,,,
+621,2031-03-23,301,Owner's Equity,1.1641532182693481e-10,0
+622,2031-03-23,101,Cash,0,7418.82
+622,2031-03-23,202,Loan Payable,7418.82,0
+622,Description:,Loan activity,,,,
+623,2031-03-24,201,Accounts Payable,579.14,0
+623,2031-03-24,101,Cash,0,579.14
+623,Description:,Paid off a creditor,,,,
+624,2031-04-03,401,Sales Revenue,0,2711.05
+624,2031-04-03,501,Cost of Goods Sold,1762.1825000000001,0
+624,2031-04-03,103,Inventory,0,1762.1825000000001
+624,2031-04-03,102,Accounts Receivable,2711.05,0
+624,Description:,Goods exchanged for money,,,,
+624,2031-04-04,301,Owner's Equity,0,948.8675000000512
+625,2031-04-04,401,Sales Revenue,0,3908.79
+625,2031-04-04,501,Cost of Goods Sold,2540.7135,0
+625,2031-04-04,103,Inventory,0,2540.7135
+625,2031-04-04,101,Cash,3908.79,0
+625,Description:,Sales completed,,,,
+625,2031-04-14,301,Owner's Equity,0,1368.0764999999665
+626,2031-04-14,101,Cash,0,9261.61
+626,2031-04-14,202,Loan Payable,9261.61,0
+626,Description:,Bank interactions,,,,
+626,2031-04-16,301,Owner's Equity,1.1641532182693481e-10,0
+627,Description:,Goods exchanged for money,,,,
+628,2031-04-22,401,Sales Revenue,0,3645.3
+628,2031-04-22,501,Cost of Goods Sold,2369.445,0
+628,2031-04-22,103,Inventory,0,2369.445
+628,2031-04-22,101,Cash,3645.3,0
+628,Description:,Items sold,,,,
+628,2031-04-28,301,Owner's Equity,0,1275.8550000000978
+629,Description:,Goods exchanged for money,,,,
+630,2031-05-02,103,Inventory,3736.21,0
+630,2031-05-02,201,Accounts Payable,0,3736.21
+630,Description:,Restocking products,,,,
+631,2031-05-08,101,Cash,5669.13,0
+631,2031-05-08,202,Loan Payable,0,5669.13
+631,Description:,Loan activity,,,,
+631,2031-05-17,301,Owner's Equity,0,1.1641532182693481e-10
+632,2031-05-17,101,Cash,0,9738.08
+632,2031-05-17,202,Loan Payable,9738.08,0
+632,Description:,Loan account adjustments,,,,
+632,2031-05-25,301,Owner's Equity,1.1641532182693481e-10,0
+633,2031-05-25,201,Accounts Payable,1468.68,0
+633,2031-05-25,101,Cash,0,1468.68
+633,Description:,Reduced payable amount,,,,
+633,2031-06-04,301,Owner's Equity,0,1.1641532182693481e-10
+634,Description:,Goods exchanged for money,,,,
+635,2031-06-05,201,Accounts Payable,1641.69,0
+635,2031-06-05,101,Cash,0,1641.69
+635,Description:,Debt payment,,,,
+636,2031-06-14,201,Accounts Payable,1625.62,0
+636,2031-06-14,101,Cash,0,1625.62
+636,Description:,Debt payment,,,,
+636,2031-06-17,301,Owner's Equity,1.1641532182693481e-10,0
+637,Description:,Items sold,ANOMALY,,,
+638,2031-06-27,101,Cash,0,85371.4
+638,2031-06-27,202,Loan Payable,85371.4,0
+638,Description:,Loan account adjustments,ANOMALY,,,
+638,2031-07-02,301,Owner's Equity,0,1.1641532182693481e-10
+639,2031-07-02,401,Sales Revenue,0,6092.52
+639,2031-07-02,501,Cost of Goods Sold,3960.1380000000004,0
+639,2031-07-02,103,Inventory,0,3960.1380000000004
+639,2031-07-02,102,Accounts Receivable,6092.52,0
+639,Description:,Goods exchanged for money,,,,
+639,2031-07-04,301,Owner's Equity,0,2132.3819999999832
+640,Description:,Sales completed,,,,
+641,Description:,Sales completed,,,,
+642,2031-07-17,201,Accounts Payable,1858.57,0
+642,2031-07-17,101,Cash,0,1858.57
+642,Description:,Paid off a creditor,,,,
+643,2031-07-25,103,Inventory,1866.95,0
+643,2031-07-25,201,Accounts Payable,0,1866.95
+643,Description:,Goods purchased,,,,
+644,Description:,Sales completed,,,,
+645,2031-08-03,201,Accounts Payable,750.85,0
+645,2031-08-03,101,Cash,0,750.85
+645,Description:,Paid off a creditor,,,,
+645,2031-08-05,301,Owner's Equity,1.1641532182693481e-10,0
+646,2031-08-05,201,Accounts Payable,1996.2,0
+646,2031-08-05,101,Cash,0,1996.2
+646,Description:,Reduced payable amount,,,,
+646,2031-08-10,301,Owner's Equity,0,1.1641532182693481e-10
+647,2031-08-10,101,Cash,0,92338.79999999999
+647,2031-08-10,202,Loan Payable,92338.79999999999,0
+647,Description:,Loan account adjustments,ANOMALY,,,
+647,2031-08-18,301,Owner's Equity,1.1641532182693481e-10,0
+648,Description:,Goods exchanged for money,,,,
+649,2031-08-20,103,Inventory,1015.56,0
+649,2031-08-20,201,Accounts Payable,0,1015.56
+649,Description:,Goods purchased,,,,
+649,2031-08-28,301,Owner's Equity,1.1641532182693481e-10,0
+650,2031-08-28,101,Cash,0,6101.82
+650,2031-08-28,202,Loan Payable,6101.82,0
+650,Description:,Loan account adjustments,,,,
+650,2031-09-05,301,Owner's Equity,1.1641532182693481e-10,0
+651,Description:,Goods exchanged for money,,,,
+652,2031-09-11,201,Accounts Payable,7448.200000000001,0
+652,2031-09-11,101,Cash,0,7448.200000000001
+652,Description:,Debt payment,ANOMALY,,,
+652,2031-09-17,301,Owner's Equity,0,1.1641532182693481e-10
+653,2031-09-17,201,Accounts Payable,1724.75,0
+653,2031-09-17,101,Cash,0,1724.75
+653,Description:,Debt payment,,,,
+654,2031-09-19,103,Inventory,3500.18,0
+654,2031-09-19,201,Accounts Payable,0,3500.18
+654,Description:,Goods purchased,,,,
+655,2031-09-23,101,Cash,0,5959.56
+655,2031-09-23,202,Loan Payable,5959.56,0
+655,Description:,Bank interactions,,,,
+656,2031-09-25,401,Sales Revenue,0,7234.76
+656,2031-09-25,501,Cost of Goods Sold,4702.594,0
+656,2031-09-25,103,Inventory,0,4702.594
+656,2031-09-25,101,Cash,7234.76,0
+656,Description:,Items sold,,,,
+656,2031-10-03,301,Owner's Equity,0,2532.1659999999683
+657,2031-10-03,103,Inventory,4870.27,0
+657,2031-10-03,201,Accounts Payable,0,4870.27
+657,Description:,Goods purchased,,,,
+657,2031-10-09,301,Owner's Equity,0,1.1641532182693481e-10
+658,2031-10-09,401,Sales Revenue,0,4190.25
+658,2031-10-09,501,Cost of Goods Sold,2723.6625,0
+658,2031-10-09,103,Inventory,0,2723.6625
+658,2031-10-09,101,Cash,4190.25,0
+658,Description:,Goods exchanged for money,,,,
+658,2031-10-11,301,Owner's Equity,0,1466.5875000000233
+659,2031-10-11,401,Sales Revenue,0,4711.59
+659,2031-10-11,501,Cost of Goods Sold,3062.5335,0
+659,2031-10-11,103,Inventory,0,3062.5335
+659,2031-10-11,101,Cash,4711.59,0
+659,Description:,Items sold,,,,
+659,2031-10-20,301,Owner's Equity,0,1649.0565000000643
+660,2031-10-20,502,Rent Expense,1337.14,0
+660,2031-10-20,503,Salary Expense,4549.68,0
+660,2031-10-20,101,Cash,0,5886.820000000001
+660,Description:,Monthly bills paid,,,,
+660,2031-10-23,301,Owner's Equity,5886.820000000065,0
+661,Description:,Goods exchanged for money,,,,
+662,2031-10-29,201,Accounts Payable,1081.98,0
+662,2031-10-29,101,Cash,0,1081.98
+662,Description:,Paid off a creditor,,,,
+663,2031-10-30,103,Inventory,2157.44,0
+663,2031-10-30,201,Accounts Payable,0,2157.44
+663,Description:,Restocking products,,,,
+663,2031-11-09,301,Owner's Equity,1.1641532182693481e-10,0
+664,2031-11-09,401,Sales Revenue,0,5758.56
+664,2031-11-09,501,Cost of Goods Sold,3743.0640000000003,0
+664,2031-11-09,103,Inventory,0,3743.0640000000003
+664,2031-11-09,102,Accounts Receivable,5758.56,0
+664,Description:,Sales completed,,,,
+664,2031-11-14,301,Owner's Equity,0,2015.4960000000428
+665,2031-11-14,103,Inventory,42630.9,0
+665,2031-11-14,201,Accounts Payable,0,42630.9
+665,Description:,Added to inventory,ANOMALY,,,
+665,2031-11-22,301,Owner's Equity,1.1641532182693481e-10,0
+666,2031-11-22,201,Accounts Payable,1180.91,0
+666,2031-11-22,101,Cash,0,1180.91
+666,Description:,Debt payment,,,,
+666,2031-11-28,301,Owner's Equity,0,1.1641532182693481e-10
+667,2031-11-28,103,Inventory,2366.57,0
+667,2031-11-28,201,Accounts Payable,0,2366.57
+667,Description:,Added to inventory,,,,
+667,2031-11-30,301,Owner's Equity,0,1.1641532182693481e-10
+668,2031-11-30,401,Sales Revenue,0,9990.16
+668,2031-11-30,501,Cost of Goods Sold,6493.604,0
+668,2031-11-30,103,Inventory,0,6493.604
+668,2031-11-30,101,Cash,9990.16,0
+668,Description:,Goods exchanged for money,,,,
+668,2031-12-04,301,Owner's Equity,0,3496.555999999866
+669,2031-12-04,201,Accounts Payable,1804.67,0
+669,2031-12-04,101,Cash,0,1804.67
+669,Description:,Reduced payable amount,,,,
+670,2031-12-09,401,Sales Revenue,0,2731.14
+670,2031-12-09,501,Cost of Goods Sold,1775.241,0
+670,2031-12-09,103,Inventory,0,1775.241
+670,2031-12-09,101,Cash,2731.14,0
+670,Description:,Sales completed,,,,
+670,2031-12-11,301,Owner's Equity,0,955.8989999999758
+671,2031-12-11,101,Cash,0,8311.53
+671,2031-12-11,202,Loan Payable,8311.53,0
+671,Description:,Loan account adjustments,,,,
+672,2031-12-15,101,Cash,0,6758.15
+672,2031-12-15,202,Loan Payable,6758.15,0
+672,Description:,Loan activity,,,,
+672,2031-12-16,301,Owner's Equity,0,2.3283064365386963e-10
+673,2031-12-16,401,Sales Revenue,0,5081.14
+673,2031-12-16,501,Cost of Goods Sold,3302.7410000000004,0
+673,2031-12-16,103,Inventory,0,3302.7410000000004
+673,2031-12-16,101,Cash,5081.14,0
+673,Description:,Sales completed,,,,
+673,2031-12-19,301,Owner's Equity,0,1778.3989999998594
+674,2031-12-19,401,Sales Revenue,0,3370.56
+674,2031-12-19,501,Cost of Goods Sold,2190.864,0
+674,2031-12-19,103,Inventory,0,2190.864
+674,2031-12-19,101,Cash,3370.56,0
+674,Description:,Goods exchanged for money,,,,
+674,2031-12-21,301,Owner's Equity,0,1179.6959999999963
+675,2031-12-21,101,Cash,0,8050.44
+675,2031-12-21,202,Loan Payable,8050.44,0
+675,Description:,Loan activity,,,,
+676,2031-12-27,201,Accounts Payable,1794.52,0
+676,2031-12-27,101,Cash,0,1794.52
+676,Description:,Paid off a creditor,,,,
+676,2032-01-04,301,Owner's Equity,1.1641532182693481e-10,0
+677,2032-01-04,502,Rent Expense,1029.51,0
+677,2032-01-04,503,Salary Expense,2577.41,0
+677,2032-01-04,101,Cash,0,3606.92
+677,Description:,Monthly bills paid,,,,
+677,2032-01-14,301,Owner's Equity,3606.9199999999255,0
+678,2032-01-14,401,Sales Revenue,0,4943.1
+678,2032-01-14,501,Cost of Goods Sold,3213.0150000000003,0
+678,2032-01-14,103,Inventory,0,3213.0150000000003
+678,2032-01-14,102,Accounts Receivable,4943.1,0
+678,Description:,Sales completed,,,,
+678,2032-01-17,301,Owner's Equity,0,1730.0849999999627
+679,2032-01-17,101,Cash,0,6018.93
+679,2032-01-17,202,Loan Payable,6018.93,0
+679,Description:,Bank interactions,,,,
+679,2032-01-26,301,Owner's Equity,0,1.1641532182693481e-10
+680,2032-01-26,401,Sales Revenue,0,7335.41
+680,2032-01-26,501,Cost of Goods Sold,4768.0165,0
+680,2032-01-26,103,Inventory,0,4768.0165
+680,2032-01-26,101,Cash,7335.41,0
+680,Description:,Goods exchanged for money,,,,
+680,2032-02-05,301,Owner's Equity,0,2567.3935000000056
+681,2032-02-05,401,Sales Revenue,0,3592.24
+681,2032-02-05,501,Cost of Goods Sold,2334.956,0
+681,2032-02-05,103,Inventory,0,2334.956
+681,2032-02-05,101,Cash,3592.24,0
+681,Description:,Items sold,,,,
+681,2032-02-15,301,Owner's Equity,0,1257.283999999985
+682,2032-02-15,103,Inventory,1164.49,0
+682,2032-02-15,201,Accounts Payable,0,1164.49
+682,Description:,Restocking products,,,,
+683,2032-02-24,201,Accounts Payable,628.93,0
+683,2032-02-24,101,Cash,0,628.93
+683,Description:,Paid off a creditor,,,,
+683,2032-03-02,301,Owner's Equity,0,1.1641532182693481e-10
+684,2032-03-02,401,Sales Revenue,0,3809.58
+684,2032-03-02,501,Cost of Goods Sold,2476.227,0
+684,2032-03-02,103,Inventory,0,2476.227
+684,2032-03-02,101,Cash,3809.58,0
+684,Description:,Goods exchanged for money,,,,
+684,2032-03-08,301,Owner's Equity,0,1333.3530000001192
+685,2032-03-08,502,Rent Expense,1319.09,0
+685,2032-03-08,503,Salary Expense,3025.68,0
+685,2032-03-08,101,Cash,0,4344.7699999999995
+685,Description:,Regular expenses,,,,
+685,2032-03-17,301,Owner's Equity,4344.770000000019,0
+686,2032-03-17,103,Inventory,4569.67,0
+686,2032-03-17,201,Accounts Payable,0,4569.67
+686,Description:,Added to inventory,,,,
+686,2032-03-18,301,Owner's Equity,1.1641532182693481e-10,0
+687,2032-03-18,103,Inventory,2797.87,0
+687,2032-03-18,201,Accounts Payable,0,2797.87
+687,Description:,Added to inventory,,,,
+688,2032-03-26,401,Sales Revenue,0,8884.2
+688,2032-03-26,501,Cost of Goods Sold,5774.7300000000005,0
+688,2032-03-26,103,Inventory,0,5774.7300000000005
+688,2032-03-26,101,Cash,8884.2,0
+688,Description:,Goods exchanged for money,,,,
+688,2032-03-27,301,Owner's Equity,0,3109.469999999972
+689,2032-03-27,201,Accounts Payable,896.81,0
+689,2032-03-27,101,Cash,0,896.81
+689,Description:,Debt payment,,,,
+689,2032-04-04,301,Owner's Equity,1.1641532182693481e-10,0
+690,2032-04-04,201,Accounts Payable,1981.35,0
+690,2032-04-04,101,Cash,0,1981.35
+690,Description:,Debt payment,,,,
+691,2032-04-11,401,Sales Revenue,0,9468.92
+691,2032-04-11,501,Cost of Goods Sold,6154.798000000001,0
+691,2032-04-11,103,Inventory,0,6154.798000000001
+691,2032-04-11,101,Cash,9468.92,0
+691,Description:,Goods exchanged for money,,,,
+691,2032-04-13,301,Owner's Equity,0,3314.121999999974
+692,2032-04-13,201,Accounts Payable,1833.72,0
+692,2032-04-13,101,Cash,0,1833.72
+692,Description:,Debt payment,,,,
+693,2032-04-18,201,Accounts Payable,663.37,0
+693,2032-04-18,101,Cash,0,663.37
+693,Description:,Reduced payable amount,,,,
+693,2032-04-27,301,Owner's Equity,1.1641532182693481e-10,0
+694,2032-04-27,401,Sales Revenue,0,6617.74
+694,2032-04-27,501,Cost of Goods Sold,4301.531,0
+694,2032-04-27,103,Inventory,0,4301.531
+694,2032-04-27,101,Cash,6617.74,0
+694,Description:,Items sold,,,,
+694,2032-04-30,301,Owner's Equity,0,2316.2089999999152
+695,2032-04-30,103,Inventory,2693.5,0
+695,2032-04-30,201,Accounts Payable,0,2693.5
+695,Description:,Restocking products,,,,
+696,2032-05-08,201,Accounts Payable,795.27,0
+696,2032-05-08,101,Cash,0,795.27
+696,Description:,Debt payment,,,,
+697,2032-05-17,101,Cash,0,7568.62
+697,2032-05-17,202,Loan Payable,7568.62,0
+697,Description:,Loan activity,,,,
+697,2032-05-23,301,Owner's Equity,1.1641532182693481e-10,0
+698,2032-05-23,401,Sales Revenue,0,3589.94
+698,2032-05-23,501,Cost of Goods Sold,2333.4610000000002,0
+698,2032-05-23,103,Inventory,0,2333.4610000000002
+698,2032-05-23,101,Cash,3589.94,0
+698,Description:,Goods exchanged for money,,,,
+698,2032-06-02,301,Owner's Equity,0,1256.4789999999339
+699,2032-06-02,401,Sales Revenue,0,6917.06
+699,2032-06-02,501,Cost of Goods Sold,4496.089000000001,0
+699,2032-06-02,103,Inventory,0,4496.089000000001
+699,2032-06-02,101,Cash,6917.06,0
+699,Description:,Items sold,,,,
+699,2032-06-12,301,Owner's Equity,0,2420.971000000136
+700,2032-06-12,401,Sales Revenue,0,10287.83
+700,2032-06-12,501,Cost of Goods Sold,6687.0895,0
+700,2032-06-12,103,Inventory,0,6687.0895
+700,2032-06-12,101,Cash,10287.83,0
+700,Description:,Goods exchanged for money,,,,
+700,2032-06-17,301,Owner's Equity,0,3600.7405000000726
+701,Description:,Items sold,,,,
+702,2032-06-19,101,Cash,0,9694.59
+702,2032-06-19,202,Loan Payable,9694.59,0
+702,Description:,Loan activity,,,,
+702,2032-06-24,301,Owner's Equity,1.1641532182693481e-10,0
+703,Description:,Items sold,,,,
+704,Description:,Goods exchanged for money,,,,
+705,2032-07-04,201,Accounts Payable,550.21,0
+705,2032-07-04,101,Cash,0,550.21
+705,Description:,Paid off a creditor,,,,
+706,Description:,Sales completed,,,,
+707,2032-07-12,103,Inventory,709.39,0
+707,2032-07-12,201,Accounts Payable,0,709.39
+707,Description:,Restocking products,,,,
+708,2032-07-15,201,Accounts Payable,751.85,0
+708,2032-07-15,101,Cash,0,751.85
+708,Description:,Reduced payable amount,,,,
+708,2032-07-25,301,Owner's Equity,1.1641532182693481e-10,0
+709,Description:,Sales completed,,,,
+710,2032-08-02,101,Cash,0,6436.21
+710,2032-08-02,202,Loan Payable,6436.21,0
+710,Description:,Loan activity,,,,
+711,Description:,Sales completed,,,,
+712,2032-08-20,103,Inventory,3013.94,0
+712,2032-08-20,201,Accounts Payable,0,3013.94
+712,Description:,Goods purchased,,,,
+713,2032-08-27,101,Cash,0,6694.68
+713,2032-08-27,202,Loan Payable,6694.68,0
+713,Description:,Bank interactions,,,,
+713,2032-08-30,301,Owner's Equity,0,1.1641532182693481e-10
+714,Description:,Items sold,ANOMALY,,,
+715,2032-09-07,103,Inventory,2392.65,0
+715,2032-09-07,201,Accounts Payable,0,2392.65
+715,Description:,Goods purchased,,,,
+716,2032-09-10,201,Accounts Payable,1009.05,0
+716,2032-09-10,101,Cash,0,1009.05
+716,Description:,Debt payment,,,,
+716,2032-09-19,301,Owner's Equity,1.1641532182693481e-10,0
+717,2032-09-19,101,Cash,0,8331.08
+717,2032-09-19,202,Loan Payable,8331.08,0
+717,Description:,Bank interactions,,,,
+718,2032-09-25,401,Sales Revenue,0,7642.59
+718,2032-09-25,501,Cost of Goods Sold,4967.6835,0
+718,2032-09-25,103,Inventory,0,4967.6835
+718,2032-09-25,101,Cash,7642.59,0
+718,Description:,Goods exchanged for money,,,,
+718,2032-09-30,301,Owner's Equity,0,2674.906500000041
+719,Description:,Sales completed,,,,
+720,2032-10-04,201,Accounts Payable,1490.09,0
+720,2032-10-04,101,Cash,0,1490.09
+720,Description:,Paid off a creditor,,,,
+721,2032-10-05,101,Cash,0,9067.0
+721,2032-10-05,202,Loan Payable,9067.0,0
+721,Description:,Loan activity,,,,
+722,2032-10-08,201,Accounts Payable,692.33,0
+722,2032-10-08,101,Cash,0,692.33
+722,Description:,Paid off a creditor,,,,
+722,2032-10-13,301,Owner's Equity,1.1641532182693481e-10,0
+723,2032-10-13,101,Cash,0,9154.45
+723,2032-10-13,202,Loan Payable,9154.45,0
+723,Description:,Loan account adjustments,,,,
+724,Description:,Items sold,ANOMALY,,,
+725,Description:,Items sold,,,,
+726,Description:,Sales completed,,,,
+727,2032-10-30,201,Accounts Payable,1742.47,0
+727,2032-10-30,101,Cash,0,1742.47
+727,Description:,Debt payment,,,,
+728,2032-11-03,103,Inventory,4150.89,0
+728,2032-11-03,201,Accounts Payable,0,4150.89
+728,Description:,Added to inventory,,,,
+729,2032-11-06,401,Sales Revenue,0,5682.19
+729,2032-11-06,501,Cost of Goods Sold,3693.4235,0
+729,2032-11-06,103,Inventory,0,3693.4235
+729,2032-11-06,102,Accounts Receivable,5682.19,0
+729,Description:,Sales completed,,,,
+729,2032-11-12,301,Owner's Equity,0,1988.7664999999106
+730,2032-11-12,502,Rent Expense,1986.14,0
+730,2032-11-12,503,Salary Expense,4119.92,0
+730,2032-11-12,101,Cash,0,6106.06
+730,Description:,Regular expenses,,,,
+730,2032-11-22,301,Owner's Equity,6106.060000000056,0
+731,2032-11-22,101,Cash,6403.79,0
+731,2032-11-22,202,Loan Payable,0,6403.79
+731,Description:,Loan account adjustments,,,,
+732,Description:,Sales completed,,,,
+733,Description:,Goods exchanged for money,,,,
+734,2032-12-07,103,Inventory,1430.82,0
+734,2032-12-07,201,Accounts Payable,0,1430.82
+734,Description:,Added to inventory,,,,
+734,2032-12-08,301,Owner's Equity,0,1.1641532182693481e-10
+735,2032-12-08,103,Inventory,4455.56,0
+735,2032-12-08,201,Accounts Payable,0,4455.56
+735,Description:,Added to inventory,,,,
+735,2032-12-14,301,Owner's Equity,1.1641532182693481e-10,0
+736,2032-12-14,502,Rent Expense,931.32,0
+736,2032-12-14,503,Salary Expense,3306.41,0
+736,2032-12-14,101,Cash,0,4237.73
+736,Description:,Regular expenses,,,,
+736,2032-12-15,301,Owner's Equity,4237.729999999981,0
+737,2032-12-15,101,Cash,0,8728.5
+737,2032-12-15,202,Loan Payable,8728.5,0
+737,Description:,Bank interactions,,,,
+738,2032-12-18,101,Cash,0,5072.85
+738,2032-12-18,202,Loan Payable,5072.85,0
+738,Description:,Loan activity,,,,
+739,2032-12-25,103,Inventory,1091.96,0
+739,2032-12-25,201,Accounts Payable,0,1091.96
+739,Description:,Added to inventory,,,,
+739,2032-12-28,301,Owner's Equity,0,1.1641532182693481e-10
+740,2032-12-28,502,Rent Expense,1242.74,0
+740,2032-12-28,503,Salary Expense,4156.28,0
+740,2032-12-28,101,Cash,0,5399.0199999999995
+740,Description:,Operational costs deducted,,,,
+740,2033-01-05,301,Owner's Equity,5399.020000000019,0
+741,2033-01-05,101,Cash,0,7329.59
+741,2033-01-05,202,Loan Payable,7329.59,0
+741,Description:,Loan account adjustments,,,,
+742,2033-01-09,201,Accounts Payable,700.43,0
+742,2033-01-09,101,Cash,0,700.43
+742,Description:,Paid off a creditor,,,,
+742,2033-01-19,301,Owner's Equity,0,1.1641532182693481e-10
+743,2033-01-19,103,Inventory,1824.52,0
+743,2033-01-19,201,Accounts Payable,0,1824.52
+743,Description:,Restocking products,,,,
+744,2033-01-25,101,Cash,6026.36,0
+744,2033-01-25,202,Loan Payable,0,6026.36
+744,Description:,Loan activity,,,,
+745,2033-01-26,101,Cash,0,8449.1
+745,2033-01-26,202,Loan Payable,8449.1,0
+745,Description:,Loan activity,,,,
+746,2033-01-31,201,Accounts Payable,1678.58,0
+746,2033-01-31,101,Cash,0,1678.58
+746,Description:,Paid off a creditor,,,,
+746,2033-02-01,301,Owner's Equity,1.1641532182693481e-10,0
+747,2033-02-01,103,Inventory,3842.9,0
+747,2033-02-01,201,Accounts Payable,0,3842.9
+747,Description:,Restocking products,,,,
+747,2033-02-11,301,Owner's Equity,1.1641532182693481e-10,0
+748,2033-02-11,401,Sales Revenue,0,3704.31
+748,2033-02-11,501,Cost of Goods Sold,2407.8015,0
+748,2033-02-11,103,Inventory,0,2407.8015
+748,2033-02-11,101,Cash,3704.31,0
+748,Description:,Items sold,,,,
+748,2033-02-19,301,Owner's Equity,0,1296.5085000001127
+749,2033-02-19,101,Cash,0,7824.84
+749,2033-02-19,202,Loan Payable,7824.84,0
+749,Description:,Loan account adjustments,,,,
+750,2033-02-25,103,Inventory,828.41,0
+750,2033-02-25,201,Accounts Payable,0,828.41
+750,Description:,Added to inventory,,,,
+750,2033-03-04,301,Owner's Equity,0,1.1641532182693481e-10
+751,2033-03-04,201,Accounts Payable,1577.17,0
+751,2033-03-04,101,Cash,0,1577.17
+751,Description:,Debt payment,,,,
+752,2033-03-13,103,Inventory,937.48,0
+752,2033-03-13,201,Accounts Payable,0,937.48
+752,Description:,Goods purchased,,,,
+753,2033-03-15,101,Cash,0,9252.9
+753,2033-03-15,202,Loan Payable,9252.9,0
+753,Description:,Loan account adjustments,,,,
+754,2033-03-20,201,Accounts Payable,1407.05,0
+754,2033-03-20,101,Cash,0,1407.05
+754,Description:,Paid off a creditor,,,,
+755,2033-03-25,103,Inventory,696.76,0
+755,2033-03-25,201,Accounts Payable,0,696.76
+755,Description:,Added to inventory,,,,
+756,2033-03-28,103,Inventory,2452.14,0
+756,2033-03-28,201,Accounts Payable,0,2452.14
+756,Description:,Restocking products,,,,
+756,2033-04-03,301,Owner's Equity,1.1641532182693481e-10,0
+757,2033-04-03,101,Cash,0,5586.54
+757,2033-04-03,202,Loan Payable,5586.54,0
+757,Description:,Loan activity,,,,
+758,2033-04-04,401,Sales Revenue,0,4438.84
+758,2033-04-04,501,Cost of Goods Sold,2885.246,0
+758,2033-04-04,103,Inventory,0,2885.246
+758,2033-04-04,102,Accounts Receivable,4438.84,0
+758,Description:,Items sold,,,,
+758,2033-04-13,301,Owner's Equity,0,1553.594000000041
+759,2033-04-13,401,Sales Revenue,0,3954.84
+759,2033-04-13,501,Cost of Goods Sold,2570.646,0
+759,2033-04-13,103,Inventory,0,2570.646
+759,2033-04-13,102,Accounts Receivable,3954.84,0
+759,Description:,Sales completed,,,,
+759,2033-04-22,301,Owner's Equity,0,1384.1940000000177
+760,2033-04-22,103,Inventory,3358.87,0
+760,2033-04-22,201,Accounts Payable,0,3358.87
+760,Description:,Goods purchased,,,,
+760,2033-04-25,301,Owner's Equity,0,2.3283064365386963e-10
+761,2033-04-25,401,Sales Revenue,0,10463.29
+761,2033-04-25,501,Cost of Goods Sold,6801.138500000001,0
+761,2033-04-25,103,Inventory,0,6801.138500000001
+761,2033-04-25,102,Accounts Receivable,10463.29,0
+761,Description:,Items sold,,,,
+761,2033-05-05,301,Owner's Equity,0,3662.15149999992
+762,2033-05-05,401,Sales Revenue,0,6842.21
+762,2033-05-05,501,Cost of Goods Sold,4447.4365,0
+762,2033-05-05,103,Inventory,0,4447.4365
+762,2033-05-05,102,Accounts Receivable,6842.21,0
+762,Description:,Sales completed,,,,
+762,2033-05-07,301,Owner's Equity,0,2394.7735000000102
+763,Description:,Sales completed,,,,
+764,2033-05-17,502,Rent Expense,2064.76,0
+764,2033-05-17,503,Salary Expense,2868.16,0
+764,2033-05-17,101,Cash,0,4932.92
+764,Description:,Operational costs deducted,,,,
+764,2033-05-24,301,Owner's Equity,4932.9199999999255,0
+765,2033-05-24,101,Cash,0,7968.63
+765,2033-05-24,202,Loan Payable,7968.63,0
+765,Description:,Loan activity,,,,
+766,2033-05-30,201,Accounts Payable,1794.83,0
+766,2033-05-30,101,Cash,0,1794.83
+766,Description:,Reduced payable amount,,,,
+766,2033-06-09,301,Owner's Equity,1.1641532182693481e-10,0
+767,2033-06-09,401,Sales Revenue,0,2298.67
+767,2033-06-09,501,Cost of Goods Sold,1494.1355,0
+767,2033-06-09,103,Inventory,0,1494.1355
+767,2033-06-09,101,Cash,2298.67,0
+767,Description:,Sales completed,,,,
+767,2033-06-19,301,Owner's Equity,0,804.5344999999506
+768,2033-06-19,201,Accounts Payable,848.27,0
+768,2033-06-19,101,Cash,0,848.27
+768,Description:,Paid off a creditor,,,,
+768,2033-06-28,301,Owner's Equity,1.1641532182693481e-10,0
+769,2033-06-28,502,Rent Expense,1134.74,0
+769,2033-06-28,503,Salary Expense,3411.18,0
+769,2033-06-28,101,Cash,0,4545.92
+769,Description:,Operational costs deducted,,,,
+769,2033-06-29,301,Owner's Equity,4545.9199999999255,0
+770,2033-06-29,103,Inventory,1133.98,0
+770,2033-06-29,201,Accounts Payable,0,1133.98
+770,Description:,Added to inventory,,,,
+771,Description:,Items sold,,,,
+772,Description:,Items sold,ANOMALY,,,
+773,2033-07-26,101,Cash,98875.40000000001,0
+773,2033-07-26,202,Loan Payable,0,98875.40000000001
+773,Description:,Loan activity,ANOMALY,,,
+773,2033-07-30,301,Owner's Equity,1.1641532182693481e-10,0
+774,2033-07-30,201,Accounts Payable,519.12,0
+774,2033-07-30,101,Cash,0,519.12
+774,Description:,Debt payment,,,,
+774,2033-07-31,301,Owner's Equity,1.1641532182693481e-10,0
+775,2033-07-31,201,Accounts Payable,721.33,0
+775,2033-07-31,101,Cash,0,721.33
+775,Description:,Paid off a creditor,,,,
+776,2033-08-08,201,Accounts Payable,926.32,0
+776,2033-08-08,101,Cash,0,926.32
+776,Description:,Paid off a creditor,,,,
+776,2033-08-10,301,Owner's Equity,1.1641532182693481e-10,0
+777,2033-08-10,103,Inventory,849.45,0
+777,2033-08-10,201,Accounts Payable,0,849.45
+777,Description:,Added to inventory,,,,
+777,2033-08-16,301,Owner's Equity,1.1641532182693481e-10,0
+778,Description:,Sales completed,,,,
+779,2033-08-25,103,Inventory,1263.47,0
+779,2033-08-25,201,Accounts Payable,0,1263.47
+779,Description:,Goods purchased,,,,
+779,2033-09-04,301,Owner's Equity,0,1.1641532182693481e-10
+780,2033-09-04,401,Sales Revenue,0,6405.76
+780,2033-09-04,501,Cost of Goods Sold,4163.744000000001,0
+780,2033-09-04,103,Inventory,0,4163.744000000001
+780,2033-09-04,101,Cash,6405.76,0
+780,Description:,Sales completed,,,,
+780,2033-09-08,301,Owner's Equity,0,2242.015999999945
+781,2033-09-08,103,Inventory,4143.06,0
+781,2033-09-08,201,Accounts Payable,0,4143.06
+781,Description:,Added to inventory,,,,
+781,2033-09-11,301,Owner's Equity,0,1.1641532182693481e-10
+782,2033-09-11,201,Accounts Payable,1305.23,0
+782,2033-09-11,101,Cash,0,1305.23
+782,Description:,Reduced payable amount,,,,
+783,2033-09-12,103,Inventory,3685.12,0
+783,2033-09-12,201,Accounts Payable,0,3685.12
+783,Description:,Restocking products,,,,
+784,2033-09-21,101,Cash,0,9793.59
+784,2033-09-21,202,Loan Payable,9793.59,0
+784,Description:,Loan account adjustments,,,,
+784,2033-09-30,301,Owner's Equity,1.1641532182693481e-10,0
+785,2033-09-30,101,Cash,0,7226.61
+785,2033-09-30,202,Loan Payable,7226.61,0
+785,Description:,Loan activity,,,,
+785,2033-10-03,301,Owner's Equity,1.1641532182693481e-10,0
+786,2033-10-03,401,Sales Revenue,0,6552.65
+786,2033-10-03,501,Cost of Goods Sold,4259.2225,0
+786,2033-10-03,103,Inventory,0,4259.2225
+786,2033-10-03,101,Cash,6552.65,0
+786,Description:,Goods exchanged for money,,,,
+786,2033-10-08,301,Owner's Equity,0,2293.4274999998743
+787,Description:,Sales completed,,,,
+788,2033-10-14,201,Accounts Payable,1903.05,0
+788,2033-10-14,101,Cash,0,1903.05
+788,Description:,Reduced payable amount,,,,
+789,Description:,Goods exchanged for money,,,,
+790,2033-11-02,401,Sales Revenue,0,6841.19
+790,2033-11-02,501,Cost of Goods Sold,4446.7735,0
+790,2033-11-02,103,Inventory,0,4446.7735
+790,2033-11-02,101,Cash,6841.19,0
+790,Description:,Sales completed,,,,
+790,2033-11-12,301,Owner's Equity,0,2394.416499999934
+791,2033-11-12,103,Inventory,3728.26,0
+791,2033-11-12,201,Accounts Payable,0,3728.26
+791,Description:,Goods purchased,,,,
+792,2033-11-21,401,Sales Revenue,0,3146.08
+792,2033-11-21,501,Cost of Goods Sold,2044.952,0
+792,2033-11-21,103,Inventory,0,2044.952
+792,2033-11-21,102,Accounts Receivable,3146.08,0
+792,Description:,Sales completed,,,,
+792,2033-11-28,301,Owner's Equity,0,1101.1279999999097
+793,2033-11-28,101,Cash,0,7763.52
+793,2033-11-28,202,Loan Payable,7763.52,0
+793,Description:,Loan activity,,,,
+793,2033-11-29,301,Owner's Equity,2.3283064365386963e-10,0
+794,Description:,Goods exchanged for money,,,,
+795,2033-12-02,101,Cash,0,8507.0
+795,2033-12-02,202,Loan Payable,8507.0,0
+795,Description:,Bank interactions,,,,
+796,2033-12-11,103,Inventory,1195.89,0
+796,2033-12-11,201,Accounts Payable,0,1195.89
+796,Description:,Added to inventory,,,,
+796,2033-12-12,301,Owner's Equity,0,1.1641532182693481e-10
+797,Description:,Items sold,,,,
+798,2033-12-19,201,Accounts Payable,1236.98,0
+798,2033-12-19,101,Cash,0,1236.98
+798,Description:,Reduced payable amount,,,,
+799,2033-12-27,103,Inventory,3484.66,0
+799,2033-12-27,201,Accounts Payable,0,3484.66
+799,Description:,Restocking products,,,,
+800,2033-12-30,401,Sales Revenue,0,4000.91
+800,2033-12-30,501,Cost of Goods Sold,2600.5915,0
+800,2033-12-30,103,Inventory,0,2600.5915
+800,2033-12-30,101,Cash,4000.91,0
+800,Description:,Sales completed,,,,
+800,2034-01-08,301,Owner's Equity,0,1400.3184999999357
+801,2034-01-08,502,Rent Expense,2202.85,0
+801,2034-01-08,503,Salary Expense,4599.58,0
+801,2034-01-08,101,Cash,0,6802.43
+801,Description:,Regular expenses,,,,
+801,2034-01-18,301,Owner's Equity,6802.429999999935,0
+802,2034-01-18,401,Sales Revenue,0,2357.87
+802,2034-01-18,501,Cost of Goods Sold,1532.6154999999999,0
+802,2034-01-18,103,Inventory,0,1532.6154999999999
+802,2034-01-18,102,Accounts Receivable,2357.87,0
+802,Description:,Sales completed,,,,
+802,2034-01-27,301,Owner's Equity,0,825.2545000000391
+803,2034-01-27,101,Cash,0,9235.86
+803,2034-01-27,202,Loan Payable,9235.86,0
+803,Description:,Bank interactions,,,,
+804,2034-01-31,201,Accounts Payable,976.72,0
+804,2034-01-31,101,Cash,0,976.72
+804,Description:,Reduced payable amount,,,,
+805,2034-02-01,101,Cash,5295.15,0
+805,2034-02-01,202,Loan Payable,0,5295.15
+805,Description:,Bank interactions,,,,
+806,2034-02-06,201,Accounts Payable,663.35,0
+806,2034-02-06,101,Cash,0,663.35
+806,Description:,Paid off a creditor,,,,
+806,2034-02-13,301,Owner's Equity,1.1641532182693481e-10,0
+807,2034-02-13,101,Cash,0,6453.24
+807,2034-02-13,202,Loan Payable,6453.24,0
+807,Description:,Loan account adjustments,,,,
+808,Description:,Items sold,ANOMALY,,,
+809,2034-02-20,201,Accounts Payable,1086.32,0
+809,2034-02-20,101,Cash,0,1086.32
+809,Description:,Reduced payable amount,,,,
+810,2034-02-27,101,Cash,0,9389.03
+810,2034-02-27,202,Loan Payable,9389.03,0
+810,Description:,Loan account adjustments,,,,
+811,2034-03-01,201,Accounts Payable,1742.75,0
+811,2034-03-01,101,Cash,0,1742.75
+811,Description:,Debt payment,,,,
+812,Description:,Items sold,,,,
+813,2034-03-19,103,Inventory,2049.54,0
+813,2034-03-19,201,Accounts Payable,0,2049.54
+813,Description:,Added to inventory,,,,
+813,2034-03-20,301,Owner's Equity,1.1641532182693481e-10,0
+814,2034-03-20,401,Sales Revenue,0,5004.78
+814,2034-03-20,501,Cost of Goods Sold,3253.107,0
+814,2034-03-20,103,Inventory,0,3253.107
+814,2034-03-20,101,Cash,5004.78,0
+814,Description:,Goods exchanged for money,,,,
+814,2034-03-28,301,Owner's Equity,0,1751.673000000068
+815,2034-03-28,101,Cash,0,8942.27
+815,2034-03-28,202,Loan Payable,8942.27,0
+815,Description:,Loan account adjustments,,,,
+816,Description:,Goods exchanged for money,,,,
+817,Description:,Items sold,ANOMALY,,,
+818,2034-04-22,201,Accounts Payable,1002.63,0
+818,2034-04-22,101,Cash,0,1002.63
+818,Description:,Reduced payable amount,,,,
+818,2034-04-29,301,Owner's Equity,0,1.1641532182693481e-10
+819,2034-04-29,103,Inventory,3772.74,0
+819,2034-04-29,201,Accounts Payable,0,3772.74
+819,Description:,Restocking products,,,,
+820,2034-05-08,103,Inventory,2605.55,0
+820,2034-05-08,201,Accounts Payable,0,2605.55
+820,Description:,Goods purchased,,,,
+820,2034-05-17,301,Owner's Equity,0,1.1641532182693481e-10
+821,2034-05-17,103,Inventory,2107.67,0
+821,2034-05-17,201,Accounts Payable,0,2107.67
+821,Description:,Goods purchased,,,,
+821,2034-05-19,301,Owner's Equity,1.1641532182693481e-10,0
+822,2034-05-19,401,Sales Revenue,0,10164.19
+822,2034-05-19,501,Cost of Goods Sold,6606.723500000001,0
+822,2034-05-19,103,Inventory,0,6606.723500000001
+822,2034-05-19,101,Cash,10164.19,0
+822,Description:,Goods exchanged for money,,,,
+822,2034-05-22,301,Owner's Equity,0,3557.4664999999804
+823,Description:,Goods exchanged for money,,,,
+824,2034-05-30,201,Accounts Payable,677.84,0
+824,2034-05-30,101,Cash,0,677.84
+824,Description:,Paid off a creditor,,,,
+824,2034-05-31,301,Owner's Equity,1.1641532182693481e-10,0
+825,2034-05-31,401,Sales Revenue,0,3687.58
+825,2034-05-31,501,Cost of Goods Sold,2396.927,0
+825,2034-05-31,103,Inventory,0,2396.927
+825,2034-05-31,101,Cash,3687.58,0
+825,Description:,Goods exchanged for money,,,,
+825,2034-06-05,301,Owner's Equity,0,1290.6530000000494
+826,2034-06-05,103,Inventory,2721.77,0
+826,2034-06-05,201,Accounts Payable,0,2721.77
+826,Description:,Restocking products,,,,
+827,2034-06-10,502,Rent Expense,19423.5,0
+827,2034-06-10,503,Salary Expense,57362.299999999996,0
+827,2034-06-10,101,Cash,0,76785.79999999999
+827,Description:,Operational costs deducted,ANOMALY,,,
+827,2034-06-11,301,Owner's Equity,76785.80000000005,0
+828,2034-06-11,401,Sales Revenue,0,3318.84
+828,2034-06-11,501,Cost of Goods Sold,2157.246,0
+828,2034-06-11,103,Inventory,0,2157.246
+828,2034-06-11,101,Cash,3318.84,0
+828,Description:,Items sold,,,,
+828,2034-06-15,301,Owner's Equity,0,1161.594000000041
+829,2034-06-15,101,Cash,0,7005.16
+829,2034-06-15,202,Loan Payable,7005.16,0
+829,Description:,Loan account adjustments,,,,
+830,Description:,Items sold,ANOMALY,,,
+831,2034-07-03,201,Accounts Payable,941.15,0
+831,2034-07-03,101,Cash,0,941.15
+831,Description:,Debt payment,,,,
+831,2034-07-06,301,Owner's Equity,0,2.3283064365386963e-10
+832,2034-07-06,101,Cash,0,6920.39
+832,2034-07-06,202,Loan Payable,6920.39,0
+832,Description:,Loan activity,,,,
+833,2034-07-07,201,Accounts Payable,1465.46,0
+833,2034-07-07,101,Cash,0,1465.46
+833,Description:,Reduced payable amount,,,,
+834,2034-07-11,101,Cash,0,7212.32
+834,2034-07-11,202,Loan Payable,7212.32,0
+834,Description:,Loan activity,,,,
+835,Description:,Items sold,,,,
+836,2034-07-23,201,Accounts Payable,1135.15,0
+836,2034-07-23,101,Cash,0,1135.15
+836,Description:,Debt payment,,,,
+836,2034-07-25,301,Owner's Equity,0,1.1641532182693481e-10
+837,2034-07-25,201,Accounts Payable,1702.67,0
+837,2034-07-25,101,Cash,0,1702.67
+837,Description:,Debt payment,,,,
+837,2034-07-26,301,Owner's Equity,0,1.1641532182693481e-10
+838,2034-07-26,101,Cash,0,5001.76
+838,2034-07-26,202,Loan Payable,5001.76,0
+838,Description:,Loan account adjustments,,,,
+839,2034-07-29,103,Inventory,3606.55,0
+839,2034-07-29,201,Accounts Payable,0,3606.55
+839,Description:,Added to inventory,,,,
+840,2034-08-04,401,Sales Revenue,0,8556.02
+840,2034-08-04,501,Cost of Goods Sold,5561.4130000000005,0
+840,2034-08-04,103,Inventory,0,5561.4130000000005
+840,2034-08-04,101,Cash,8556.02,0
+840,Description:,Items sold,,,,
+840,2034-08-09,301,Owner's Equity,0,2994.60699999996
+841,2034-08-09,101,Cash,0,74985.5
+841,2034-08-09,202,Loan Payable,74985.5,0
+841,Description:,Bank interactions,ANOMALY,,,
+842,2034-08-18,101,Cash,0,7980.6
+842,2034-08-18,202,Loan Payable,7980.6,0
+842,Description:,Loan account adjustments,,,,
+843,2034-08-26,101,Cash,0,7163.45
+843,2034-08-26,202,Loan Payable,7163.45,0
+843,Description:,Bank interactions,,,,
+844,2034-08-28,101,Cash,0,9965.54
+844,2034-08-28,202,Loan Payable,9965.54,0
+844,Description:,Loan activity,,,,
+845,2034-09-01,103,Inventory,4517.73,0
+845,2034-09-01,201,Accounts Payable,0,4517.73
+845,Description:,Restocking products,,,,
+845,2034-09-06,301,Owner's Equity,0,1.1641532182693481e-10
+846,2034-09-06,401,Sales Revenue,0,2918.37
+846,2034-09-06,501,Cost of Goods Sold,1896.9405,0
+846,2034-09-06,103,Inventory,0,1896.9405
+846,2034-09-06,102,Accounts Receivable,2918.37,0
+846,Description:,Items sold,,,,
+846,2034-09-11,301,Owner's Equity,0,1021.4294999999693
+847,2034-09-11,201,Accounts Payable,1972.04,0
+847,2034-09-11,101,Cash,0,1972.04
+847,Description:,Debt payment,,,,
+848,2034-09-20,101,Cash,0,6107.92
+848,2034-09-20,202,Loan Payable,6107.92,0
+848,Description:,Loan activity,,,,
+849,2034-09-28,201,Accounts Payable,1873.28,0
+849,2034-09-28,101,Cash,0,1873.28
+849,Description:,Paid off a creditor,,,,
+850,2034-10-01,201,Accounts Payable,1130.93,0
+850,2034-10-01,101,Cash,0,1130.93
+850,Description:,Paid off a creditor,,,,
+851,2034-10-05,201,Accounts Payable,1690.73,0
+851,2034-10-05,101,Cash,0,1690.73
+851,Description:,Reduced payable amount,,,,
+852,2034-10-06,201,Accounts Payable,538.96,0
+852,2034-10-06,101,Cash,0,538.96
+852,Description:,Debt payment,,,,
+853,2034-10-07,201,Accounts Payable,1050.02,0
+853,2034-10-07,101,Cash,0,1050.02
+853,Description:,Debt payment,,,,
+854,2034-10-17,101,Cash,0,5091.0
+854,2034-10-17,202,Loan Payable,5091.0,0
+854,Description:,Loan account adjustments,,,,
+855,2034-10-22,401,Sales Revenue,0,3697.2
+855,2034-10-22,501,Cost of Goods Sold,2403.18,0
+855,2034-10-22,103,Inventory,0,2403.18
+855,2034-10-22,102,Accounts Receivable,3697.2,0
+855,Description:,Items sold,,,,
+855,2034-10-26,301,Owner's Equity,0,1294.0200000000186
+856,2034-10-26,201,Accounts Payable,843.3,0
+856,2034-10-26,101,Cash,0,843.3
+856,Description:,Debt payment,,,,
+857,2034-11-02,201,Accounts Payable,914.1,0
+857,2034-11-02,101,Cash,0,914.1
+857,Description:,Reduced payable amount,,,,
+857,2034-11-08,301,Owner's Equity,1.1641532182693481e-10,0
+858,Description:,Sales completed,ANOMALY,,,
+859,2034-11-17,101,Cash,0,9976.42
+859,2034-11-17,202,Loan Payable,9976.42,0
+859,Description:,Bank interactions,,,,
+860,2034-11-18,502,Rent Expense,1489.94,0
+860,2034-11-18,503,Salary Expense,2333.76,0
+860,2034-11-18,101,Cash,0,3823.7000000000003
+860,Description:,Operational costs deducted,,,,
+860,2034-11-25,301,Owner's Equity,3823.6999999999534,0
+861,Description:,Sales completed,,,,
+862,2034-12-04,103,Inventory,3825.26,0
+862,2034-12-04,201,Accounts Payable,0,3825.26
+862,Description:,Goods purchased,,,,
+863,2034-12-07,401,Sales Revenue,0,2621.54
+863,2034-12-07,501,Cost of Goods Sold,1704.001,0
+863,2034-12-07,103,Inventory,0,1704.001
+863,2034-12-07,101,Cash,2621.54,0
+863,Description:,Items sold,,,,
+863,2034-12-08,301,Owner's Equity,0,917.5390000001062
+864,2034-12-08,201,Accounts Payable,1713.64,0
+864,2034-12-08,101,Cash,0,1713.64
+864,Description:,Paid off a creditor,,,,
+864,2034-12-14,301,Owner's Equity,0,1.1641532182693481e-10
+865,Description:,Items sold,,,,
+866,2034-12-20,101,Cash,0,6615.51
+866,2034-12-20,202,Loan Payable,6615.51,0
+866,Description:,Bank interactions,,,,
+867,2034-12-21,201,Accounts Payable,971.42,0
+867,2034-12-21,101,Cash,0,971.42
+867,Description:,Paid off a creditor,,,,
+868,2034-12-23,103,Inventory,3330.54,0
+868,2034-12-23,201,Accounts Payable,0,3330.54
+868,Description:,Added to inventory,,,,
+869,2035-01-01,103,Inventory,3332.98,0
+869,2035-01-01,201,Accounts Payable,0,3332.98
+869,Description:,Added to inventory,,,,
+870,2035-01-08,103,Inventory,1475.03,0
+870,2035-01-08,201,Accounts Payable,0,1475.03
+870,Description:,Added to inventory,,,,
+871,2035-01-18,201,Accounts Payable,981.99,0
+871,2035-01-18,101,Cash,0,981.99
+871,Description:,Reduced payable amount,,,,
+872,Description:,Items sold,ANOMALY,,,
+873,2035-02-03,201,Accounts Payable,875.47,0
+873,2035-02-03,101,Cash,0,875.47
+873,Description:,Paid off a creditor,,,,
+874,2035-02-05,101,Cash,0,6356.05
+874,2035-02-05,202,Loan Payable,6356.05,0
+874,Description:,Bank interactions,,,,
+875,2035-02-09,401,Sales Revenue,0,6664.72
+875,2035-02-09,501,Cost of Goods Sold,4332.068,0
+875,2035-02-09,103,Inventory,0,4332.068
+875,2035-02-09,101,Cash,6664.72,0
+875,Description:,Goods exchanged for money,,,,
+875,2035-02-12,301,Owner's Equity,0,2332.652000000002
+876,2035-02-12,401,Sales Revenue,0,2933.76
+876,2035-02-12,501,Cost of Goods Sold,1906.9440000000002,0
+876,2035-02-12,103,Inventory,0,1906.9440000000002
+876,2035-02-12,102,Accounts Receivable,2933.76,0
+876,Description:,Items sold,,,,
+876,2035-02-13,301,Owner's Equity,0,1026.8159999999916
+877,2035-02-13,201,Accounts Payable,1454.66,0
+877,2035-02-13,101,Cash,0,1454.66
+877,Description:,Paid off a creditor,,,,
+877,2035-02-18,301,Owner's Equity,0,1.1641532182693481e-10
+878,2035-02-18,201,Accounts Payable,1386.3,0
+878,2035-02-18,101,Cash,0,1386.3
+878,Description:,Paid off a creditor,,,,
+878,2035-02-22,301,Owner's Equity,1.1641532182693481e-10,0
+879,2035-02-22,502,Rent Expense,2223.77,0
+879,2035-02-22,503,Salary Expense,3251.48,0
+879,2035-02-22,101,Cash,0,5475.25
+879,Description:,Operational costs deducted,,,,
+879,2035-02-28,301,Owner's Equity,5475.25,0
+880,2035-02-28,201,Accounts Payable,740.18,0
+880,2035-02-28,101,Cash,0,740.18
+880,Description:,Debt payment,,,,
+880,2035-03-03,301,Owner's Equity,0,1.1641532182693481e-10
+881,2035-03-03,201,Accounts Payable,1105.85,0
+881,2035-03-03,101,Cash,0,1105.85
+881,Description:,Paid off a creditor,,,,
+881,2035-03-13,301,Owner's Equity,2.3283064365386963e-10,0
+882,2035-03-13,401,Sales Revenue,0,2233.21
+882,2035-03-13,501,Cost of Goods Sold,1451.5865000000001,0
+882,2035-03-13,103,Inventory,0,1451.5865000000001
+882,2035-03-13,101,Cash,2233.21,0
+882,Description:,Goods exchanged for money,,,,
+882,2035-03-18,301,Owner's Equity,0,781.623499999987
+883,2035-03-18,101,Cash,7273.08,0
+883,2035-03-18,202,Loan Payable,0,7273.08
+883,Description:,Loan activity,,,,
+884,Description:,Items sold,,,,
+885,Description:,Goods exchanged for money,,,,
+886,2035-04-15,103,Inventory,4246.53,0
+886,2035-04-15,201,Accounts Payable,0,4246.53
+886,Description:,Goods purchased,,,,
+887,2035-04-22,401,Sales Revenue,0,2678.45
+887,2035-04-22,501,Cost of Goods Sold,1740.9924999999998,0
+887,2035-04-22,103,Inventory,0,1740.9924999999998
+887,2035-04-22,102,Accounts Receivable,2678.45,0
+887,Description:,Sales completed,,,,
+887,2035-04-24,301,Owner's Equity,0,937.4574999999022
+888,2035-04-24,103,Inventory,1259.24,0
+888,2035-04-24,201,Accounts Payable,0,1259.24
+888,Description:,Goods purchased,,,,
+889,2035-04-27,103,Inventory,550.11,0
+889,2035-04-27,201,Accounts Payable,0,550.11
+889,Description:,Added to inventory,,,,
+889,2035-05-04,301,Owner's Equity,0,1.1641532182693481e-10
+890,2035-05-04,401,Sales Revenue,0,10465.84
+890,2035-05-04,501,Cost of Goods Sold,6802.796,0
+890,2035-05-04,103,Inventory,0,6802.796
+890,2035-05-04,101,Cash,10465.84,0
+890,Description:,Sales completed,,,,
+890,2035-05-09,301,Owner's Equity,0,3663.044000000111
+891,2035-05-09,201,Accounts Payable,642.38,0
+891,2035-05-09,101,Cash,0,642.38
+891,Description:,Paid off a creditor,,,,
+892,Description:,Goods exchanged for money,,,,
+893,Description:,Sales completed,,,,
+894,Description:,Items sold,,,,
+895,Description:,Goods exchanged for money,,,,
+896,2035-06-11,101,Cash,0,6718.2
+896,2035-06-11,202,Loan Payable,6718.2,0
+896,Description:,Bank interactions,,,,
+897,2035-06-21,201,Accounts Payable,1514.98,0
+897,2035-06-21,101,Cash,0,1514.98
+897,Description:,Paid off a creditor,,,,
+898,2035-07-01,101,Cash,0,8425.18
+898,2035-07-01,202,Loan Payable,8425.18,0
+898,Description:,Bank interactions,,,,
+899,2035-07-07,101,Cash,5045.28,0
+899,2035-07-07,202,Loan Payable,0,5045.28
+899,Description:,Loan activity,,,,
+900,2035-07-16,103,Inventory,4210.95,0
+900,2035-07-16,201,Accounts Payable,0,4210.95
+900,Description:,Added to inventory,,,,
+901,2035-07-22,502,Rent Expense,1397.98,0
+901,2035-07-22,503,Salary Expense,2739.02,0
+901,2035-07-22,101,Cash,0,4137.0
+901,Description:,Monthly bills paid,,,,
+901,2035-07-27,301,Owner's Equity,4137.0,0
+902,2035-07-27,201,Accounts Payable,1956.35,0
+902,2035-07-27,101,Cash,0,1956.35
+902,Description:,Reduced payable amount,,,,
+902,2035-08-02,301,Owner's Equity,1.1641532182693481e-10,0
+903,2035-08-02,101,Cash,0,7850.25
+903,2035-08-02,202,Loan Payable,7850.25,0
+903,Description:,Loan account adjustments,,,,
+904,Description:,Items sold,,,,
+905,2035-08-08,502,Rent Expense,1878.08,0
+905,2035-08-08,503,Salary Expense,5162.82,0
+905,2035-08-08,101,Cash,0,7040.9
+905,Description:,Regular expenses,,,,
+905,2035-08-16,301,Owner's Equity,7040.89999999979,0
+906,2035-08-16,201,Accounts Payable,519.76,0
+906,2035-08-16,101,Cash,0,519.76
+906,Description:,Paid off a creditor,,,,
+907,2035-08-26,101,Cash,0,9205.08
+907,2035-08-26,202,Loan Payable,9205.08,0
+907,Description:,Loan activity,,,,
+908,2035-09-04,201,Accounts Payable,1984.79,0
+908,2035-09-04,101,Cash,0,1984.79
+908,Description:,Paid off a creditor,,,,
+909,2035-09-08,201,Accounts Payable,1077.95,0
+909,2035-09-08,101,Cash,0,1077.95
+909,Description:,Debt payment,,,,
+910,2035-09-18,201,Accounts Payable,601.34,0
+910,2035-09-18,101,Cash,0,601.34
+910,Description:,Reduced payable amount,,,,
+911,2035-09-23,401,Sales Revenue,0,4216.04
+911,2035-09-23,501,Cost of Goods Sold,2740.426,0
+911,2035-09-23,103,Inventory,0,2740.426
+911,2035-09-23,101,Cash,4216.04,0
+911,Description:,Sales completed,,,,
+911,2035-10-03,301,Owner's Equity,0,1475.6140000000596
+912,2035-10-03,502,Rent Expense,1944.01,0
+912,2035-10-03,503,Salary Expense,6059.72,0
+912,2035-10-03,101,Cash,0,8003.7300000000005
+912,Description:,Operational costs deducted,,,,
+912,2035-10-07,301,Owner's Equity,8003.729999999981,0
+913,Description:,Sales completed,,,,
+914,2035-10-10,101,Cash,0,6586.24
+914,2035-10-10,202,Loan Payable,6586.24,0
+914,Description:,Loan account adjustments,,,,
+915,2035-10-16,101,Cash,5259.49,0
+915,2035-10-16,202,Loan Payable,0,5259.49
+915,Description:,Loan account adjustments,,,,
+916,2035-10-18,103,Inventory,558.48,0
+916,2035-10-18,201,Accounts Payable,0,558.48
+916,Description:,Goods purchased,,,,
+917,2035-10-22,502,Rent Expense,1793.89,0
+917,2035-10-22,503,Salary Expense,5426.3,0
+917,2035-10-22,101,Cash,0,7220.1900000000005
+917,Description:,Operational costs deducted,,,,
+917,2035-10-27,301,Owner's Equity,7220.189999999944,0
+918,2035-10-27,201,Accounts Payable,14781.400000000001,0
+918,2035-10-27,101,Cash,0,14781.400000000001
+918,Description:,Reduced payable amount,ANOMALY,,,
+919,Description:,Sales completed,,,,
+920,2035-11-03,103,Inventory,1913.01,0
+920,2035-11-03,201,Accounts Payable,0,1913.01
+920,Description:,Restocking products,,,,
+921,2035-11-13,103,Inventory,2283.55,0
+921,2035-11-13,201,Accounts Payable,0,2283.55
+921,Description:,Restocking products,,,,
+922,2035-11-22,401,Sales Revenue,0,9834.74
+922,2035-11-22,501,Cost of Goods Sold,6392.581,0
+922,2035-11-22,103,Inventory,0,6392.581
+922,2035-11-22,101,Cash,9834.74,0
+922,Description:,Sales completed,,,,
+922,2035-11-27,301,Owner's Equity,0,3442.158999999985
+923,Description:,Goods exchanged for money,,,,
+924,2035-11-29,502,Rent Expense,1597.11,0
+924,2035-11-29,503,Salary Expense,3199.63,0
+924,2035-11-29,101,Cash,0,4796.74
+924,Description:,Operational costs deducted,,,,
+924,2035-12-04,301,Owner's Equity,4796.739999999991,0
+925,2035-12-04,103,Inventory,596.32,0
+925,2035-12-04,201,Accounts Payable,0,596.32
+925,Description:,Restocking products,,,,
+926,2035-12-12,201,Accounts Payable,1627.01,0
+926,2035-12-12,101,Cash,0,1627.01
+926,Description:,Reduced payable amount,,,,
+927,2035-12-22,103,Inventory,1526.47,0
+927,2035-12-22,201,Accounts Payable,0,1526.47
+927,Description:,Added to inventory,,,,
+928,Description:,Items sold,,,,
+929,Description:,Sales completed,ANOMALY,,,
+930,2036-01-17,201,Accounts Payable,1890.94,0
+930,2036-01-17,101,Cash,0,1890.94
+930,Description:,Paid off a creditor,,,,
+931,Description:,Items sold,,,,
+932,2036-01-22,101,Cash,8232.05,0
+932,2036-01-22,202,Loan Payable,0,8232.05
+932,Description:,Bank interactions,,,,
+933,2036-01-31,201,Accounts Payable,1629.49,0
+933,2036-01-31,101,Cash,0,1629.49
+933,Description:,Reduced payable amount,,,,
+934,2036-02-01,101,Cash,0,6500.09
+934,2036-02-01,202,Loan Payable,6500.09,0
+934,Description:,Bank interactions,,,,
+935,2036-02-03,201,Accounts Payable,970.9,0
+935,2036-02-03,101,Cash,0,970.9
+935,Description:,Reduced payable amount,,,,
+936,2036-02-08,401,Sales Revenue,0,2621.43
+936,2036-02-08,501,Cost of Goods Sold,1703.9295,0
+936,2036-02-08,103,Inventory,0,1703.9295
+936,2036-02-08,102,Accounts Receivable,2621.43,0
+936,Description:,Sales completed,,,,
+936,2036-02-11,301,Owner's Equity,0,917.500500000082
+937,Description:,Goods exchanged for money,,,,
+938,2036-02-14,103,Inventory,2193.98,0
+938,2036-02-14,201,Accounts Payable,0,2193.98
+938,Description:,Added to inventory,,,,
+939,2036-02-22,103,Inventory,4324.85,0
+939,2036-02-22,201,Accounts Payable,0,4324.85
+939,Description:,Goods purchased,,,,
+940,2036-03-01,201,Accounts Payable,988.61,0
+940,2036-03-01,101,Cash,0,988.61
+940,Description:,Paid off a creditor,,,,
+940,2036-03-06,301,Owner's Equity,2.3283064365386963e-10,0
+941,2036-03-06,101,Cash,9358.2,0
+941,2036-03-06,202,Loan Payable,0,9358.2
+941,Description:,Loan account adjustments,,,,
+942,2036-03-11,101,Cash,8551.53,0
+942,2036-03-11,202,Loan Payable,0,8551.53
+942,Description:,Loan account adjustments,,,,
+943,2036-03-13,101,Cash,0,8467.33
+943,2036-03-13,202,Loan Payable,8467.33,0
+943,Description:,Bank interactions,,,,
+944,2036-03-22,201,Accounts Payable,1514.37,0
+944,2036-03-22,101,Cash,0,1514.37
+944,Description:,Paid off a creditor,,,,
+945,2036-03-23,103,Inventory,4347.53,0
+945,2036-03-23,201,Accounts Payable,0,4347.53
+945,Description:,Added to inventory,,,,
+946,2036-04-01,201,Accounts Payable,1098.08,0
+946,2036-04-01,101,Cash,0,1098.08
+946,Description:,Reduced payable amount,,,,
+947,2036-04-10,101,Cash,0,7412.31
+947,2036-04-10,202,Loan Payable,7412.31,0
+947,Description:,Bank interactions,,,,
+948,2036-04-14,101,Cash,0,7041.56
+948,2036-04-14,202,Loan Payable,7041.56,0
+948,Description:,Loan account adjustments,,,,
+949,2036-04-20,401,Sales Revenue,0,8894.13
+949,2036-04-20,501,Cost of Goods Sold,5781.184499999999,0
+949,2036-04-20,103,Inventory,0,5781.184499999999
+949,2036-04-20,102,Accounts Receivable,8894.13,0
+949,Description:,Goods exchanged for money,,,,
+949,2036-04-23,301,Owner's Equity,0,3112.945500000147
+950,2036-04-23,201,Accounts Payable,780.92,0
+950,2036-04-23,101,Cash,0,780.92
+950,Description:,Debt payment,,,,
+951,2036-04-28,201,Accounts Payable,1108.81,0
+951,2036-04-28,101,Cash,0,1108.81
+951,Description:,Debt payment,,,,
+952,2036-05-02,201,Accounts Payable,1738.94,0
+952,2036-05-02,101,Cash,0,1738.94
+952,Description:,Paid off a creditor,,,,
+953,Description:,Goods exchanged for money,,,,
+954,2036-05-20,103,Inventory,855.33,0
+954,2036-05-20,201,Accounts Payable,0,855.33
+954,Description:,Goods purchased,,,,
+955,2036-05-30,401,Sales Revenue,0,7197.91
+955,2036-05-30,501,Cost of Goods Sold,4678.6415,0
+955,2036-05-30,103,Inventory,0,4678.6415
+955,2036-05-30,101,Cash,7197.91,0
+955,Description:,Items sold,,,,
+955,2036-06-08,301,Owner's Equity,0,2519.2684999997728
+956,2036-06-08,201,Accounts Payable,1856.05,0
+956,2036-06-08,101,Cash,0,1856.05
+956,Description:,Debt payment,,,,
+957,2036-06-14,103,Inventory,1758.35,0
+957,2036-06-14,201,Accounts Payable,0,1758.35
+957,Description:,Restocking products,,,,
+958,2036-06-17,103,Inventory,4243.27,0
+958,2036-06-17,201,Accounts Payable,0,4243.27
+958,Description:,Restocking products,,,,
+959,2036-06-26,401,Sales Revenue,0,7053.23
+959,2036-06-26,501,Cost of Goods Sold,4584.5995,0
+959,2036-06-26,103,Inventory,0,4584.5995
+959,2036-06-26,101,Cash,7053.23,0
+959,Description:,Items sold,,,,
+959,2036-07-01,301,Owner's Equity,0,2468.63049999997
+960,2036-07-01,201,Accounts Payable,517.19,0
+960,2036-07-01,101,Cash,0,517.19
+960,Description:,Debt payment,,,,
+960,2036-07-11,301,Owner's Equity,0,2.3283064365386963e-10
+961,2036-07-11,101,Cash,0,5139.71
+961,2036-07-11,202,Loan Payable,5139.71,0
+961,Description:,Loan activity,,,,
+962,2036-07-17,401,Sales Revenue,0,3447.0
+962,2036-07-17,501,Cost of Goods Sold,2240.55,0
+962,2036-07-17,103,Inventory,0,2240.55
+962,2036-07-17,101,Cash,3447.0,0
+962,Description:,Goods exchanged for money,,,,
+962,2036-07-20,301,Owner's Equity,0,1206.4499999999534
+963,2036-07-20,101,Cash,0,9182.61
+963,2036-07-20,202,Loan Payable,9182.61,0
+963,Description:,Loan activity,,,,
+964,Description:,Sales completed,,,,
+965,2036-07-31,201,Accounts Payable,1722.74,0
+965,2036-07-31,101,Cash,0,1722.74
+965,Description:,Paid off a creditor,,,,
+966,2036-08-10,103,Inventory,2510.05,0
+966,2036-08-10,201,Accounts Payable,0,2510.05
+966,Description:,Added to inventory,,,,
+967,2036-08-17,103,Inventory,29434.0,0
+967,2036-08-17,201,Accounts Payable,0,29434.0
+967,Description:,Restocking products,ANOMALY,,,
+968,2036-08-21,101,Cash,0,8851.68
+968,2036-08-21,202,Loan Payable,8851.68,0
+968,Description:,Loan activity,,,,
+969,2036-08-31,101,Cash,0,7752.59
+969,2036-08-31,202,Loan Payable,7752.59,0
+969,Description:,Loan activity,,,,
+970,2036-09-08,103,Inventory,3195.75,0
+970,2036-09-08,201,Accounts Payable,0,3195.75
+970,Description:,Goods purchased,,,,
+971,2036-09-10,401,Sales Revenue,0,9435.74
+971,2036-09-10,501,Cost of Goods Sold,6133.231,0
+971,2036-09-10,103,Inventory,0,6133.231
+971,2036-09-10,101,Cash,9435.74,0
+971,Description:,Sales completed,,,,
+971,2036-09-14,301,Owner's Equity,0,3302.5090000000782
+972,2036-09-14,201,Accounts Payable,1830.94,0
+972,2036-09-14,101,Cash,0,1830.94
+972,Description:,Paid off a creditor,,,,
+973,2036-09-21,201,Accounts Payable,762.61,0
+973,2036-09-21,101,Cash,0,762.61
+973,Description:,Debt payment,,,,
+974,2036-09-27,103,Inventory,629.73,0
+974,2036-09-27,201,Accounts Payable,0,629.73
+974,Description:,Goods purchased,,,,
+975,2036-09-30,201,Accounts Payable,1558.37,0
+975,2036-09-30,101,Cash,0,1558.37
+975,Description:,Debt payment,,,,
+975,2036-10-06,301,Owner's Equity,2.3283064365386963e-10,0
+976,2036-10-06,103,Inventory,2004.7,0
+976,2036-10-06,201,Accounts Payable,0,2004.7
+976,Description:,Restocking products,,,,
+977,2036-10-08,201,Accounts Payable,1339.3,0
+977,2036-10-08,101,Cash,0,1339.3
+977,Description:,Paid off a creditor,,,,
+978,2036-10-17,103,Inventory,1994.39,0
+978,2036-10-17,201,Accounts Payable,0,1994.39
+978,Description:,Restocking products,,,,
+978,2036-10-24,301,Owner's Equity,2.3283064365386963e-10,0
+979,2036-10-24,201,Accounts Payable,1493.41,0
+979,2036-10-24,101,Cash,0,1493.41
+979,Description:,Reduced payable amount,,,,
+980,2036-10-29,101,Cash,0,7023.04
+980,2036-10-29,202,Loan Payable,7023.04,0
+980,Description:,Loan activity,,,,
+981,2036-10-31,401,Sales Revenue,0,6899.47
+981,2036-10-31,501,Cost of Goods Sold,4484.655500000001,0
+981,2036-10-31,103,Inventory,0,4484.655500000001
+981,2036-10-31,102,Accounts Receivable,6899.47,0
+981,Description:,Sales completed,,,,
+981,2036-11-07,301,Owner's Equity,0,2414.814500000095
+982,2036-11-07,401,Sales Revenue,0,7351.05
+982,2036-11-07,501,Cost of Goods Sold,4778.1825,0
+982,2036-11-07,103,Inventory,0,4778.1825
+982,2036-11-07,101,Cash,7351.05,0
+982,Description:,Sales completed,,,,
+982,2036-11-09,301,Owner's Equity,0,2572.867499999935
+983,2036-11-09,103,Inventory,3048.88,0
+983,2036-11-09,201,Accounts Payable,0,3048.88
+983,Description:,Goods purchased,,,,
+983,2036-11-10,301,Owner's Equity,0,2.3283064365386963e-10
+984,2036-11-10,103,Inventory,15511.199999999999,0
+984,2036-11-10,201,Accounts Payable,0,15511.199999999999
+984,Description:,Goods purchased,ANOMALY,,,
+985,2036-11-14,201,Accounts Payable,16708.2,0
+985,2036-11-14,101,Cash,0,16708.2
+985,Description:,Paid off a creditor,ANOMALY,,,
+986,2036-11-22,201,Accounts Payable,658.05,0
+986,2036-11-22,101,Cash,0,658.05
+986,Description:,Reduced payable amount,,,,
+987,2036-12-01,401,Sales Revenue,0,6370.57
+987,2036-12-01,501,Cost of Goods Sold,4140.8705,0
+987,2036-12-01,103,Inventory,0,4140.8705
+987,2036-12-01,102,Accounts Receivable,6370.57,0
+987,Description:,Items sold,,,,
+987,2036-12-09,301,Owner's Equity,0,2229.6995000001043
+988,2036-12-09,101,Cash,0,5263.61
+988,2036-12-09,202,Loan Payable,5263.61,0
+988,Description:,Loan account adjustments,,,,
+988,2036-12-10,301,Owner's Equity,2.3283064365386963e-10,0
+989,Description:,Sales completed,ANOMALY,,,
+990,2036-12-15,103,Inventory,3924.67,0
+990,2036-12-15,201,Accounts Payable,0,3924.67
+990,Description:,Goods purchased,,,,
+990,2036-12-25,301,Owner's Equity,2.3283064365386963e-10,0
+991,2036-12-25,201,Accounts Payable,1496.76,0
+991,2036-12-25,101,Cash,0,1496.76
+991,Description:,Reduced payable amount,,,,
+991,2037-01-01,301,Owner's Equity,0,2.3283064365386963e-10
+992,2037-01-01,401,Sales Revenue,0,6543.37
+992,2037-01-01,501,Cost of Goods Sold,4253.1905,0
+992,2037-01-01,103,Inventory,0,4253.1905
+992,2037-01-01,101,Cash,6543.37,0
+992,Description:,Goods exchanged for money,,,,
+992,2037-01-06,301,Owner's Equity,0,2290.1795000000857
+993,2037-01-06,401,Sales Revenue,0,9962.96
+993,2037-01-06,501,Cost of Goods Sold,6475.924,0
+993,2037-01-06,103,Inventory,0,6475.924
+993,2037-01-06,101,Cash,9962.96,0
+993,Description:,Sales completed,,,,
+993,2037-01-14,301,Owner's Equity,0,3487.03600000008
+994,2037-01-14,101,Cash,0,8060.29
+994,2037-01-14,202,Loan Payable,8060.29,0
+994,Description:,Loan activity,,,,
+995,2037-01-17,103,Inventory,2004.12,0
+995,2037-01-17,201,Accounts Payable,0,2004.12
+995,Description:,Goods purchased,,,,
+996,2037-01-19,401,Sales Revenue,0,8183.9
+996,2037-01-19,501,Cost of Goods Sold,5319.535,0
+996,2037-01-19,103,Inventory,0,5319.535
+996,2037-01-19,101,Cash,8183.9,0
+996,Description:,Sales completed,,,,
+996,2037-01-22,301,Owner's Equity,0,2864.3649999999907
+997,2037-01-22,101,Cash,0,8903.32
+997,2037-01-22,202,Loan Payable,8903.32,0
+997,Description:,Loan activity,,,,
+997,2037-01-30,301,Owner's Equity,2.3283064365386963e-10,0
+998,2037-01-30,103,Inventory,1240.17,0
+998,2037-01-30,201,Accounts Payable,0,1240.17
+998,Description:,Restocking products,,,,
+999,2037-02-09,401,Sales Revenue,0,9869.77
+999,2037-02-09,501,Cost of Goods Sold,6415.3505000000005,0
+999,2037-02-09,103,Inventory,0,6415.3505000000005
+999,2037-02-09,102,Accounts Receivable,9869.77,0
+999,Description:,Sales completed,,,,
+999,2037-02-15,301,Owner's Equity,0,3454.4195000000764
+1000,2037-02-15,201,Accounts Payable,1097.88,0
+1000,2037-02-15,101,Cash,0,1097.88
+1000,Description:,Reduced payable amount,,,,
